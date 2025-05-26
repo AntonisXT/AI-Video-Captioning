@@ -1,9 +1,17 @@
 import os
+import sys
+import asyncio
 import torch
 torch.classes.__path__ = []
-# Environment fixes
+
+# Environment variables to avoid warnings και conflicts
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["PYTHONWARNINGS"] = "ignore::FutureWarning"
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"  # Fix OpenMP conflicts
+
+# Fix event loop issues
+if sys.platform.startswith('win'):
+    asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
 import streamlit as st
 import os
