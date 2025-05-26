@@ -1,3 +1,10 @@
+import os
+import torch
+torch.classes.__path__ = []
+# Environment fixes
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+os.environ["PYTHONWARNINGS"] = "ignore::FutureWarning"
+
 import streamlit as st
 import os
 import json
