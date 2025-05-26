@@ -1,0 +1,16 @@
+{
+  "video_id": "video6697",
+  "summary": "a man is playing tennis on a court",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a tennis match is being played on a clay court"
+    },
+    {
+      "start_time": 1,
+      "end_time": 15,
+      "caption": "a man is playing tennis on a court"
+    }
+  ]
+}

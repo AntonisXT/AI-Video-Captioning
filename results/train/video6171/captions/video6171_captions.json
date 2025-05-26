@@ -1,0 +1,26 @@
+{
+  "video_id": "video6171",
+  "summary": "a crane is lifting a large piece of wood",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a crane is on the ground in a construction site"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a large machine is working on a pile of dirt"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a crane is lifting a large piece of wood"
+    },
+    {
+      "start_time": 8,
+      "end_time": 25,
+      "caption": "a baseball player is walking on the field"
+    }
+  ]
+}

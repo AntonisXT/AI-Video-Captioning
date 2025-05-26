@@ -1,0 +1,31 @@
+{
+  "video_id": "video6399",
+  "summary": "a wrestling match with a man in the middle",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a wrestling match with a man in the middle"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a group of people playing a game of basketball"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a wrestling match with people watching"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a black jacket is standing on a red wrestling mat"
+    },
+    {
+      "start_time": 7,
+      "end_time": 14,
+      "caption": "a wrestling match with people watching"
+    }
+  ]
+}

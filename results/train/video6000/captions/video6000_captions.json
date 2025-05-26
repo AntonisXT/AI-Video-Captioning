@@ -1,0 +1,16 @@
+{
+  "video_id": "video6000",
+  "summary": "a man in a suit and tie is on the news",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "the daily news logo for the daily news"
+    },
+    {
+      "start_time": 2,
+      "end_time": 20,
+      "caption": "a man in a suit and tie is on the news"
+    }
+  ]
+}

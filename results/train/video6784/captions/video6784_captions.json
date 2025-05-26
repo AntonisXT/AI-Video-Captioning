@@ -1,0 +1,61 @@
+{
+  "video_id": "video6784",
+  "summary": "a group of people walking around a parking lot",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is seen in a video posted by the police"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is running on the street in the rain"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a man is playing tennis on the court"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a large stage with a large screen on it"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man in a baseball uniform is holding a baseball bat"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "caption": "a group of people walking across a field"
+    },
+    {
+      "start_time": 16,
+      "end_time": 18,
+      "caption": "a group of people walking around a parking lot"
+    },
+    {
+      "start_time": 19,
+      "end_time": 20,
+      "caption": "a man is sitting on the ground with his head down"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "caption": "a man is throwing a ball at another man"
+    },
+    {
+      "start_time": 21,
+      "end_time": 23,
+      "caption": "a person in a purple jacket is standing on the street"
+    },
+    {
+      "start_time": 23,
+      "end_time": 26,
+      "caption": "a group of men playing baseball in a stadium"
+    }
+  ]
+}

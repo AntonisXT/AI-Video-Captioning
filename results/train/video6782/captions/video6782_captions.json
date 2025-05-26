@@ -1,0 +1,26 @@
+{
+  "video_id": "video6782",
+  "summary": "a woman in white dress standing on stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a woman in white dress standing on stage"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman playing cellos on a stage"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a crowd of people sitting in a room"
+    },
+    {
+      "start_time": 10,
+      "end_time": 14,
+      "caption": "a large white tent"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "video_id": "video6331",
+  "summary": "a cartoon character flying through the air",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character in a car with a steering"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a cartoon character with a gun in his hand"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a cartoon picture of a barn with a bird in the window"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a cartoon character flying through the air"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "the little red house"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a cartoon scene with a man in a boat"
+    }
+  ]
+}

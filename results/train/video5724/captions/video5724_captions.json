@@ -1,0 +1,36 @@
+{
+  "video_id": "video5724",
+  "summary": "a man is riding an escalator down stairs",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is falling down the stairs"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people walking on a subway platform"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man is walking down the train platform"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man is walking down a hallway in a building"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a woman in a red dress is walking on the platform"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is riding an escalator down the stairs"
+    }
+  ]
+}

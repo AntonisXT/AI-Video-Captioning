@@ -1,0 +1,31 @@
+{
+  "video_id": "video6614",
+  "summary": "a woman in a blue dress is dancing in front of a fountain",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "taylor performing on the voice"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a woman in a dress singing into a microphone"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman in a white dress and angel wings"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a woman in a blue dress is dancing"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "caption": "a woman in a dress is dancing in front of a fountain"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video5854",
+  "summary": "a man in a striped shirt is standing outside a house",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "caption": "a man in a striped shirt is standing outside a house"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a striped shirt is holding a skateboard"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man in striped shirt standing next to a building"
+    }
+  ]
+}

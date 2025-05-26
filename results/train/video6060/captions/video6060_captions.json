@@ -1,0 +1,21 @@
+{
+  "video_id": "video6060",
+  "summary": "First, A woman in a black dress and glasses holding a red book. Next, A large white object on a blue and white background with a large white object. Finally, The kids are playing with each other.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "caption": "a woman in a black dress and glasses holding a red book"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a blue and white background with a large white object"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "the kids are playing with each other kids"
+    }
+  ]
+}

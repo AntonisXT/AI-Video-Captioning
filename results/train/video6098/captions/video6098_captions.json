@@ -1,0 +1,21 @@
+{
+  "video_id": "video6098",
+  "summary": "a person is cooking food in a pot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is cooking in the kitchen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a black background with a white text that reads, ` '"
+    },
+    {
+      "start_time": 2,
+      "end_time": 9,
+      "caption": "a person is cooking food in a pot"
+    }
+  ]
+}

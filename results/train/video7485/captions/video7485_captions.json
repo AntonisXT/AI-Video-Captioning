@@ -1,0 +1,31 @@
+{
+  "video_id": "video7485",
+  "summary": "a woman is playing a guitar in the woods",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a woman playing guitar in the woods"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a young girl standing next to a tree"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a group of people standing in the woods"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a woman sitting at a table with a globe in the background"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a woman in a suit is sitting at a desk"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video7237",
+  "summary": "a person using a pair of scissors to cut a piece of paper",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person cutting a piece of cake with a pair of scissors"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "a person is using a small piece of metal"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a person using a pair of scissors to cut a piece of paper"
+    }
+  ]
+}

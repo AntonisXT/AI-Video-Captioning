@@ -1,0 +1,26 @@
+{
+  "video_id": "video7292",
+  "summary": "a man in a black shirt is standing in the dark",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 9,
+      "caption": "a man in a black shirt is standing in the dark"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a man with a speech bubble in his mouth"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a person holding a ring in their hand"
+    },
+    {
+      "start_time": 14,
+      "end_time": 23,
+      "caption": "a close up of a magni with a red arrow"
+    }
+  ]
+}

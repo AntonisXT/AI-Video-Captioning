@@ -1,0 +1,41 @@
+{
+  "video_id": "video5707",
+  "summary": "a cartoon character with a gun and a sign that says ' i ' m '",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon bear with a knife in its mouth"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a cartoon character in a dark room with a light"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a cartoon character holding a knife and a knife"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a cartoon character pointing at a person in a room"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a cartoon character standing in front of a ferris"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a cartoon character with a red light on his head"
+    },
+    {
+      "start_time": 12,
+      "end_time": 17,
+      "caption": "a cartoon character with a gun and a sign that says, ' i ' m '"
+    }
+  ]
+}

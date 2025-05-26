@@ -1,0 +1,16 @@
+{
+  "video_id": "video5506",
+  "summary": "a man in a suit and tie is on a news",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man standing on a stage with a microphone"
+    },
+    {
+      "start_time": 3,
+      "end_time": 13,
+      "caption": "a man in a suit and tie is on a news"
+    }
+  ]
+}

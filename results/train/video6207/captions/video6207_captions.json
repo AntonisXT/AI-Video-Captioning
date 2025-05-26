@@ -1,0 +1,26 @@
+{
+  "video_id": "video6207",
+  "summary": "a man riding a bike down a dirt road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man riding a bike down a trail"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a person riding a bike down a dirt road"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a blur of a person riding a bike"
+    },
+    {
+      "start_time": 5,
+      "end_time": 29,
+      "caption": "a person riding a bike down a dirt road"
+    }
+  ]
+}

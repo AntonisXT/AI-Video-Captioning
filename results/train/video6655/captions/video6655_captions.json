@@ -1,0 +1,41 @@
+{
+  "video_id": "video6655",
+  "summary": "a group of men in uniform standing on a soccer field",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man with glasses on is looking at the camera"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a white shirt and glasses"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a group of men in uniform standing on a field"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man in a suit and tie"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man playing golf"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a group of people standing on a soccer field"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a man in a blue shirt is talking to another man"
+    }
+  ]
+}

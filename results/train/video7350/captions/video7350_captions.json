@@ -1,0 +1,26 @@
+{
+  "video_id": "video7350",
+  "summary": "a snake in a plastic container",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a snake in a plastic container"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a person is cleaning a blue plastic container"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a snake in a plastic container"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a tray of food"
+    }
+  ]
+}

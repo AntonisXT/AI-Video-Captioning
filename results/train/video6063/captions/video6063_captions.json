@@ -1,0 +1,21 @@
+{
+  "video_id": "video6063",
+  "summary": "a person is taking a picture of a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is taking a picture of a woman"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a woman with a cigarette in her mouth"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a woman with blue eyes and a man with a white shirt"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "video_id": "video6069",
+  "summary": "a man is in the middle of a boxing match",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a boxing match with two boxers fighting"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "floyd vs floyd"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a boxer is shown in the middle of the fight"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "floyd vs floyd"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a boxing match with two boxers fighting"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "caption": "a man is in the middle of a boxing match"
+    }
+  ]
+}

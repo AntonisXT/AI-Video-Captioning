@@ -1,0 +1,26 @@
+{
+  "video_id": "video6809",
+  "summary": "a man and woman dancing together",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man and woman laying on a bed"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a man and woman dancing together"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man and woman kissing in a room"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a man and woman standing on a beach"
+    }
+  ]
+}

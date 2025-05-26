@@ -1,0 +1,26 @@
+{
+  "video_id": "video7144",
+  "summary": "a woman in a white dress is dancing",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a woman in a wedding dress is putting her hair"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman in a white dress is dancing"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a group of women in white dresses sitting on a bed"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a woman in a white dress is dancing"
+    }
+  ]
+}

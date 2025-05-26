@@ -1,0 +1,26 @@
+{
+  "video_id": "video6675",
+  "summary": "a football game and a basketball game",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a basketball game"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a young hockey player is playing with the puck"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is skating on the ice rink"
+    },
+    {
+      "start_time": 7,
+      "end_time": 18,
+      "caption": "a football game"
+    }
+  ]
+}

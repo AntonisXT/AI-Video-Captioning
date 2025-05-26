@@ -1,0 +1,36 @@
+{
+  "video_id": "video6569",
+  "summary": "the jungle book",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "the jungle book"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a cartoon character is shown in the title of the movie jungle boy"
+    },
+    {
+      "start_time": 5,
+      "end_time": 12,
+      "caption": "the jungle book"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man hugging a woman in the jungle"
+    },
+    {
+      "start_time": 14,
+      "end_time": 18,
+      "caption": "a tiger is walking across a rocky area"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "caption": "a cartoon scene of a man and a bear"
+    }
+  ]
+}

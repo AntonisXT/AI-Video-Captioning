@@ -1,0 +1,26 @@
+{
+  "video_id": "video6994",
+  "summary": "a man in a red sweater is standing in a kitchen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character surrounded by vegetables"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon character holding a plate with the word ' s plate"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a man in a red sweater is standing in a kitchen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a white plate topped with a piece of meat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video7031",
+  "summary": "a woman and two children are dancing together",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman and two children are standing in front of a white wall"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of children running in a white room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman and a child are dancing together"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman is standing next to a little girl"
+    },
+    {
+      "start_time": 5,
+      "end_time": 11,
+      "caption": "a woman and two children are dancing together"
+    }
+  ]
+}

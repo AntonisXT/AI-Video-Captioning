@@ -1,0 +1,21 @@
+{
+  "video_id": "video6526",
+  "summary": "First, A woman is sitting on a bed with a cat. Next, Two girls in black dresses are posing for the camera. Finally, A woman in a bikini holds a surfboard.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman sitting on a bed with a cat"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "two girls in black dresses posing for the camera"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a woman in a bikini holding a surfboard"
+    }
+  ]
+}

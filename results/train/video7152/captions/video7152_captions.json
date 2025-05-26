@@ -1,0 +1,36 @@
+{
+  "video_id": "video7152",
+  "summary": "a man is jumping off a rock into a river",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 9,
+      "caption": "a waterfall in the middle of a forest"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a large rock in the water"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is jumping off a rock into a river"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a waterfall in the middle of a river"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man is standing on a rock in the water"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "caption": "a man is swimming in a river"
+    }
+  ]
+}

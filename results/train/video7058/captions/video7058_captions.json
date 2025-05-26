@@ -1,0 +1,26 @@
+{
+  "video_id": "video7058",
+  "summary": "a cartoon bunny holding a sign in front of a black and white checkered floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon bear standing on a checkered floor"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon character is playing with a teddy bear"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a cartoon character in a room with a black and white checker"
+    },
+    {
+      "start_time": 6,
+      "end_time": 12,
+      "caption": "a cartoon bunny holding a sign in front of a black and white checkered floor"
+    }
+  ]
+}

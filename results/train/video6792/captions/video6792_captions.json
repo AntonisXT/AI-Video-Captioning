@@ -1,0 +1,31 @@
+{
+  "video_id": "video6792",
+  "summary": "a video game showing a football game being played by a player",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a football game being played by a player"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a red uniform throwing a football"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a football player running with the ball"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "madden ' s game of the week"
+    },
+    {
+      "start_time": 6,
+      "end_time": 12,
+      "caption": "a video game showing a football game"
+    }
+  ]
+}

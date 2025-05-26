@@ -1,0 +1,26 @@
+{
+  "video_id": "video6494",
+  "summary": "a man is cutting a piece of cardboard",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a man is standing on a box in a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is cutting a piece of cardboard"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a cat is playing with a box on the floor"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is holding a knife in his hand"
+    }
+  ]
+}

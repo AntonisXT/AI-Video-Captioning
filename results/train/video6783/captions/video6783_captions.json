@@ -1,0 +1,21 @@
+{
+  "video_id": "video6783",
+  "summary": "a red truck parked in a parking lot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 9,
+      "caption": "a red truck parked in a parking lot"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a red car with the door open"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a man is painting a red car"
+    }
+  ]
+}

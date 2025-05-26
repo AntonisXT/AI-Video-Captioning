@@ -1,0 +1,31 @@
+{
+  "video_id": "video5580",
+  "summary": "a soccer player is kicking the ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a soccer player is kicking the ball"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man holding a ball in his hand"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a soccer player is kicking the ball"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is falling off the ground while another man is on the ground"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a rugby player is tackled by another player"
+    }
+  ]
+}

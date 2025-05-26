@@ -1,0 +1,21 @@
+{
+  "video_id": "video6718",
+  "summary": "First, is a game of minecraft. Next, A man in a white shirt and black pants stands in front of a building. Finally, A table with a bowl and a knife on it.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "minecraft"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man in a white shirt and black pants standing in front of a building"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "caption": "a table with a bowl and a knife on it"
+    }
+  ]
+}

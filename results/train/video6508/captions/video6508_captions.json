@@ -1,0 +1,51 @@
+{
+  "video_id": "video6508",
+  "summary": "a group of people walking on a rocky road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a blue dress is standing in the woods"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a woman in a green shirt pointing at something"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of people walking on a rocky road"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a woman in a bikini is walking up a hill"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "two people walking up a mountain with a dog"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "two men walking on a rocky trail"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "two men on a mountain top with a lake in the background"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "two men walking up a hill"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "two men standing on a mountain top"
+    }
+  ]
+}

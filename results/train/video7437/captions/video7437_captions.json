@@ -1,0 +1,31 @@
+{
+  "video_id": "video7437",
+  "summary": "a video game with a crane and a tree",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon picture of a man in a suit and tie"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a video game with a butterfly on it"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a video game with a man on a skateboard"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a construction site with a crane"
+    },
+    {
+      "start_time": 10,
+      "end_time": 17,
+      "caption": "a video game with a crane and a tree"
+    }
+  ]
+}

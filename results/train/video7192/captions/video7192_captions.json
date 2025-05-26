@@ -1,0 +1,26 @@
+{
+  "video_id": "video7192",
+  "summary": "a large boat in a museum with people walking around",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a large boat in a museum with people walking around"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a boat is parked in a building with a blue light"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a large boat is in a museum with people"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a boat made out of wood and other items"
+    }
+  ]
+}

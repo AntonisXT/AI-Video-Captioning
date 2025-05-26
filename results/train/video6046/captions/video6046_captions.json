@@ -1,0 +1,36 @@
+{
+  "video_id": "video6046",
+  "summary": "a man is working on a car in a garage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a red car parked in a garage"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "how to build a car with the pane st"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a car is being built in a garage"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "how to install a new rear bumper"
+    },
+    {
+      "start_time": 12,
+      "end_time": 16,
+      "caption": "a man is working on a car in a garage"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "how to replace a car ' s front bumper"
+    }
+  ]
+}

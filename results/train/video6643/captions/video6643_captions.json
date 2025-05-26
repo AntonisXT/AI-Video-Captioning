@@ -1,0 +1,21 @@
+{
+  "video_id": "video6643",
+  "summary": "a man in a suit and tie is sitting on a chair",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man standing on a stage with a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 18,
+      "caption": "a man in a suit and tie is sitting on a chair"
+    },
+    {
+      "start_time": 19,
+      "end_time": 21,
+      "caption": "a group of people sitting at a table"
+    }
+  ]
+}

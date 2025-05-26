@@ -1,0 +1,21 @@
+{
+  "video_id": "video5985",
+  "summary": "a cartoon scene with a bear and a dog",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a cartoon scene with a bear and a dog"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a cartoon character is standing in front of a stage"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "the muppets in the movie theater"
+    }
+  ]
+}

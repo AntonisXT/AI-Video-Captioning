@@ -1,0 +1,31 @@
+{
+  "video_id": "video7061",
+  "summary": "a man is seen in the water being pulled by a boat",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is seen in the water while he is being pulled by a boat"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a fish swimming in a blue pool"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is seen in the water while he is seen on the screen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a fish swimming in a blue pool"
+    },
+    {
+      "start_time": 12,
+      "end_time": 17,
+      "caption": "a christmas tree is in a blue box"
+    }
+  ]
+}

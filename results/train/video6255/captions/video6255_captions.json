@@ -1,0 +1,21 @@
+{
+  "video_id": "video6255",
+  "summary": "a man sitting at a desk with a laptop",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man sitting at a desk with a laptop"
+    },
+    {
+      "start_time": 7,
+      "end_time": 20,
+      "caption": "a man sitting in front of a globe"
+    },
+    {
+      "start_time": 20,
+      "end_time": 25,
+      "caption": "a man sitting at a desk with a laptop"
+    }
+  ]
+}

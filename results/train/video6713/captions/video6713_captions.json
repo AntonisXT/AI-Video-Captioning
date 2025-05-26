@@ -1,0 +1,31 @@
+{
+  "video_id": "video6713",
+  "summary": "a man in a suit",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit"
+    },
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "caption": "a group of people working on computers in a room"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man in a suit"
+    },
+    {
+      "start_time": 13,
+      "end_time": 17,
+      "caption": "a man wearing a purple shirt"
+    },
+    {
+      "start_time": 18,
+      "end_time": 21,
+      "caption": "a group of people sitting in a room"
+    }
+  ]
+}

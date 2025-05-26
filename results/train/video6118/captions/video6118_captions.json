@@ -1,0 +1,26 @@
+{
+  "video_id": "video6118",
+  "summary": "a wrestler is in the middle of a wrestling match",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is standing on a wrestling ring"
+    },
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "caption": "a man is kneeling down on the ground"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "caption": "a wrestler is in the middle of a wrestling match"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a man is wrestling with another man"
+    }
+  ]
+}

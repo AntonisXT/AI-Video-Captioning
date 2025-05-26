@@ -1,0 +1,36 @@
+{
+  "video_id": "video6708",
+  "summary": "a group of people are on the beach throwing cons",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people sitting around a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a group of people are dancing in the grass"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of people standing around a white tent"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a group of people on the beach throwing cons"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "people are dancing on the beach at night"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a group of people standing around a stage"
+    }
+  ]
+}

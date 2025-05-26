@@ -1,0 +1,21 @@
+{
+  "video_id": "video7160",
+  "summary": "a cartoon character sitting on a couch",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person standing on a wooden floor with a remote control device"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man sitting on a red couch"
+    },
+    {
+      "start_time": 4,
+      "end_time": 15,
+      "caption": "a cartoon character sitting on a couch"
+    }
+  ]
+}

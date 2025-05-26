@@ -1,0 +1,31 @@
+{
+  "video_id": "video6262",
+  "summary": "a group of black men in black shirts standing around a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of men in black shirts standing around a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a group of people in a room with microphones"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man and woman singing in front of a microphone"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman in a black shirt and red pants stands in front of a man in a black shirt"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "the black men in the hallway of a building"
+    }
+  ]
+}

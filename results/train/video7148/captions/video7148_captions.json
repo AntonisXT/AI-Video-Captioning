@@ -1,0 +1,21 @@
+{
+  "video_id": "video7148",
+  "summary": "a person is cooking in a kitchen with a stove",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a kitchen preparing food"
+    },
+    {
+      "start_time": 2,
+      "end_time": 12,
+      "caption": "a person is putting something into a pot"
+    },
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "caption": "a person is cooking in a kitchen with a stove"
+    }
+  ]
+}

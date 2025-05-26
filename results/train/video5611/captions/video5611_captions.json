@@ -1,0 +1,21 @@
+{
+  "video_id": "video5611",
+  "summary": "a group of people holding signs and standing on the sidewalk",
+  "scene_captions": [
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "caption": "a flag flying in the sky with a blue sky behind it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a group of people holding signs and standing on the sidewalk"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a crowd of people walking down a street"
+    }
+  ]
+}

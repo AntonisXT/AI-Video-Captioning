@@ -1,0 +1,16 @@
+{
+  "video_id": "video6219",
+  "summary": "a blue truck is parked in a garage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car with a door open and a door handle"
+    },
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "caption": "a blue truck is parked in a garage"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6194",
+  "summary": "a man in a suit and tie standing in front of a screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a black shirt and a red hat"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man in a suit and tie standing in front of a screen"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "the news on the news show"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a black background with a white border"
+    }
+  ]
+}

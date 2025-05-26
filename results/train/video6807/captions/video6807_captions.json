@@ -1,0 +1,31 @@
+{
+  "video_id": "video6807",
+  "summary": "a man with a black shirt and a white shirt",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a man with a black shirt and a white shirt"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man with a brush and a makeup brush"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man with a cigarette in his mouth"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a man with a black shirt and a white shirt"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man with a fade"
+    }
+  ]
+}

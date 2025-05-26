@@ -1,0 +1,26 @@
+{
+  "video_id": "video6624",
+  "summary": "a red car with a dent on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a red car with a hood open and a hood up"
+    },
+    {
+      "start_time": 4,
+      "end_time": 11,
+      "caption": "a red car parked in a parking lot"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a red car with a dent on it"
+    },
+    {
+      "start_time": 13,
+      "end_time": 20,
+      "caption": "a red car parked in a parking lot"
+    }
+  ]
+}

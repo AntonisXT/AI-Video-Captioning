@@ -1,0 +1,46 @@
+{
+  "video_id": "video7249",
+  "summary": "a man in a suit and tie standing in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a white dress is standing in front of a screen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a young girl in a green dress"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man and woman are talking in a library"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "the house of benson"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a large white house"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a dog sitting on a chair in a kitchen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a man in a suit and tie standing in a room"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man in a suit talking on a cell"
+    }
+  ]
+}

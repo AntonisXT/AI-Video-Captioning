@@ -1,0 +1,31 @@
+{
+  "video_id": "video5726",
+  "summary": "a man is doing a push in a gym",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man standing on a blue mat in a gym"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man is standing on a tread machine"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man doing a trick on a skateboard"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is doing a push in a gym"
+    },
+    {
+      "start_time": 7,
+      "end_time": 16,
+      "caption": "a person is running on a blue floor"
+    }
+  ]
+}

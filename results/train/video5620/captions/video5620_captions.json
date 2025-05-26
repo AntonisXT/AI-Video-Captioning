@@ -1,0 +1,36 @@
+{
+  "video_id": "video5620",
+  "summary": "a man and a woman are standing in front of a white wall",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is standing next to a man who is holding a white pillow"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is painting a wall with a white paint"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man in a red shirt is holding a white bag"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a young man in a white lab coat and glasses"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman in a white coat and a woman in a blue shirt"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man and woman standing in front of a white wall"
+    }
+  ]
+}

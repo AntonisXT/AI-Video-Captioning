@@ -1,0 +1,26 @@
+{
+  "video_id": "video6926",
+  "summary": "a large crowd of people are walking through an airport",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a large room filled with people and luggage"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a large crowd of people are walking through an airport"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "two people sitting on a bench in an airport"
+    },
+    {
+      "start_time": 7,
+      "end_time": 14,
+      "caption": "a man driving a car with a camera"
+    }
+  ]
+}

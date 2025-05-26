@@ -1,0 +1,31 @@
+{
+  "video_id": "video6020",
+  "summary": "a woman is drawing on a piece of paper",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman with a pink hair and a white shirt"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a woman is holding a pen in her hand"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a woman is drawing on a piece of paper"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a korean girl ' s face is seen in this image"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a woman in a white dress sitting on a chair"
+    }
+  ]
+}

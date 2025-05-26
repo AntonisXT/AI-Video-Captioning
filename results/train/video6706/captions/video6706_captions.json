@@ -1,0 +1,41 @@
+{
+  "video_id": "video6706",
+  "summary": "a person is pouring water into a bowl",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a person is putting something into a bowl"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a person is painting a piece of food"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a person is putting something into a bowl"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a person is washing their hands in a sink"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a person is putting something in a bowl"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a person is peeling a piece of food"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a person is pouring water into a bowl"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video7250",
+  "summary": "a couple sitting on a bed with a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie holding a camera"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of people sitting around a bed"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a bed with a black cover"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a couple sitting on a bed with a woman"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a woman in a yellow dress standing next to a horse"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6368",
+  "summary": "a cartoon character is standing in front of a red room",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 9,
+      "caption": "a cartoon character is standing in front of a red room"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a red object with a black hole in the center"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a cartoon character is standing on a red surface"
+    }
+  ]
+}

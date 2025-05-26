@@ -1,0 +1,51 @@
+{
+  "video_id": "video6192",
+  "summary": "a baby is laying on a bed with a blanket",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a baby is sitting in a car with a stuffed animal"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a baby is sitting on a couch with his mother"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a baby is laying on the floor with his head in his hands"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a baby is sitting on a couch with his mother"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a baby is laying on a bed with a remote"
+    },
+    {
+      "start_time": 10,
+      "end_time": 13,
+      "caption": "a baby is sitting on a couch with a stuffed animal"
+    },
+    {
+      "start_time": 13,
+      "end_time": 23,
+      "caption": "a baby is laying on a bed with a blanket"
+    },
+    {
+      "start_time": 24,
+      "end_time": 25,
+      "caption": "a baby is playing with a toy on the floor"
+    },
+    {
+      "start_time": 25,
+      "end_time": 27,
+      "caption": "a baby is laying on the floor with his mother"
+    }
+  ]
+}

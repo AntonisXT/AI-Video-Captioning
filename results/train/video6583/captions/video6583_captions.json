@@ -1,0 +1,26 @@
+{
+  "video_id": "video6583",
+  "summary": "a tennis player is playing a game on a court",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man holding a tennis racquet in his hand"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a tennis player is playing tennis on a court"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man in a red shirt is playing ping"
+    },
+    {
+      "start_time": 12,
+      "end_time": 25,
+      "caption": "a tennis player is playing a game on a court"
+    }
+  ]
+}

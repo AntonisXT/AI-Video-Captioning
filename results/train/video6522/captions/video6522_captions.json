@@ -1,0 +1,16 @@
+{
+  "video_id": "video6522",
+  "summary": "a person is playing a video game on a television",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a person is playing a video game on a television"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a video screen showing a guitar and a video screen"
+    }
+  ]
+}

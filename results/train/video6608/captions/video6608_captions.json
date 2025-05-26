@@ -1,0 +1,26 @@
+{
+  "video_id": "video6608",
+  "summary": "two men are talking while walking down the street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "three young men and women walking down a sidewalk"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man and woman standing outside talking"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a man in a purple shirt talking to another man"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "caption": "two men are talking while walking down the street"
+    }
+  ]
+}

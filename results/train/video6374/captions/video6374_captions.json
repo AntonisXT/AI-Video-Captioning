@@ -1,0 +1,31 @@
+{
+  "video_id": "video6374",
+  "summary": "a woman walks down a runway with a white purse",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people walking down a runway"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman in a black dress walking down a hallway"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman walking down a street with a bag"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman walking down a runway in front of a crowd"
+    },
+    {
+      "start_time": 4,
+      "end_time": 10,
+      "caption": "a woman walking down a runway with a white purse"
+    }
+  ]
+}

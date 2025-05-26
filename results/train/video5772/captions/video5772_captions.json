@@ -1,0 +1,26 @@
+{
+  "video_id": "video5772",
+  "summary": "a man is using a circular saw to cut a piece of wood",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a man using a circular saw to cut a piece of wood"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is sitting on the stairs in a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a man is sitting at a table with a laptop"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a person is sitting on a table with a knife"
+    }
+  ]
+}

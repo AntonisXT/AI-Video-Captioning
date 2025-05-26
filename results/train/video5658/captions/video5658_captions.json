@@ -1,0 +1,31 @@
+{
+  "video_id": "video5658",
+  "summary": "a large explosion in the middle of a city",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "fireworks in the sky"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a large crowd of people standing in the dark"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a large explosion in the middle of a city"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a video screen with a red and black background"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a fireworks is seen in the sky above a city"
+    }
+  ]
+}

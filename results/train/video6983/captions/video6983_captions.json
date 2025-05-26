@@ -1,0 +1,26 @@
+{
+  "video_id": "video6983",
+  "summary": "two people snowboarding on a slope in the woods",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a person on a snowboard"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "two people snowboarding on a slope in the woods"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a group of people snowboarding on a mountain"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a person is skiing down a hill in the snow"
+    }
+  ]
+}

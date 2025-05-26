@@ -1,0 +1,26 @@
+{
+  "video_id": "video6383",
+  "summary": "a man in a suit and tie is holding a book",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the cast of the show ' s final performance"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "the girls are all dressed up in their dresses"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a suit and tie is holding a book"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "the cast of the bachelors perform on the tonight show"
+    }
+  ]
+}

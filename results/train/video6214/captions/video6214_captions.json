@@ -1,0 +1,21 @@
+{
+  "video_id": "video6214",
+  "summary": "a man is walking through a garden",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man and woman sitting on a porch"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a flower in a pot"
+    },
+    {
+      "start_time": 6,
+      "end_time": 18,
+      "caption": "a man is walking through a garden"
+    }
+  ]
+}

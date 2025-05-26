@@ -1,0 +1,26 @@
+{
+  "video_id": "video7134",
+  "summary": "a group of children sitting in a classroom in a school in the gambia",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a classroom full of students in a school in the gambia"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a boy is writing"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "a group of children sitting in a classroom"
+    },
+    {
+      "start_time": 9,
+      "end_time": 15,
+      "caption": "a group of children in a classroom with the words can you hold 100 books in your hand?"
+    }
+  ]
+}

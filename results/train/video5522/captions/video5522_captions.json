@@ -1,0 +1,46 @@
+{
+  "video_id": "video5522",
+  "summary": "a black sports car driving on a track",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a close up of a metal sheet"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a car wheel with a red brake"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a black car driving on a track"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a car is shown in this image from the video"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "the logo of the company is seen on a car"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a close up of a car ' s headlight"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a black sports car driving on a track"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a red light is shining on the ground"
+    }
+  ]
+}

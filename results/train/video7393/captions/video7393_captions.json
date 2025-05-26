@@ -1,0 +1,36 @@
+{
+  "video_id": "video7393",
+  "summary": "a man riding a motorcycle down a hill",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man riding a motorcycle down a hill"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man in camouflage gear is riding an atv"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man riding a bike down a hill"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a man riding an atv on a trail"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man riding a motorcycle down a hill"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man riding a bike down a river"
+    }
+  ]
+}

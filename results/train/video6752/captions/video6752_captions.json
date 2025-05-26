@@ -1,0 +1,26 @@
+{
+  "video_id": "video6752",
+  "summary": "a woman with a white mask on her face",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman holding a cup over her face"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a woman with a white mask on her face"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman holding a cell phone"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "a woman with a white mask on her face"
+    }
+  ]
+}

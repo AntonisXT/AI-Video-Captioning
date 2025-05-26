@@ -1,0 +1,31 @@
+{
+  "video_id": "video5848",
+  "summary": "a video game with a person riding a bike",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "pokemon baseball"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a black screen with a white text that reads, ` '"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a black background with a white border"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a video game with a small screen showing a small video"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a video game with a person riding a bike"
+    }
+  ]
+}

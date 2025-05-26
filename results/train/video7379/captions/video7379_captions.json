@@ -1,0 +1,31 @@
+{
+  "video_id": "video7379",
+  "summary": "a young boy is getting his hair cut",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a young boy and a young girl are talking"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a young boy with blonde hair"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a woman and a boy are sitting on a table"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a young boy is getting his hair cut"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a woman and a boy sitting on a stage"
+    }
+  ]
+}

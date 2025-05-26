@@ -1,0 +1,21 @@
+{
+  "video_id": "video6210",
+  "summary": "a man is seen on a video chat",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "two men are standing in front of a mirror"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a man is seen on a video chat"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a group of people are laughing and laughing"
+    }
+  ]
+}

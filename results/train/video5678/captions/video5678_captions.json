@@ -1,0 +1,36 @@
+{
+  "video_id": "video5678",
+  "summary": "a man and woman are playing piano in front of a crowd",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man and woman are playing piano together"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "the best of me"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "i ' lla"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man and woman playing piano in front of a crowd"
+    },
+    {
+      "start_time": 9,
+      "end_time": 17,
+      "caption": "a man in a black shirt is standing on stage"
+    },
+    {
+      "start_time": 18,
+      "end_time": 23,
+      "caption": "a woman singing into a microphone with the words in spanish"
+    }
+  ]
+}

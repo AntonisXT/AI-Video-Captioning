@@ -1,0 +1,31 @@
+{
+  "video_id": "video5853",
+  "summary": "a person in an orange jacket is skiing down a snowy hill",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a snow storm is seen in the distance of a street light"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man is shoveling snow from a car"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a person in an orange jacket is skiing down a snowy hill"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is standing in the snow with a snowboard"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a person skiing down a hill in the snow"
+    }
+  ]
+}

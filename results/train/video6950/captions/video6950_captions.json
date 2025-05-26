@@ -1,0 +1,26 @@
+{
+  "video_id": "video6950",
+  "summary": "a woman in a white shirt and red skirt is standing in front of a mirror",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black shirt is talking on a cell"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a woman in a pink dress is standing in front of a mirror"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "caption": "a man and woman dancing in a room"
+    },
+    {
+      "start_time": 10,
+      "end_time": 24,
+      "caption": "a woman in a white shirt and red skirt"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6596",
+  "summary": "a man holding a gun in front of a beach",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person holding a gun in front of a ferris"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a man holding a gun in front of a beach"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a person is flying a kite on the beach"
+    }
+  ]
+}

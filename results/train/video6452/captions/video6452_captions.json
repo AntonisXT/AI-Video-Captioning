@@ -1,0 +1,31 @@
+{
+  "video_id": "video6452",
+  "summary": "a man is walking down a path with a basketball ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a video screen with a football player on it"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a basketball ball is stuck in the fence"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a white shirt and a green background"
+    },
+    {
+      "start_time": 3,
+      "end_time": 10,
+      "caption": "a man is walking down a path with a basketball ball"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a basketball game with the words ' s ' s ' s ' s ' s '"
+    }
+  ]
+}

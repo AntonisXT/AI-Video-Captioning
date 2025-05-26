@@ -1,0 +1,26 @@
+{
+  "video_id": "video5837",
+  "summary": "a dog is laying on a wooden deck",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a dog is laying on a couch with its head on a cat"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a dog is sitting on the steps of a house"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a dog is sitting on a chair in a window"
+    },
+    {
+      "start_time": 6,
+      "end_time": 23,
+      "caption": "a dog laying on a wooden deck"
+    }
+  ]
+}

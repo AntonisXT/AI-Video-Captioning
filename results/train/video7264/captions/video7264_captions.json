@@ -1,0 +1,51 @@
+{
+  "video_id": "video7264",
+  "summary": "a man in a suit and tie is looking at a christmas tree",
+  "scene_captions": [
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a black shirt is holding a white object"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man sitting in front of a large green object"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man in a suit and tie is looking at something"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man in a black shirt is talking to another man"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a group of men standing around a table"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "caption": "the first trailer for the upcoming film, the amazing spider"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a man in a blue shirt is looking at a wall"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "caption": "a man in a suit and tie is looking at a christmas tree"
+    },
+    {
+      "start_time": 19,
+      "end_time": 20,
+      "caption": "a man in a black shirt is looking at a woman"
+    }
+  ]
+}

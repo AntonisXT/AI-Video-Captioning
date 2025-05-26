@@ -1,0 +1,31 @@
+{
+  "video_id": "video6815",
+  "summary": "a dog wearing a purple and white dress standing on a tile floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a dog wearing a purple and white dress"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a bowl of food"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a dog wearing a red dress"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a dog standing in a kitchen"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a dog wearing a purple dress standing on a tile floor"
+    }
+  ]
+}

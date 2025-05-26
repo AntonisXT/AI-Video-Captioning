@@ -1,0 +1,31 @@
+{
+  "video_id": "video6879",
+  "summary": "a man and a woman are scrubbing the floor with a sponge and patrick",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "sponge and patrick"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a cartoon picture of two people in a room"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a cartoon character with a red background and a white cat"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "sponge and patrick sponge"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a cartoon character with a green hat and a white cat"
+    }
+  ]
+}

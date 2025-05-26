@@ -1,0 +1,31 @@
+{
+  "video_id": "video6324",
+  "summary": "a group of men standing on a field holding footballs",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a group of men standing on a field holding footballs"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a suit and tie standing in front of a red wall"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "three men in suits holding footballs on a field"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man in a suit standing in front of a red wall"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man in a suit and tie holding a football ball"
+    }
+  ]
+}

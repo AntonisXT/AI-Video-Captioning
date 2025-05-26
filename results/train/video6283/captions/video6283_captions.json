@@ -1,0 +1,26 @@
+{
+  "video_id": "video6283",
+  "summary": "a man is driving a car and making a face",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man driving a car with another man behind him"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a car driving down a road with trees in the background"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a dog is sitting in the back seat of a car"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is driving in the car and making a face"
+    }
+  ]
+}

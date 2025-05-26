@@ -1,0 +1,21 @@
+{
+  "video_id": "video5578",
+  "summary": "a man in a blue shirt is talking to someone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a blue shirt sitting on a basketball court"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a newspaper with a bunch of people on it"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "a man in a blue shirt is talking to someone"
+    }
+  ]
+}

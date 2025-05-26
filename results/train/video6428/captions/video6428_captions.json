@@ -1,0 +1,31 @@
+{
+  "video_id": "video6428",
+  "summary": "a person is pouring chocolate onto a plate",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is eating food in the kitchen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a woman holding two plates of food in her hands"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is eating food at a table"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a person is putting something on a plate"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a person is pouring chocolate onto a plate"
+    }
+  ]
+}

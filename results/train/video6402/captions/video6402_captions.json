@@ -1,0 +1,26 @@
+{
+  "video_id": "video6402",
+  "summary": "a red and green image of a man 's face",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a red and green image of a man ' s face"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a red and green painting on a wall"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a red and black area with a small amount of water"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a green background with a black border"
+    }
+  ]
+}

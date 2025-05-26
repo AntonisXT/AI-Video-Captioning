@@ -1,0 +1,36 @@
+{
+  "video_id": "video5912",
+  "summary": "a building with a lot of windows and a sign that says ' the best place to live in the city '",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a view of a building with a blue roof"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a building with a sign that says, ' the best place to live in the city '"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a building with a lot of windows and a lot of windows"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "kynd logo on the wall"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "caption": "a factory with a lot of machines and people"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a large room with a lot of furniture"
+    }
+  ]
+}

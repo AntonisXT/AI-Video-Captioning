@@ -1,0 +1,26 @@
+{
+  "video_id": "video7362",
+  "summary": "a group of people are dancing on a stage",
+  "scene_captions": [
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "caption": "a man in a tuxed"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a group of people are dancing on a stage"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man in a black shirt and hat singing into a microphone"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man in a black shirt is standing in the dark"
+    }
+  ]
+}

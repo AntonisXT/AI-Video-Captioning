@@ -1,0 +1,31 @@
+{
+  "video_id": "video6485",
+  "summary": "a cartoon character is standing in front of a wall",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a cartoon character is playing with a cat"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a cartoon character is talking to a woman"
+    },
+    {
+      "start_time": 6,
+      "end_time": 17,
+      "caption": "a cartoon character is standing in front of a wall"
+    },
+    {
+      "start_time": 18,
+      "end_time": 23,
+      "caption": "a cartoon character is standing in front of a television screen"
+    },
+    {
+      "start_time": 24,
+      "end_time": 27,
+      "caption": "a cartoon character is sitting in a chair"
+    }
+  ]
+}

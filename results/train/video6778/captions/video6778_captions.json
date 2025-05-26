@@ -1,0 +1,31 @@
+{
+  "video_id": "video6778",
+  "summary": "fireworks light up the sky above the bul tower in bul",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a city at night with lights and buildings"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "fireworks light up the sky above bul tower in bul"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "fireworks light up the bu"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "the view from the top of the bu"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "fireworks light up the sky above the bu"
+    }
+  ]
+}

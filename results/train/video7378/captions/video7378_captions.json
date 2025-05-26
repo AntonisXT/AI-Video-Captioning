@@ -1,0 +1,26 @@
+{
+  "video_id": "video7378",
+  "summary": "a soccer game is being played in a stadium",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a soccer game is being played in a stadium"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a soccer player is making a save on the field"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "caption": "a soccer game is being played in a stadium"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a soccer player is kicking a ball in the air"
+    }
+  ]
+}

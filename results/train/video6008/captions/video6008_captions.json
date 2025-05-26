@@ -1,0 +1,26 @@
+{
+  "video_id": "video6008",
+  "summary": "a woman is sitting on a chair using a laptop",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a woman sitting on a chair using a laptop"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man wearing glasses"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man wearing a tie"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a woman talking on a cell phone"
+    }
+  ]
+}

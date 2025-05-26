@@ -1,0 +1,26 @@
+{
+  "video_id": "video5940",
+  "summary": "a car is driving down a winding road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a race track with cars driving on it"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a race car is racing down a hill"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a car is driving on a track with a tv screen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 23,
+      "caption": "a car is driving down a winding road"
+    }
+  ]
+}

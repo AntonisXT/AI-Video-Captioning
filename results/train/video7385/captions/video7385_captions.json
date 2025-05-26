@@ -1,0 +1,21 @@
+{
+  "video_id": "video7385",
+  "summary": "the moon is seen in this image taken from nasa",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a large asteroid is seen in this artist ' s rendering"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a large rock with a lot of crystals"
+    },
+    {
+      "start_time": 8,
+      "end_time": 18,
+      "caption": "the moon is seen in this image taken from nasa"
+    }
+  ]
+}

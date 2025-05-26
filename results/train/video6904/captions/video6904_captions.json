@@ -1,0 +1,26 @@
+{
+  "video_id": "video6904",
+  "summary": "a street filled with people and cars",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a street filled with people and cars"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "the cover of the book, the book of the dead"
+    },
+    {
+      "start_time": 3,
+      "end_time": 13,
+      "caption": "a busy street filled with cars and people"
+    },
+    {
+      "start_time": 14,
+      "end_time": 20,
+      "caption": "a man is walking across the street in the rain"
+    }
+  ]
+}

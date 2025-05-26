@@ -1,0 +1,26 @@
+{
+  "video_id": "video5589",
+  "summary": "a rugby game is being played in a stadium",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a soccer game is being played on the field"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a rugby game is being played in a stadium"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a group of men playing soccer on a field"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a rugby game is being played on the field"
+    }
+  ]
+}

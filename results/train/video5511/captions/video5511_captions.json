@@ -1,0 +1,51 @@
+{
+  "video_id": "video5511",
+  "summary": "a group of people dancing in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people dancing in a room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people in the snow"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a white suit"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a video screen showing a group of people in a crowd"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man on a horse in the snow"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a white suit and a white hat"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a group of people in military uniforms"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a group of people dancing"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a man being taken from a vehicle"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video5638",
+  "summary": "a large stack of boxes with a blue light on top",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "caption": "a black and white photo of a computer"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a computer server with a blue light on it"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a computer server with many servers"
+    },
+    {
+      "start_time": 12,
+      "end_time": 16,
+      "caption": "a large stack of boxes with a blue light on top"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a server with many servers in it"
+    }
+  ]
+}

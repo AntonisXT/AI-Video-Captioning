@@ -1,0 +1,26 @@
+{
+  "video_id": "video6867",
+  "summary": "a woman in a blue shirt and white shorts is playing tennis",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a purple shirt is dancing on a tennis court"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a woman in a white dress is standing on a tennis court"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a woman in a white shirt and red shorts"
+    },
+    {
+      "start_time": 7,
+      "end_time": 14,
+      "caption": "a woman in blue shirt and white shorts playing tennis"
+    }
+  ]
+}

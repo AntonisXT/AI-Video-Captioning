@@ -1,0 +1,21 @@
+{
+  "video_id": "video5623",
+  "summary": "a video game with a bowling ball in the middle",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a video game with a bowling ball in the middle"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a video game with a man in a blue shirt"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "a video game with a bowling ball in the middle"
+    }
+  ]
+}

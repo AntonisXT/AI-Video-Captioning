@@ -1,0 +1,26 @@
+{
+  "video_id": "video6949",
+  "summary": "a blue car is parked on the side of a road and a blue truck is parked on the side of the road",
+  "scene_captions": [
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a street with many parked cars and motorcycles"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a blue truck is parked on the side of the road"
+    },
+    {
+      "start_time": 6,
+      "end_time": 12,
+      "caption": "a blue car parked on the side of a road"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a van with graffiti painted on it driving down a road"
+    }
+  ]
+}

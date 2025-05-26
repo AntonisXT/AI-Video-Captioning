@@ -1,0 +1,31 @@
+{
+  "video_id": "video6700",
+  "summary": "a man in a suit and tie standing in front of a screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit is standing on a stage"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a black and white photo of a classroom"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man in a suit is standing on a stage"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man in a suit and tie standing in front of a screen"
+    },
+    {
+      "start_time": 10,
+      "end_time": 17,
+      "caption": "a woman is posing with a group of children"
+    }
+  ]
+}

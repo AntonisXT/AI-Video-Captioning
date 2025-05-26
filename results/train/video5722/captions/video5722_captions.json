@@ -1,0 +1,16 @@
+{
+  "video_id": "video5722",
+  "summary": "a silver car parked in a parking lot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car is seen in this image taken from a video"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a silver car parked in a parking lot"
+    }
+  ]
+}

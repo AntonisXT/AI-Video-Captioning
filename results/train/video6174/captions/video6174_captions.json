@@ -1,0 +1,31 @@
+{
+  "video_id": "video6174",
+  "summary": "a group of people dancing on a dance floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a group of people dancing on a dance floor"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman dancing on a stage with another woman"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a group of people dancing on a dance floor"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a woman dancing on a stage with a man in the background"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a group of people dancing on a dance floor"
+    }
+  ]
+}

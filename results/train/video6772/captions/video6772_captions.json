@@ -1,0 +1,31 @@
+{
+  "video_id": "video6772",
+  "summary": "a bunch of kites flying in the sky",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "two little girls playing in the sand on the beach"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "caption": "a bunch of kites flying in the sky"
+    },
+    {
+      "start_time": 8,
+      "end_time": 15,
+      "caption": "a helicopter flying through the air with a blue sky in the background"
+    },
+    {
+      "start_time": 15,
+      "end_time": 20,
+      "caption": "a beach with a lot of sand and a lot of water"
+    },
+    {
+      "start_time": 21,
+      "end_time": 24,
+      "caption": "a dolphin is swimming in the water"
+    }
+  ]
+}

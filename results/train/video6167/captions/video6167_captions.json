@@ -1,0 +1,36 @@
+{
+  "video_id": "video6167",
+  "summary": "a black car with a red and white stripe",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man standing next to a car with a red and white hood"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "the front of a white car with a black grill"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "the front end of a black car with a red and white stripe"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "honda civic type"
+    },
+    {
+      "start_time": 14,
+      "end_time": 20,
+      "caption": "a white car with red rims and wheels"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "caption": "a man is standing next to a white car"
+    }
+  ]
+}

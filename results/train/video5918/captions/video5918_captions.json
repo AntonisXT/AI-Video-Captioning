@@ -1,0 +1,31 @@
+{
+  "video_id": "video5918",
+  "summary": "a video game with a man in a suit on a stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a video screen showing a man in a suit"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "the game is showing two men fighting"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a video game with a man on a stage"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man is kicking a fire in the dark"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a video game with a fire in the background"
+    }
+  ]
+}

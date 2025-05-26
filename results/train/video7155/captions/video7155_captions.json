@@ -1,0 +1,51 @@
+{
+  "video_id": "video7155",
+  "summary": "a man is running on the beach and a man is walking on the beach with a surfboard",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man is walking on the beach with a surfboard"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man is standing in the water with a dog"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man and woman are wadi in a river"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a group of people standing near a lake"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is walking across a muddy field"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man is running on the beach"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man is standing on a rock"
+    },
+    {
+      "start_time": 13,
+      "end_time": 21,
+      "caption": "a man is climbing up a wall"
+    },
+    {
+      "start_time": 21,
+      "end_time": 22,
+      "caption": "a man is standing on a wooden structure"
+    }
+  ]
+}

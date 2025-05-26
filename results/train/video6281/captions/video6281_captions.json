@@ -1,0 +1,21 @@
+{
+  "video_id": "video6281",
+  "summary": "a large crowd of people are gathered in the street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a large crowd of people are gathered in the street"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a man holding a green flag in the middle of a street"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a large crowd of people are gathered together"
+    }
+  ]
+}

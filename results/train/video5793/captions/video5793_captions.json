@@ -1,0 +1,46 @@
+{
+  "video_id": "video5793",
+  "summary": "a woman sitting in a chair with a laptop",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman sitting on a chair next to a little girl"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a young girl is smiling and holding a microphone"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a young girl is standing in front of a purple background"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a woman sitting in a chair with a laptop"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman standing on a stage with a microphone"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman sitting in a chair with her hands up"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a young girl is standing in front of a purple background"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man sitting at a table with a laptop"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6760",
+  "summary": "the inside of a room with a red wall and a yellow door",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "caption": "the inside of a room with a red wall and a yellow door"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "the room in the minecraft house"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "the inside of a prison with a small window"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a room with a red wall and a yellow door"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "the room in the minecraft house"
+    }
+  ]
+}

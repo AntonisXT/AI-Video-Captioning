@@ -1,0 +1,36 @@
+{
+  "video_id": "video7082",
+  "summary": "a woman in a white shirt is on stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a white shirt and jeans on stage"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a black shirt is singing into a microphone"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "caption": "a man on stage with a guitar and a microphone"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman in a black dress on stage"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a man playing drums on stage with a microphone"
+    },
+    {
+      "start_time": 11,
+      "end_time": 16,
+      "caption": "a woman in a white shirt is on stage"
+    }
+  ]
+}

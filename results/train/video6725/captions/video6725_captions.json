@@ -1,0 +1,46 @@
+{
+  "video_id": "video6725",
+  "summary": "a woman in a pink shirt and sunglasses is holding a dog",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a dog standing in front of a window"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a girl looking out a window"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman in a white dress is standing near a window"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman is looking at her reflection in the mirror"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman is holding a wooden board"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a woman in a pink shirt and sunglasses holding a dog"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man holding a dog in his arms"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man sitting on a couch with a woman"
+    }
+  ]
+}

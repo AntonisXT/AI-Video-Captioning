@@ -1,0 +1,51 @@
+{
+  "video_id": "video5870",
+  "summary": "a snowboarder is going down a steep slope",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is shoveling snow in the snow"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is skiing down a hill with a tent"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a snowboarder is going down a steep slope"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is skiing down a snowy mountain"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a snowboarder is going down a steep slope"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a person is flying through the air with a parachute"
+    },
+    {
+      "start_time": 14,
+      "end_time": 18,
+      "caption": "a person on skis is jumping off a mountain"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a person on a snowboard"
+    },
+    {
+      "start_time": 19,
+      "end_time": 20,
+      "caption": "a man is skiing down a snowy hill"
+    }
+  ]
+}

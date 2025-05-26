@@ -1,0 +1,16 @@
+{
+  "video_id": "video5545",
+  "summary": "a man is sitting at a table with a laptop",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit is standing in a room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 16,
+      "caption": "a man is sitting at a table with a laptop"
+    }
+  ]
+}

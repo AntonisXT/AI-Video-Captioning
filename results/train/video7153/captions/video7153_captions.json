@@ -1,0 +1,21 @@
+{
+  "video_id": "video7153",
+  "summary": "First, a man is standing in front of a con Next, Two girls in a car with their arms around each other. Finally, A group of people are standing on top of a basketball court.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is standing in front of con"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "two girls in a car with their arms around each other girls"
+    },
+    {
+      "start_time": 4,
+      "end_time": 11,
+      "caption": "a group of people standing on top of a basketball court"
+    }
+  ]
+}

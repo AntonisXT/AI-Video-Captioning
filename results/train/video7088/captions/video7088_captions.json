@@ -1,0 +1,21 @@
+{
+  "video_id": "video7088",
+  "summary": "First, A woman is washing her cat outside. Next, A man is standing in front of a building. Finally, A woman is holding a dog.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is washing her cat outside"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man standing in front of a building"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a woman holding a dog"
+    }
+  ]
+}

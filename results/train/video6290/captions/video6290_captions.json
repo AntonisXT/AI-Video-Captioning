@@ -1,0 +1,51 @@
+{
+  "video_id": "video6290",
+  "summary": "a man is falling off a ramp",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man falling off a ramp"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a race with cars on the track"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man being thrown from a car"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a suit and tie"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a video screen with a picture of a man on a motorcycle"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man falling off a skateboard"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a car being chased by a man"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a video screen with a picture of a car and a man"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is playing a video game on a television"
+    }
+  ]
+}

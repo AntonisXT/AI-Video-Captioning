@@ -1,0 +1,41 @@
+{
+  "video_id": "video5862",
+  "summary": "a group of people in a hot pool",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people in a hot pool"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman is in the water with her head in the air"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man in a pool with a woman in the water"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man is standing in the water with his hands up"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a group of people in a hot pool"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a red shirt is standing in the water"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is swimming in the water with a boat"
+    }
+  ]
+}

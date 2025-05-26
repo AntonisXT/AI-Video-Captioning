@@ -1,0 +1,51 @@
+{
+  "video_id": "video7306",
+  "summary": "a man is cleaning a classroom with a bucket",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man is cleaning a classroom with a bucket"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is cooking in a classroom"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is cleaning a room with a broom"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a man is painting a mural in a classroom"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "caption": "a man is cleaning a table in a classroom"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "caption": "a man in a suit and tie holding a red umbrella"
+    },
+    {
+      "start_time": 19,
+      "end_time": 20,
+      "caption": "a man in a beige shirt"
+    },
+    {
+      "start_time": 20,
+      "end_time": 22,
+      "caption": "a man in a suit"
+    },
+    {
+      "start_time": 22,
+      "end_time": 23,
+      "caption": "a man talking on a cell phone"
+    }
+  ]
+}

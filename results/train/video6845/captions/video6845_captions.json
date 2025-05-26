@@ -1,0 +1,51 @@
+{
+  "video_id": "video6845",
+  "summary": "is shown in the middle of a room with a bed and a mirror",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is riding a skateboard down a wall"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a room with a bed and a mirror"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a person is taking a selfie self"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a room with a white couch and a white couch"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a mirror is shown in the middle of a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a room with a bed and a mirror"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a white wall"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a white toilet"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a person is painting a wall with a paint roller"
+    }
+  ]
+}

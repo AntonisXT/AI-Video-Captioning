@@ -1,0 +1,36 @@
+{
+  "video_id": "video7468",
+  "summary": "a man standing in front of a blue sky",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a man is standing on a wall"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man standing on top of a hill"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a suit standing on a ledge"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man standing in front of a blue sky"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man in a black shirt is standing on a roof"
+    },
+    {
+      "start_time": 12,
+      "end_time": 16,
+      "caption": "a man standing in front of a blue sky"
+    }
+  ]
+}

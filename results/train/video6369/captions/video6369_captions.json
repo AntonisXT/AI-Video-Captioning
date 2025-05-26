@@ -1,0 +1,16 @@
+{
+  "video_id": "video6369",
+  "summary": "a person is pouring something into a cup",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is holding a yellow object in their hand"
+    },
+    {
+      "start_time": 1,
+      "end_time": 22,
+      "caption": "a person is pouring something into a cup"
+    }
+  ]
+}

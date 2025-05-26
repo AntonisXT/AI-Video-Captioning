@@ -1,0 +1,21 @@
+{
+  "video_id": "video6868",
+  "summary": "a group of people standing on a sidewalk",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a group of people standing on a sidewalk"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "a group of girls dancing in front of a building"
+    },
+    {
+      "start_time": 10,
+      "end_time": 15,
+      "caption": "a woman is standing in a living room"
+    }
+  ]
+}

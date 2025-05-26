@@ -1,0 +1,31 @@
+{
+  "video_id": "video6654",
+  "summary": "a car is driving down the road with a sign",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car is seen in this image from the video"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a car is driving down the road with a sign"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a car is driving down the road with a truck behind it"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a car is on fire as it burns"
+    },
+    {
+      "start_time": 10,
+      "end_time": 13,
+      "caption": "a car is driving down the road with a sign"
+    }
+  ]
+}

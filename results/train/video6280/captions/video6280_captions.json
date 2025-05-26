@@ -1,0 +1,21 @@
+{
+  "video_id": "video6280",
+  "summary": "a fish in a tank",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "caption": "a fish tank filled with water and goldfish"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a fish in a glass vase with a flower"
+    },
+    {
+      "start_time": 13,
+      "end_time": 22,
+      "caption": "a fish in a tank"
+    }
+  ]
+}

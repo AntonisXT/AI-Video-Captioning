@@ -1,0 +1,31 @@
+{
+  "video_id": "video7426",
+  "summary": "a cartoon character in a black suit and red scarf is standing in front of a castle",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "dragon ball season 1 episode 2"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "dragon ball season 1 episode 2"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a cartoon character with a pink hair and green eyes"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a cartoon character in a black suit and red scarf"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a cartoon character is standing in front of a castle"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6627",
+  "summary": "a man in a pink shirt is standing next to a cow",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cow is standing in the dirt next to a cat"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man is feeding a cow in the dirt"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in a brown shirt and glasses is standing in front of a crowd"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a pink shirt is standing next to a cow"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a group of men standing in a street"
+    }
+  ]
+}

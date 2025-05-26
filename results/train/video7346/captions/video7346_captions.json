@@ -1,0 +1,16 @@
+{
+  "video_id": "video7346",
+  "summary": "a group of people are in a video call",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a black and white photo of a building"
+    },
+    {
+      "start_time": 1,
+      "end_time": 14,
+      "caption": "a group of people are in a video call"
+    }
+  ]
+}

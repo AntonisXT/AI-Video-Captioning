@@ -1,0 +1,31 @@
+{
+  "video_id": "video6912",
+  "summary": "a man is standing next to a car with graffiti on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "the engine bay is shown with the intake hose"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a car is driving down a hill in the woods"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "a man standing next to a car with graffiti on it"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "the gear knob in the car"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a car dashboard with a black steering knob"
+    }
+  ]
+}

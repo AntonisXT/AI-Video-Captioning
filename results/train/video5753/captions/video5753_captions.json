@@ -1,0 +1,41 @@
+{
+  "video_id": "video5753",
+  "summary": "a person is pouring liquid into a cup",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a kitchen with a pan"
+    },
+    {
+      "start_time": 1,
+      "end_time": 14,
+      "caption": "a person is pouring liquid into a cup"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a person is stirring some food into a pot"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a person is making a drink in a glass"
+    },
+    {
+      "start_time": 19,
+      "end_time": 20,
+      "caption": "a person is mixing something into a bowl"
+    },
+    {
+      "start_time": 20,
+      "end_time": 22,
+      "caption": "a person is stirring a liquid into a cup"
+    },
+    {
+      "start_time": 23,
+      "end_time": 27,
+      "caption": "a person is making food in a pot"
+    }
+  ]
+}

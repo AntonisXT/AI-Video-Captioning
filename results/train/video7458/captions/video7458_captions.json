@@ -1,0 +1,31 @@
+{
+  "video_id": "video7458",
+  "summary": "a man in a white shirt is playing basketball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a white shirt is playing basketball"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of young men playing basketball in a gym"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a white shirt is playing basketball"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "two boys playing basketball"
+    },
+    {
+      "start_time": 6,
+      "end_time": 20,
+      "caption": "a group of young men playing basketball in a gym"
+    }
+  ]
+}

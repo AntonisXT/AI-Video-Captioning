@@ -1,0 +1,26 @@
+{
+  "video_id": "video6176",
+  "summary": "a group of people on a court playing with a ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a group of people on a court playing with a ball"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a group of cheerleaders dancing in a gymnasium"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a group of people in uniform dancing on a court"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a girl in a cheerleading uniform dancing"
+    }
+  ]
+}

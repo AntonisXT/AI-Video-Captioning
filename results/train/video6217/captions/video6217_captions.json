@@ -1,0 +1,31 @@
+{
+  "video_id": "video6217",
+  "summary": "a book cover with a cartoon character in the middle",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cloud with a smiley face on it"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a book cover with a cartoon character in the middle"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a red bag with a yellow handle and a yellow handle"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a book cover with a cartoon character in the middle"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a book cover with a worm on it"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6004",
+  "summary": "a person is holding a ball of dough",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a person is holding a ball of dough"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a wooden panel with a white background"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a person is putting a small container with a small container"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a person is cleaning a table with a sponge"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a blue and white candle"
+    }
+  ]
+}

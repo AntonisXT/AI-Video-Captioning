@@ -1,0 +1,36 @@
+{
+  "video_id": "video7206",
+  "summary": "a helicopter is flying over a field with a building in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a helicopter flying over a city with smoke in the background"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a large building with a tower in the background"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a plane is flying over a field with trees"
+    },
+    {
+      "start_time": 4,
+      "end_time": 10,
+      "caption": "a helicopter is flying over a field with a building in the background"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a large explosion in the middle of a city"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a fire is seen in the air as it burns"
+    }
+  ]
+}

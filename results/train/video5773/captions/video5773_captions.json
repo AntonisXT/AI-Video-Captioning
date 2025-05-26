@@ -1,0 +1,26 @@
+{
+  "video_id": "video5773",
+  "summary": "a bear is sitting in the water near rocks",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man is standing in the water near a river"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man is sitting in the water with his feet in the water"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a bear is sitting in the water near rocks"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a fox is walking across a rocky stream"
+    }
+  ]
+}

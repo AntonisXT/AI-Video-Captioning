@@ -1,0 +1,31 @@
+{
+  "video_id": "video7189",
+  "summary": "a man in a police uniform is opening the hood of a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man riding a motorcycle down a street"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is working on a machine"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is cutting a piece of a motorcycle"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a police officer is standing next to a car"
+    },
+    {
+      "start_time": 5,
+      "end_time": 16,
+      "caption": "a man in a police uniform is opening the hood of a car"
+    }
+  ]
+}

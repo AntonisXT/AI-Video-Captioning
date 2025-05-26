@@ -1,0 +1,56 @@
+{
+  "video_id": "video5742",
+  "summary": "a young boy is swinging a bat at a baseball game",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a young boy swinging a bat at a baseball game"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a baseball player is running to first base"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a young boy is swinging a bat at a baseball game"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a young boy is standing on the field"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a baseball player swinging at a ball"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a young boy is playing baseball on the field"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a baseball player swinging a bat at a ball"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "caption": "a young boy holding a baseball bat on a field"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a baseball player swinging at a ball"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a young boy running to first base"
+    }
+  ]
+}

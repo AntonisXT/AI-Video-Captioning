@@ -1,0 +1,26 @@
+{
+  "video_id": "video6226",
+  "summary": "a person is putting a salad in a bowl",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a sink with a bunch of flowers and a bottle of liquid"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a person is washing a bowl with green leaves"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a person is putting a salad into a bowl"
+    },
+    {
+      "start_time": 10,
+      "end_time": 19,
+      "caption": "a person is washing a bowl with green leaves"
+    }
+  ]
+}

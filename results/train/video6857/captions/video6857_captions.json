@@ -1,0 +1,26 @@
+{
+  "video_id": "video6857",
+  "summary": "a person is making a paper toy",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 11,
+      "caption": "a person holding a toy in their hand"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a toy is standing on a green screen"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a person is making a paper toy"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a person holding a purple and yellow star shaped object"
+    }
+  ]
+}

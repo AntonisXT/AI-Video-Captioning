@@ -1,0 +1,41 @@
+{
+  "video_id": "video5820",
+  "summary": "a man is jumping into the water in a river",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is standing on a dock in the water"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man is jumping into the water in a river"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man is riding a surfboard in the water"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is swimming in the water with a paddle"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a dog is jumping into the water"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is swimming in the water near a boat"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a river with boats and houses in the background"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "video_id": "video6003",
+  "summary": "a man in a white jacket is standing in a dark room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man with a bloody face and a black background"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a black and white image of a person in the dark"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in a white jacket standing in a dark room"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man standing in front of a crowd at night"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a suit and tie is standing in a dark room"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a white shirt is staring at something"
+    }
+  ]
+}

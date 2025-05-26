@@ -1,0 +1,26 @@
+{
+  "video_id": "video5876",
+  "summary": "a man and a woman are sitting in a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a man in a car taking a picture of himself"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a man sitting in the back seat of a car"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a hat smoking a cigarette"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man and woman sitting in a car"
+    }
+  ]
+}

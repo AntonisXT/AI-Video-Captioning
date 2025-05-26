@@ -1,0 +1,36 @@
+{
+  "video_id": "video6345",
+  "summary": "a man and a woman are talking in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and glasses is talking to an interview"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man and woman sitting on a couch"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman is sitting in a chair and talking to a man"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man in a blue shirt is sitting down"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man and woman are talking in a room"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "the mentalist ' s wife and husband are seen on this screen"
+    }
+  ]
+}

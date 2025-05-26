@@ -1,0 +1,31 @@
+{
+  "video_id": "video7032",
+  "summary": "a man is working on a piece of metal and a man is working on a piece of wood",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is working on a piece of wood"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man is working on a car in a garage"
+    },
+    {
+      "start_time": 4,
+      "end_time": 16,
+      "caption": "a man working on a piece of metal"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "caption": "a man working on a motorcycle in a garage"
+    },
+    {
+      "start_time": 19,
+      "end_time": 21,
+      "caption": "a man working on a piece of metal"
+    }
+  ]
+}

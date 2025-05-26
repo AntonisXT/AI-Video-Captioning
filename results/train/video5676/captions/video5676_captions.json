@@ -1,0 +1,21 @@
+{
+  "video_id": "video5676",
+  "summary": "a man is cooking in a kitchen with a stove",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a kitchen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a stove with pots and pans on it"
+    },
+    {
+      "start_time": 5,
+      "end_time": 18,
+      "caption": "a man is cooking in a kitchen with a stove"
+    }
+  ]
+}

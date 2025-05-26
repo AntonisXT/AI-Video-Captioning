@@ -1,0 +1,31 @@
+{
+  "video_id": "video7344",
+  "summary": "a man in a gray shirt and black hat",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man and a little girl playing with a basketball ball"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is doing a push on a wrestling mat"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a man in a gray shirt and black hat"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "two boys are sitting at a table with a laptop"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a gray shirt and black hat"
+    }
+  ]
+}

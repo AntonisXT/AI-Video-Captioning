@@ -1,0 +1,26 @@
+{
+  "video_id": "video7489",
+  "summary": "a man in a suit and tie is being pulled by a crowd",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a tractor is on the ground with smoke coming out"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a group of people are working on a field"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a group of people are sitting in a bus"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a suit and tie is being pulled by a crowd"
+    }
+  ]
+}

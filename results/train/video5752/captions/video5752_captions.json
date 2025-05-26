@@ -1,0 +1,26 @@
+{
+  "video_id": "video5752",
+  "summary": "a plane flying over a green hill",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a painting of a mountain with a sky background"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a plane flying over a green hill"
+    },
+    {
+      "start_time": 5,
+      "end_time": 12,
+      "caption": "a lighthouse on the coast"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a video camera with a view of a body of water"
+    }
+  ]
+}

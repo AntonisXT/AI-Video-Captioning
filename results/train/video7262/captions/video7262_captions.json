@@ -1,0 +1,46 @@
+{
+  "video_id": "video7262",
+  "summary": "a man is sitting on a bed and a woman is sitting on a bed with a lamp",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man sitting on a bed"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man is holding a bottle of beer"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman is getting her foot massaged"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is cutting a tie on a woman"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman eating a sandwich"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman is holding a dog in her lap"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a woman eating a piece of food"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a woman sitting on a bed with a lamp"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6881",
+  "summary": "a cartoon scene with a man and woman in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the little mermaids"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon scene with a man and woman in a room"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "the princess and the frog in the animated movie"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a cartoon scene with a man and woman in a room"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon character in a white shirt and a black man in a white shirt"
+    }
+  ]
+}

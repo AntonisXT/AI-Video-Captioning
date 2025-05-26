@@ -1,0 +1,36 @@
+{
+  "video_id": "video6115",
+  "summary": "a man is using a drill to fix a wall",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is using a drill to fix a wall"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a tile floor with a tile pattern on it"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man installing a wall with a screw"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is standing on the floor with his feet up"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a tv screen showing a man in a suit"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a man is standing on a shelf with a box"
+    }
+  ]
+}

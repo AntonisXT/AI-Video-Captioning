@@ -1,0 +1,21 @@
+{
+  "video_id": "video6201",
+  "summary": "a man sitting in a chair next to a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man sitting down on a couch with a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man sitting in a chair next to a woman"
+    },
+    {
+      "start_time": 6,
+      "end_time": 15,
+      "caption": "a group of people"
+    }
+  ]
+}

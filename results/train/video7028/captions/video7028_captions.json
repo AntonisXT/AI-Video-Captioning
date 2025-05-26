@@ -1,0 +1,46 @@
+{
+  "video_id": "video7028",
+  "summary": "a man in a black jacket is standing in front of a crowd",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black jacket is standing in front of a crowd"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man in a hat and sunglasses is standing in front of a building"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "a man in a jacket and scarf standing on a street"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a man in a green jacket is looking at something"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a group of people standing around a table"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a city at night with many buildings and lights"
+    },
+    {
+      "start_time": 17,
+      "end_time": 20,
+      "caption": "a man riding a bike down a street at night"
+    },
+    {
+      "start_time": 20,
+      "end_time": 23,
+      "caption": "a man is walking down a street in front of a building"
+    }
+  ]
+}

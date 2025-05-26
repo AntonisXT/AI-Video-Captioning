@@ -1,0 +1,41 @@
+{
+  "video_id": "video6203",
+  "summary": "a person is putting french fries into a pot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a pot filled with french fries sitting on a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a bowl of soup with a spoon and spoon"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a person is putting french fries into a pot"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a person is holding a spoon with food in it"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a person is pouring a cup of coffee"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a plate of french fries and a glass of wine"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a white napkin with a pair of french fries on it"
+    }
+  ]
+}

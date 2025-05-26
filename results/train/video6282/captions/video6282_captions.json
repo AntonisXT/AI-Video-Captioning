@@ -1,0 +1,16 @@
+{
+  "video_id": "video6282",
+  "summary": "a tv screen with a picture of a person on it",
+  "scene_captions": [
+    {
+      "start_time": 2,
+      "end_time": 19,
+      "caption": "a tv screen with a picture of a person on it"
+    },
+    {
+      "start_time": 20,
+      "end_time": 25,
+      "caption": "a tv screen with a red car on it"
+    }
+  ]
+}

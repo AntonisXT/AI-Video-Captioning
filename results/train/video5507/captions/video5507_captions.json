@@ -1,0 +1,36 @@
+{
+  "video_id": "video5507",
+  "summary": "a woman taking a picture of herself",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "the spiral galaxy"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a black and white photo of a man with a beard"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "the logo for the game, which is a black background with a white question mark"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a woman taking a picture of herself"
+    },
+    {
+      "start_time": 13,
+      "end_time": 17,
+      "caption": "a person holding a cell phone in their hands"
+    },
+    {
+      "start_time": 18,
+      "end_time": 20,
+      "caption": "a woman taking a selfie self"
+    }
+  ]
+}

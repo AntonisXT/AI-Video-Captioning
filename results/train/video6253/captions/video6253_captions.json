@@ -1,0 +1,26 @@
+{
+  "video_id": "video6253",
+  "summary": "a person is frying a piece of salmon in a pan on the stove",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a pan with fish cooking in it"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is eating a fish in a bowl"
+    },
+    {
+      "start_time": 10,
+      "end_time": 18,
+      "caption": "fish frying in a pan on the stove"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a person is putting a piece of salmon into a pan"
+    }
+  ]
+}

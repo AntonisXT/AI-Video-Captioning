@@ -1,0 +1,46 @@
+{
+  "video_id": "video6843",
+  "summary": "a black and white photo of a man in a suit",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie is standing on a stage"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman is standing in a street with a cell"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a woman walking down the street with a bag"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a black shirt is smiling"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a black and white photo of a man in a suit"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman sitting on a couch reading a book"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a black background with a white circle"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a soldier holding a rifle in front of a wall"
+    }
+  ]
+}

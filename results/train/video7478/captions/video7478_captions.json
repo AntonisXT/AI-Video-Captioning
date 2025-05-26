@@ -1,0 +1,36 @@
+{
+  "video_id": "video7478",
+  "summary": "a video game showing a football player running with the ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a video game showing a football game"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "madden ' s game of the week"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a football game with a player running on the field"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "madden ' s game of the week"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a football player running with the ball"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a video game showing a football player running with the ball"
+    }
+  ]
+}

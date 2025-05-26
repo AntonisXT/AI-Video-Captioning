@@ -1,0 +1,21 @@
+{
+  "video_id": "video6988",
+  "summary": "a black cat sitting on the floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a black cat sitting on the floor"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a cat is playing with a toy"
+    },
+    {
+      "start_time": 5,
+      "end_time": 12,
+      "caption": "a black cat sitting on the floor"
+    }
+  ]
+}

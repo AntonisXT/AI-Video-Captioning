@@ -1,0 +1,26 @@
+{
+  "video_id": "video6260",
+  "summary": "two people are playing a game of table tennis",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a table tennis game with two players playing"
+    },
+    {
+      "start_time": 1,
+      "end_time": 15,
+      "caption": "table tennis player in action"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a man is playing ping po in a ping po game"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "caption": "table tennis player in action"
+    }
+  ]
+}

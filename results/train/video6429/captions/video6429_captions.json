@@ -1,0 +1,21 @@
+{
+  "video_id": "video6429",
+  "summary": "a group of people dancing on a stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a group of people dancing on a stage"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a group of people in a room with a purple background"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a group of people dancing on a stage"
+    }
+  ]
+}

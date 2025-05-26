@@ -1,0 +1,26 @@
+{
+  "video_id": "video7178",
+  "summary": "a cartoon character standing in front of a planet",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a cartoon character standing in front of a planet"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a group of people in a desert"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a bunch of different colored objects in a room"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a cartoon character holding a gun in front of a spaceship"
+    }
+  ]
+}

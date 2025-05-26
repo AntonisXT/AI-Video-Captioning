@@ -1,0 +1,31 @@
+{
+  "video_id": "video6270",
+  "summary": "a man in a black shirt is playing a video game",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a video game with a man in a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "caption": "how to make a minecraft house"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a video game with a man in a room"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "how to make a house"
+    },
+    {
+      "start_time": 12,
+      "end_time": 17,
+      "caption": "a video game with a man in a black shirt"
+    }
+  ]
+}

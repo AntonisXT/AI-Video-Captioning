@@ -1,0 +1,26 @@
+{
+  "video_id": "video6610",
+  "summary": "a video screen shows the scene of a military unit in iraq",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car is seen in this image from cnn"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a video screen shows the scene of a military unit in iraq"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a group of people in red shirts are being transported by ambulances"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is being carried by police officers"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "video6048",
+  "summary": "a man and woman in a hospital room standing in a living room",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man and woman standing in a living room"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "the big bang on the big bang show"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "caption": "a man and woman sitting on a couch"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a man and woman in a hospital room"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a man and woman sitting on a couch"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "caption": "the young sheldon and his wife are sitting on a couch"
+    },
+    {
+      "start_time": 22,
+      "end_time": 23,
+      "caption": "a man in a white coat standing in a hospital room"
+    }
+  ]
+}

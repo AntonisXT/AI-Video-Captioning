@@ -1,0 +1,16 @@
+{
+  "video_id": "video5904",
+  "summary": "a group of people are gathered in a room",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people dancing in a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 16,
+      "caption": "a group of people are gathered in a room"
+    }
+  ]
+}

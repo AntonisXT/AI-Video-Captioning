@@ -1,0 +1,31 @@
+{
+  "video_id": "video5935",
+  "summary": "a skier is skiing down a steep slope",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a person riding a snowboard down a snowy slope"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a person jumping off a bike into a lake"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a skier is skiing down a snowy slope"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "two people are snowboarding on a snowy hill"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a skier is skiing down a steep slope"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "video6426",
+  "summary": "a dog is sleeping in a box with a toy",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "an animal dies logo"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person is putting something in a bowl"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a dog is sitting in a plastic container"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a white card with a black border"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a man holding a camera and taking a picture"
+    },
+    {
+      "start_time": 8,
+      "end_time": 16,
+      "caption": "an animal is sitting in front of a cage"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "caption": "a dog is sleeping in a box with a toy"
+    }
+  ]
+}

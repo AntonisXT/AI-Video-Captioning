@@ -1,0 +1,31 @@
+{
+  "video_id": "video7122",
+  "summary": "a man walks down a sidewalk in front of a house",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a white house with a white door and a white car parked in front"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is painting a house with a paint roller"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man standing on a sidewalk"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a man walking down a sidewalk in front of a house"
+    },
+    {
+      "start_time": 9,
+      "end_time": 29,
+      "caption": "a man in a white shirt"
+    }
+  ]
+}

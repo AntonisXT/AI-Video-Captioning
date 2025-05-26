@@ -1,0 +1,21 @@
+{
+  "video_id": "video7186",
+  "summary": "a man in a blue shirt is working on a machine",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a blue shirt is fixing a machine"
+    },
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "caption": "a man in a blue shirt is working on a machine"
+    },
+    {
+      "start_time": 10,
+      "end_time": 13,
+      "caption": "a video screen with a picture of a man on a skateboard"
+    }
+  ]
+}

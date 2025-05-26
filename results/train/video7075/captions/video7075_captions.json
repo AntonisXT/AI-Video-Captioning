@@ -1,0 +1,21 @@
+{
+  "video_id": "video7075",
+  "summary": "First, A spongebok and a patrick sponge. Next, a person holds a yellow ticket with a barcode on it Finally, is shown with a man in a suit and a woman in a suit.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "sponge spongebok and patrick sponge"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a person holding a yellow ticket with a barcode on it"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a television screen with a picture of a man in a suit"
+    }
+  ]
+}

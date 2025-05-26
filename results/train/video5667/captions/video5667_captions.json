@@ -1,0 +1,36 @@
+{
+  "video_id": "video5667",
+  "summary": "a man is putting something on a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman sitting in a chair with a man"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man and a little girl are playing with a table"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a man is putting something on a table"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a green shirt and gloves"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman in a white shirt"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man laying on a red bench in a room"
+    }
+  ]
+}

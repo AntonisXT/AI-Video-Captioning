@@ -1,0 +1,26 @@
+{
+  "video_id": "video7455",
+  "summary": "a woman is cutting meat on a cutting board",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a woman is preparing food in the kitchen"
+    },
+    {
+      "start_time": 5,
+      "end_time": 16,
+      "caption": "a woman is cutting meat on a cutting board"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a plate of meat on a counter with a knife"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a woman is cutting meat on a cutting board"
+    }
+  ]
+}

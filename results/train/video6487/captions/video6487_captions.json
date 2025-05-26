@@ -1,0 +1,31 @@
+{
+  "video_id": "video6487",
+  "summary": "a small car is on the track in a race track",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man is riding a toy train in a room"
+    },
+    {
+      "start_time": 4,
+      "end_time": 12,
+      "caption": "a small car is on the track in a race track"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a group of people watching a toy car race"
+    },
+    {
+      "start_time": 14,
+      "end_time": 21,
+      "caption": "a group of people standing around a track"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "caption": "a small car is on the track in a race track"
+    }
+  ]
+}

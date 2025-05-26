@@ -1,0 +1,31 @@
+{
+  "video_id": "video6367",
+  "summary": "a man and woman are standing in front of a mirror",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man and woman standing in front of a wall"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man with long hair and glasses standing in front of a black background"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man and woman are standing in front of a mirror"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man with long hair and a white shirt is standing in front of a black background"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a black and white photo of a man in a suit"
+    }
+  ]
+}

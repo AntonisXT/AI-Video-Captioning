@@ -1,0 +1,26 @@
+{
+  "video_id": "video7232",
+  "summary": "a red bird in a room with a black and white checkered floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a green man in a room with a black and white checker"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a green triangle is shown in the middle of a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 9,
+      "caption": "a red bird in a room with a black and white checkered floor"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a person in a room with a red and yellow costume"
+    }
+  ]
+}

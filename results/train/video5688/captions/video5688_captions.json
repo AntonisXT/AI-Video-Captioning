@@ -1,0 +1,41 @@
+{
+  "video_id": "video5688",
+  "summary": "a group of people dancing in a gym",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of men dancing in a gym"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a col of photos of people dancing"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in sunglasses and a jacket is dancing"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a group of people dancing in a gym"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman dancing in a room with other women"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man in a suit and sunglasses dancing with colorful streams"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a couple dancing in a dance studio"
+    }
+  ]
+}

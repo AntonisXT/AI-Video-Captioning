@@ -1,0 +1,21 @@
+{
+  "video_id": "video7009",
+  "summary": "a man walking down the street in front of a store",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a black background with a white and red flower"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man sitting at a desk with a laptop"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a man walking down the street in front of a store"
+    }
+  ]
+}

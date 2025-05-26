@@ -1,0 +1,36 @@
+{
+  "video_id": "video5934",
+  "summary": "a living room with a couch and a television",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a living room with a couch, television, and a fireplace"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a kitchen"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a kitchen with a large stainless refrigerator and a counter"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a room with a couch and a television"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man standing in a kitchen with a television"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a man is watching a soccer game on the tv"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6873",
+  "summary": "a cartoon character is holding a ball in his hand",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character is holding a knife"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon character is being hugged by another character"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a cartoon character with a big smile on his face"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a cartoon character holding a ball in his hand"
+    }
+  ]
+}

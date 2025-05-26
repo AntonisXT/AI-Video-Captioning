@@ -1,0 +1,21 @@
+{
+  "video_id": "video6254",
+  "summary": "First, A car is submerged in the water. Next, a man is seen in a video posted by the bbc Finally, A man is holding a baby in his arms.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car is submerged in the water"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is seen in a video posted by the bbc"
+    },
+    {
+      "start_time": 2,
+      "end_time": 12,
+      "caption": "a man holding a baby in his arms"
+    }
+  ]
+}

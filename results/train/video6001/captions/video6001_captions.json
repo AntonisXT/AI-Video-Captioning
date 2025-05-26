@@ -1,0 +1,16 @@
+{
+  "video_id": "video6001",
+  "summary": "a car driving down a street at night",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is seen in this image from the video"
+    },
+    {
+      "start_time": 1,
+      "end_time": 18,
+      "caption": "a car driving down a street at night"
+    }
+  ]
+}

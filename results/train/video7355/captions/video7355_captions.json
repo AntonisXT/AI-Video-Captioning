@@ -1,0 +1,26 @@
+{
+  "video_id": "video7355",
+  "summary": "the good dinosaur logo is a green dinosaur silhouetted on a black background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a black background with a white border"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a green dinosaur silhouetted on a black background"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "the good dinosaur logo"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "caption": "a black background with the words thanksgiving"
+    }
+  ]
+}

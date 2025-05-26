@@ -1,0 +1,61 @@
+{
+  "video_id": "video6543",
+  "summary": "a woman is dancing in the street with a man",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a couple is kissing in the grass"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a couple is dancing together in the street"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman is dancing on the stage"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a group of people are gathered around a fire"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is seen in a video posted by the tv screen"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a group of people are dancing in the street"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a tv screen with a picture of a man and woman"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman is dancing in the street with a man"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a group of people standing around a fire"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a man is being filmed by a woman"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "caption": "a man is laying down on the ground"
+    }
+  ]
+}

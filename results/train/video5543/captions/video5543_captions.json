@@ -1,0 +1,26 @@
+{
+  "video_id": "video5543",
+  "summary": "a woman in a black dress sitting on a desk",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man and woman are sitting down together"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman in a black dress is on a tv screen"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "a woman sitting at a table with a child"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman in a black dress sitting on a desk"
+    }
+  ]
+}

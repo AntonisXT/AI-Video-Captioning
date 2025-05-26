@@ -1,0 +1,16 @@
+{
+  "video_id": "video7419",
+  "summary": "a man playing guitar on a stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man playing a guitar with a flag on it"
+    },
+    {
+      "start_time": 2,
+      "end_time": 10,
+      "caption": "a man playing guitar on a stage"
+    }
+  ]
+}

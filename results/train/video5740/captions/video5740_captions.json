@@ -1,0 +1,36 @@
+{
+  "video_id": "video5740",
+  "summary": "a cartoon cat in a suit and tie sitting at a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a cartoon cat sitting in a chair in a room"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a cartoon character is talking to another character"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a cartoon cat and a dog are standing on a red carpet"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon cat is drinking from a bottle"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a cartoon cat in a suit and tie sitting at a table"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a cartoon character in a yellow suit and hat"
+    }
+  ]
+}

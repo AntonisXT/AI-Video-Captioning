@@ -1,0 +1,41 @@
+{
+  "video_id": "video6143",
+  "summary": "a man in a cowboy hat is standing next to a horse",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man sitting on the ground with a hat on"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a hat and a dog"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man sitting on the ground with a hat on"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man and woman are standing in front of a rock"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man sitting on the ground with a dog"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a hat and vest kneeling on a dirt road"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a man in a cowboy hat is standing next to a horse"
+    }
+  ]
+}

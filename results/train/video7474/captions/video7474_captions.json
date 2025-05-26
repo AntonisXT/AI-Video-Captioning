@@ -1,0 +1,16 @@
+{
+  "video_id": "video7474",
+  "summary": "a car with its door open and the door open",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is opening the door to his car"
+    },
+    {
+      "start_time": 1,
+      "end_time": 13,
+      "caption": "a car with its door open and the door open"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video5591",
+  "summary": "a plate with a fried egg and vegetables",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a plate of food on a table with a glass of wine"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a plate with a fried egg and vegetables"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "a person is holding a fork and forking an egg on a plate"
+    }
+  ]
+}

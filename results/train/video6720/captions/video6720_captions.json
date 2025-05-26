@@ -1,0 +1,16 @@
+{
+  "video_id": "video6720",
+  "summary": "a man in a kitchen preparing food",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a person is mixing a bowl of food"
+    },
+    {
+      "start_time": 3,
+      "end_time": 11,
+      "caption": "a man in a kitchen preparing food"
+    }
+  ]
+}

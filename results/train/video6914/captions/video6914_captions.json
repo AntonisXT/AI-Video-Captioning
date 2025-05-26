@@ -1,0 +1,26 @@
+{
+  "video_id": "video6914",
+  "summary": "a man in a suit and tie standing on a tv set",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "the simpsons is sitting on a couch with a woman"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a black and white photo of a man in a suit"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a man in a suit and tie standing on a tv set"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a newscast with two people sitting at a table"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6227",
+  "summary": "a woman in a black dress standing in front of a man in a white shirt",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man and woman are talking in a store"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman in a black dress standing in front of a man"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in a hat and shirt is standing in a room"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman in a black dress standing next to a man in a white shirt"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a woman in a black dress is standing in a store"
+    }
+  ]
+}

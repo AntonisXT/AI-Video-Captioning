@@ -1,0 +1,36 @@
+{
+  "video_id": "video6274",
+  "summary": "a woman in a white dress standing next to a motorcycle",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman dancing in front of a car"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman in a red dress is walking through a garage"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a woman in a green dress standing next to a car"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a woman in a white dress standing in front of a crowd"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman in a white dress singing into a microphone"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a woman in a white dress standing next to a motorcycle"
+    }
+  ]
+}

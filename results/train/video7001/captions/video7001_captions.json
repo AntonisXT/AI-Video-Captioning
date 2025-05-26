@@ -1,0 +1,21 @@
+{
+  "video_id": "video7001",
+  "summary": "a man in a striped shirt holding a golf club",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people standing around a golf ball"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man in a striped shirt holding a golf club"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a golf player is playing a game on the tv screen"
+    }
+  ]
+}

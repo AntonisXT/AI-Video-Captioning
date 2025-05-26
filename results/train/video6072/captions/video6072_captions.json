@@ -1,0 +1,61 @@
+{
+  "video_id": "video6072",
+  "summary": "a woman is standing in a kitchen with a tv screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man and woman standing in a kitchen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman standing in a library with a man"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of people standing around a table"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "two men sitting on a bench in front of a building"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a woman is standing in front of a mirror"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a woman in a white shirt is standing in front of a window"
+    },
+    {
+      "start_time": 12,
+      "end_time": 18,
+      "caption": "a woman is standing in a kitchen with a tv screen"
+    },
+    {
+      "start_time": 19,
+      "end_time": 20,
+      "caption": "a woman is standing in front of a mirror"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "caption": "a man is standing in a kitchen with a dog"
+    },
+    {
+      "start_time": 21,
+      "end_time": 22,
+      "caption": "a woman is standing in a kitchen with a tv screen"
+    },
+    {
+      "start_time": 22,
+      "end_time": 25,
+      "caption": "a woman is sitting at a table in a room"
+    }
+  ]
+}

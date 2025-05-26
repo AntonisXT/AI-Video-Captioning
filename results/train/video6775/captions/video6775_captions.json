@@ -1,0 +1,26 @@
+{
+  "video_id": "video6775",
+  "summary": "a cartoon character holds a broom and a cat",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a cartoon character holding a broom and a cat"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a cat and a dog are sitting next to each other cats"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a cat and a dog are shown in this quote"
+    },
+    {
+      "start_time": 10,
+      "end_time": 13,
+      "caption": "a cartoon character reading a book with a cat sitting on the table"
+    }
+  ]
+}

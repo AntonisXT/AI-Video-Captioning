@@ -1,0 +1,21 @@
+{
+  "video_id": "video5882",
+  "summary": "a person is cooking food in a pan",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "two women in aprons cooking in a kitchen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a person is cooking meat in a pan"
+    },
+    {
+      "start_time": 3,
+      "end_time": 26,
+      "caption": "a person is cooking food in a pan"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "video5917",
+  "summary": "a man is riding a surfboard on top of a wave",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is standing in the water on a surfboard"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman is running in the water at the beach"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man riding a surfboard on top of a wave"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman walking on the beach with a guitar"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a kaying boat in the ocean"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman in a white shirt and jeans holding a surfboard"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a boat is in the water near a mountain"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7319",
+  "summary": "a stage with a red curtain and a large screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a stage with a screen and a screen on it"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a large screen with a picture of a bird flying over it"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a cartoon scene with a man on a stage"
+    },
+    {
+      "start_time": 6,
+      "end_time": 15,
+      "caption": "a stage with a red curtain and a large screen"
+    }
+  ]
+}

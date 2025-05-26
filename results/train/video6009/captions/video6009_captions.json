@@ -1,0 +1,21 @@
+{
+  "video_id": "video6009",
+  "summary": "a man in a suit and tie sitting on a bus",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in uniform"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a car driving down a road with a mirror"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man in a suit and tie sitting on a bus"
+    }
+  ]
+}

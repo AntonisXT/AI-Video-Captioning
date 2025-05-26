@@ -1,0 +1,26 @@
+{
+  "video_id": "video6781",
+  "summary": "a parrot is flying over a tv and a parrot is sitting on a fan",
+  "scene_captions": [
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "from humans behind desalee"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a bird in a cage with a yellow bird inside"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a parrot is sitting on a fan"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a green bird is flying over a tv"
+    }
+  ]
+}

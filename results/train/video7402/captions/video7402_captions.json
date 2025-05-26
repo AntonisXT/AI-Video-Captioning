@@ -1,0 +1,46 @@
+{
+  "video_id": "video7402",
+  "summary": "a man is using a cell phone to check the location of a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is holding a small piece of plastic"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "how to replace a door handle"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a black background with a white and red light"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "how to replace a car key"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is holding a gun in his hand"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is using a cell phone to check the location of a car"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a person is opening the hood of a car"
+    },
+    {
+      "start_time": 12,
+      "end_time": 22,
+      "caption": "a man is driving a car with a baby in the back seat"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video5959",
+  "summary": "a metal bucket filled with flour and a metal bowl filled with batter",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a white toilet sitting on the floor next to a toilet"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a metal bowl filled with batter"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a mixer with a mixture of liquid inside"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a metal bucket filled with flour and flour"
+    }
+  ]
+}

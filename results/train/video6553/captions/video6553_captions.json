@@ -1,0 +1,16 @@
+{
+  "video_id": "video6553",
+  "summary": "a man driving a car with a steering",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car driving down a road in the rain"
+    },
+    {
+      "start_time": 1,
+      "end_time": 13,
+      "caption": "a man driving a car with a steering"
+    }
+  ]
+}

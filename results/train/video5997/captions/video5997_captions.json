@@ -1,0 +1,26 @@
+{
+  "video_id": "video5997",
+  "summary": "a soccer player throws a ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is playing golf in a dark room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is standing on the sidelines of a football field"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a video screen showing a player throwing a ball"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a soccer goal is in the middle of a field"
+    }
+  ]
+}

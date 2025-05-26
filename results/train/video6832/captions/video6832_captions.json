@@ -1,0 +1,31 @@
+{
+  "video_id": "video6832",
+  "summary": "a woman in a red coat is standing on the street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is dancing on the street in front of a crowd"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is walking down the street with a camera"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is standing in the middle of the street"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man is standing on the street talking to a woman"
+    },
+    {
+      "start_time": 4,
+      "end_time": 11,
+      "caption": "a woman in a red coat is standing on the street"
+    }
+  ]
+}

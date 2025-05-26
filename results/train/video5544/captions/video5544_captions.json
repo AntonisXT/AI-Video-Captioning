@@ -1,0 +1,31 @@
+{
+  "video_id": "video5544",
+  "summary": "a group of young girls in pink dresses are dancing on the street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a little girl in a pink car with a dog"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a group of children are dancing in front of a mural"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a little girl in a pink car with a dog"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a group of children are dancing in the street"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a group of young girls in pink dresses dancing on the street"
+    }
+  ]
+}

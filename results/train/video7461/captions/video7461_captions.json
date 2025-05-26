@@ -1,0 +1,36 @@
+{
+  "video_id": "video7461",
+  "summary": "a large crowd is gathered around a stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the band is playing on a stage with a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman is playing drums on a stage"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man in a black shirt and a woman in a black dress on stage"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a large crowd is watching a concert"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man playing a guitar on stage with another man"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a large crowd is gathered around a stage"
+    }
+  ]
+}

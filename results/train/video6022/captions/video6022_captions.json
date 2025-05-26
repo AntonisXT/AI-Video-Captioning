@@ -1,0 +1,21 @@
+{
+  "video_id": "video6022",
+  "summary": "a person holding a toy in their hand",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person putting a plastic container with a tooth"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person is putting a bowl with paper"
+    },
+    {
+      "start_time": 2,
+      "end_time": 21,
+      "caption": "a person holding a toy in their hand"
+    }
+  ]
+}

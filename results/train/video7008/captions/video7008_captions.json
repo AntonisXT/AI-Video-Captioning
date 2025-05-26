@@ -1,0 +1,21 @@
+{
+  "video_id": "video7008",
+  "summary": "a man swimming in a small pool near a waterfall",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a small stream in the jungle"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a man swimming in a small pool near a waterfall"
+    },
+    {
+      "start_time": 8,
+      "end_time": 15,
+      "caption": "several boats are parked on the water near trees"
+    }
+  ]
+}

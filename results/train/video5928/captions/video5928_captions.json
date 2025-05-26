@@ -1,0 +1,31 @@
+{
+  "video_id": "video5928",
+  "summary": "a woman in a bathroom with a mirror and a man standing in a room with a mirror",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is standing in a room with a mirror"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a woman is standing in front of a bed"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a woman in a bathroom with a mirror"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man is watching a movie on a screen"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man and woman are in a room"
+    }
+  ]
+}

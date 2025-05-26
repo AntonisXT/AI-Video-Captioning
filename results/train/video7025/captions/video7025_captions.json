@@ -1,0 +1,36 @@
+{
+  "video_id": "video7025",
+  "summary": "a group of people are sitting on a beach",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a young boy running on the beach"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of people sitting on a beach"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman in a bikini is dancing on the beach"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a group of people sitting on a grass covered field"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a group of people are on the beach"
+    },
+    {
+      "start_time": 7,
+      "end_time": 13,
+      "caption": "a black and white photo of a man in uniform"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6505",
+  "summary": "a car is shown in a fire on the side of a road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a car is engulfed by fire in the street"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a car is shown in a video posted by the police"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a car is shown in a fire on the side of a road"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a car is seen in the woods near the town of santa feli"
+    }
+  ]
+}

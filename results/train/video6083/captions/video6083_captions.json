@@ -1,0 +1,26 @@
+{
+  "video_id": "video6083",
+  "summary": "a man is holding a small lizard in his hand",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is holding a small piece of paper"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a man holding a small lizard in his hand"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a spider is held in a person ' s hand"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a person holding a small brown butterfly"
+    }
+  ]
+}

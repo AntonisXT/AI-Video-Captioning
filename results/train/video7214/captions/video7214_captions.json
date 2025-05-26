@@ -1,0 +1,21 @@
+{
+  "video_id": "video7214",
+  "summary": "a video game of a race car driving on a track",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a video game of a race track with a person on the side"
+    },
+    {
+      "start_time": 3,
+      "end_time": 10,
+      "caption": "f1 racing game"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a video game of a race car driving on a track"
+    }
+  ]
+}

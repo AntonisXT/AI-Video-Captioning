@@ -1,0 +1,21 @@
+{
+  "video_id": "video6966",
+  "summary": "a person in an apron is peeling a piece of bread",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in an apron is preparing food"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a woman is making a dough with a rolling machine"
+    },
+    {
+      "start_time": 6,
+      "end_time": 13,
+      "caption": "a person in an apron is peeling a piece of bread"
+    }
+  ]
+}

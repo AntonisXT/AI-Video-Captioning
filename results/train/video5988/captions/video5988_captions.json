@@ -1,0 +1,46 @@
+{
+  "video_id": "video5988",
+  "summary": "a man is standing on a table with a laptop",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a white shirt and tie is talking to another man"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man is playing a video game on a television"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a suit and tie"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man sitting at a desk in an office"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is standing on a table with a laptop"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a computer screen with a picture of a house"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a man is holding a soccer ball in his hand"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a man is standing on a table with a laptop"
+    }
+  ]
+}

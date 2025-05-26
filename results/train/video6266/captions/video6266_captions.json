@@ -1,0 +1,21 @@
+{
+  "video_id": "video6266",
+  "summary": "two men are dancing in a room with black walls",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "two people are playing a video game in a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 13,
+      "caption": "two men are dancing in a room with black walls"
+    },
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "caption": "a man in a black shirt is standing in front of a white wall"
+    }
+  ]
+}

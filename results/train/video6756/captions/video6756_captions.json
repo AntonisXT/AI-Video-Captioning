@@ -1,0 +1,41 @@
+{
+  "video_id": "video6756",
+  "summary": "a man is holding the steering wheel of a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a green car with a red light on it"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a yellow car driving down a street next to houses"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a man is holding the steering wheel of a car"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "two men in a car"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a person is standing in the trunk of a car"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "caption": "a small car parked in front of a house"
+    },
+    {
+      "start_time": 22,
+      "end_time": 23,
+      "caption": "a man in a car holding a cell"
+    }
+  ]
+}

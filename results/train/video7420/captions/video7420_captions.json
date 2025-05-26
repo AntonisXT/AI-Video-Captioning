@@ -1,0 +1,41 @@
+{
+  "video_id": "video7420",
+  "summary": "a person is holding a towel over a dog",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a woman in a black tank top"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a bathroom with a toilet, sink, and a towel rack"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a person is holding a towel over a dog"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a person holding a stuffed animal in a bathroom"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a hamie is wrapped in a blanket"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a woman is holding a small bird in her hands"
+    },
+    {
+      "start_time": 11,
+      "end_time": 15,
+      "caption": "a person is holding a towel over a dog"
+    }
+  ]
+}

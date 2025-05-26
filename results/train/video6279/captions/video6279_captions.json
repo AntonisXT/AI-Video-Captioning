@@ -1,0 +1,41 @@
+{
+  "video_id": "video6279",
+  "summary": "a boat is sailing on the water near a small island",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a street sign on the side of a road"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a large white sign on a pole in the water"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a boat is sailing in the ocean"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a view of the ocean from a balcony"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a view of a wind turbine from a car"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a car driving down a highway with a truck behind it"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a boat is sailing on the water near a small island"
+    }
+  ]
+}

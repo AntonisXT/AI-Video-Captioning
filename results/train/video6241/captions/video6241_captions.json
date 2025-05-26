@@ -1,0 +1,21 @@
+{
+  "video_id": "video6241",
+  "summary": "a person is putting a t - shirt on a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a person is holding a t - shirt with a picture of a girl"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man in a white shirt"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a person is putting a t - shirt on a table"
+    }
+  ]
+}

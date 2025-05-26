@@ -1,0 +1,26 @@
+{
+  "video_id": "video7056",
+  "summary": "a woman is cooking in a kitchen with a stove",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is holding a metal pan"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person is cooking in a kitchen with a stove"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman in a blue shirt is standing in a kitchen"
+    },
+    {
+      "start_time": 3,
+      "end_time": 10,
+      "caption": "a woman is cooking in the kitchen"
+    }
+  ]
+}

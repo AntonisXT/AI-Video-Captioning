@@ -1,0 +1,31 @@
+{
+  "video_id": "video7433",
+  "summary": "a man and a woman are dancing in a dark room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a woman in a green coat"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man and woman dancing in a dark room"
+    },
+    {
+      "start_time": 5,
+      "end_time": 11,
+      "caption": "a woman in a red spider suit is holding a man"
+    },
+    {
+      "start_time": 12,
+      "end_time": 23,
+      "caption": "spider and the spider - man in the spider - man trailer"
+    },
+    {
+      "start_time": 24,
+      "end_time": 28,
+      "caption": "a man and a woman are standing in the dark"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6955",
+  "summary": "a man on a surf board riding a wave",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man on a surf board riding a wave"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "the tv series freaks of nature"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a car is seen on the side of a road"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a bus is driving down the road in the rain"
+    }
+  ]
+}

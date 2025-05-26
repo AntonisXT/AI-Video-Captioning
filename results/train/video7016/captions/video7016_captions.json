@@ -1,0 +1,21 @@
+{
+  "video_id": "video7016",
+  "summary": "a group of children are painting easter eggs",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of girls are making a cake"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a group of children are painting easter eggs"
+    },
+    {
+      "start_time": 6,
+      "end_time": 15,
+      "caption": "a child is painting with colorful paint"
+    }
+  ]
+}

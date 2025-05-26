@@ -1,0 +1,41 @@
+{
+  "video_id": "video6769",
+  "summary": "a man in a black shirt is standing in front of a window",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie is sitting on a bed"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man laying in bed with a dog"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a suit is standing next to a television"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is sitting at a table with a laptop"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is sitting in a chair with his head down"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man in a black shirt is standing in front of a window"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a woman is standing in a room with a black shirt"
+    }
+  ]
+}

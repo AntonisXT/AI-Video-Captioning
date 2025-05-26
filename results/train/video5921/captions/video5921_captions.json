@@ -1,0 +1,26 @@
+{
+  "video_id": "video5921",
+  "summary": "a man is drawing a picture on a piece of paper",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a man is drawing a picture on a piece of paper"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man in a green shirt"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a person drawing a cartoon character"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a drawing of a person walking on a white surface"
+    }
+  ]
+}

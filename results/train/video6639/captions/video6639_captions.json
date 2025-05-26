@@ -1,0 +1,36 @@
+{
+  "video_id": "video6639",
+  "summary": "a group of people are sitting on a bench",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of men sitting on a bench"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of people standing in front of a crowd"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of people sitting on a bench"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a crowd of people watching a man on stage"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a group of people sitting in a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a group of people standing around a fire"
+    }
+  ]
+}

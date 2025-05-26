@@ -1,0 +1,26 @@
+{
+  "video_id": "video7212",
+  "summary": "a man and a woman are walking on the beach",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a man and woman are walking on the beach"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man is standing on the beach with his feet up"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a dog is walking across the street"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a man is walking down the street with a dog"
+    }
+  ]
+}

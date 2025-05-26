@@ -1,0 +1,51 @@
+{
+  "video_id": "video6896",
+  "summary": "a person is using a spat to remove the chocolate from the cake",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is washing their hands in a sink"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person holding a cell phone in their hand"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a person in blue gloves is putting a piece of food into a container"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a person is using a spat to remove the chocolate from the cake"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a person is using a blue spat to remove the dirt from the floor"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a person is holding a piece of wood"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a person is cutting a cake with a knife"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a dog eating food out of a bowl"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a white plate with food on it"
+    }
+  ]
+}

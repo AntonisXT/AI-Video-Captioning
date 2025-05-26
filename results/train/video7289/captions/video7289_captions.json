@@ -1,0 +1,21 @@
+{
+  "video_id": "video7289",
+  "summary": "First, A group of people are standing around a table. Next, is shown on a screen. Finally, the logo for the new tv series",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people standing around a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 13,
+      "caption": "a video showing the different stages of the dance"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "the logo for the new tv series"
+    }
+  ]
+}

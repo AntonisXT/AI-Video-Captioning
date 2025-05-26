@@ -1,0 +1,26 @@
+{
+  "video_id": "video7130",
+  "summary": "a whale is seen in the water near the shore of the island",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a whale is seen in the water near the shore of the island"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "a group of dolphins swimming in the ocean"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a group of humpbacks jumping out of the water"
+    },
+    {
+      "start_time": 9,
+      "end_time": 14,
+      "caption": "a whale is seen in the water as it dives"
+    }
+  ]
+}

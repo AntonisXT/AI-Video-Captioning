@@ -1,0 +1,16 @@
+{
+  "video_id": "video5789",
+  "summary": "a group of people playing ping pong",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man standing in front of a blue wall"
+    },
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "caption": "a group of people playing ping pong"
+    }
+  ]
+}

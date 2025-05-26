@@ -1,0 +1,31 @@
+{
+  "video_id": "video7005",
+  "summary": "a woman in a black jacket and black top sitting down",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a black jacket sitting down"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "two women sitting down on a table"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman sitting next to a man on a tv set"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a woman in a black jacket and black top"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man in a suit sitting on a chair"
+    }
+  ]
+}

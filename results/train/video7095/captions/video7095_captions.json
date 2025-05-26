@@ -1,0 +1,31 @@
+{
+  "video_id": "video7095",
+  "summary": "a man in a suit and tie is standing in front of a window",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man is walking through a room with a fire"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a white shirt is standing in a room"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a man in a suit and tie standing in front of a window"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a black background with a white and red flower"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is holding a camera up to the sky"
+    }
+  ]
+}

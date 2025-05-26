@@ -1,0 +1,31 @@
+{
+  "video_id": "video6454",
+  "summary": "a woman in a white dress standing in a room",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a woman in a white dress standing in a room"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman is standing in front of a brick wall"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman with long blonde hair is standing in front of a window"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a group of women in white robes standing around each other women"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman in a white shirt and white pants"
+    }
+  ]
+}

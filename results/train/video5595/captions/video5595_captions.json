@@ -1,0 +1,36 @@
+{
+  "video_id": "video5595",
+  "summary": "a man in a red shirt is dancing on stage and a man in a suit and tie is holding a microphone",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man in a suit and tie is holding a microphone"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman standing on a stage in front of a screen"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a group of people on stage with one person standing on the ground"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a television screen with a man on it"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a red shirt is dancing on stage"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "the cast of the show is singing on stage"
+    }
+  ]
+}

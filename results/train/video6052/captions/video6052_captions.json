@@ -1,0 +1,41 @@
+{
+  "video_id": "video6052",
+  "summary": "a city at night with a neon light",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a city street with many billboards and lights"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a city at night with a neon light"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a crowd of people standing around a stage"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a fire burns in the middle of a city"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man in a suit is standing on a street"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a video game with a large city in the background"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a man in a suit is standing in front of a crowd"
+    }
+  ]
+}

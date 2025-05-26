@@ -1,0 +1,36 @@
+{
+  "video_id": "video7388",
+  "summary": "a man in a white shirt is preparing food on a stove",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man and woman are preparing food in a kitchen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man is cooking in a kitchen with a large pot"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man in a white shirt is preparing food"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "the big brother ' s kitchen"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man is making food on a stove"
+    },
+    {
+      "start_time": 10,
+      "end_time": 14,
+      "caption": "a man is sitting at a table with a laptop"
+    }
+  ]
+}

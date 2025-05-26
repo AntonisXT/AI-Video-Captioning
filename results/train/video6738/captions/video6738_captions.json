@@ -1,0 +1,36 @@
+{
+  "video_id": "video6738",
+  "summary": "a group of people taking a self",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character is holding a cell phone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a group of people taking a self"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a woman in a white shirt and jeans is dancing"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a woman is standing in front of a white screen"
+    },
+    {
+      "start_time": 12,
+      "end_time": 21,
+      "caption": "a woman with blonde hair and a black hat"
+    },
+    {
+      "start_time": 22,
+      "end_time": 26,
+      "caption": "a man and woman taking a self"
+    }
+  ]
+}

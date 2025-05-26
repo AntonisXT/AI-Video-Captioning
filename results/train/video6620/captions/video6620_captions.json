@@ -1,0 +1,26 @@
+{
+  "video_id": "video6620",
+  "summary": "a man and woman are posing for the camera",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman taking a selfie with her camera"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a woman holding a cell phone in her hand"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a man taking a self"
+    },
+    {
+      "start_time": 12,
+      "end_time": 16,
+      "caption": "a man and woman are posing for the camera"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video5783",
+  "summary": "a man is walking down the street with a skateboard",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is walking down the street with a skateboard"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a group of people walking down the street"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man is walking down the street in a parking"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a car driving down a street with a sky background"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man is standing in the middle of a parking lot"
+    }
+  ]
+}

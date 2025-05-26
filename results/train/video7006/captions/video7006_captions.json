@@ -1,0 +1,41 @@
+{
+  "video_id": "video7006",
+  "summary": "a man is dancing on a stage with a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie is talking to another man"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a blue shirt sitting on a chair"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man standing next to a man on a stage"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a man is dancing on the stage with a woman"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man holding a sign with a sign in front of him"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man in a brown jacket and yellow shirt"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man sitting down with a microphone in front of him"
+    }
+  ]
+}

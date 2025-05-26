@@ -1,0 +1,21 @@
+{
+  "video_id": "video6788",
+  "summary": "a man and a woman are standing in a kitchen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a man and a woman are standing in a kitchen"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman and a girl eating food in a kitchen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a young girl is standing in a kitchen"
+    }
+  ]
+}

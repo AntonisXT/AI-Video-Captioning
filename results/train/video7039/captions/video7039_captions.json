@@ -1,0 +1,36 @@
+{
+  "video_id": "video7039",
+  "summary": "a woman in a white dress is standing in front of a man",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is getting her hair done"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a couple of young women are standing together"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "two girls are standing in front of a screen"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a woman in a white dress is standing in front of a man"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a woman is standing in front of a crowd"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a woman in a white dress is standing on a stage"
+    }
+  ]
+}

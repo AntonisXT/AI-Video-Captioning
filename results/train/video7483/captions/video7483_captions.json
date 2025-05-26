@@ -1,0 +1,21 @@
+{
+  "video_id": "video7483",
+  "summary": "a man is standing in front of a couch",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man is standing in front of a couch"
+    },
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "caption": "a man is standing in front of a couch"
+    },
+    {
+      "start_time": 10,
+      "end_time": 17,
+      "caption": "a man is standing in front of a couch"
+    }
+  ]
+}

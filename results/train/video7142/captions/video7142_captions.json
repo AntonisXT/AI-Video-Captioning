@@ -1,0 +1,21 @@
+{
+  "video_id": "video7142",
+  "summary": "a girl in a white dress and pink hat",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a little girl in a pink dress is standing on a stage"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a girl in a white dress and pink hat"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a doll is holding a stuffed animal"
+    }
+  ]
+}

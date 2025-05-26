@@ -1,0 +1,26 @@
+{
+  "video_id": "video5675",
+  "summary": "a woman pushes a baby in a stroller",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a baby in a stroller is shown in this image"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man pushing a baby in a stroll"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a person holding a baby in a red sling"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman pushing a baby in a stroller"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video7209",
+  "summary": "a car driving down a road with a view of the sky",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a white car driving down a road"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a car is parked in a parking lot"
+    },
+    {
+      "start_time": 2,
+      "end_time": 9,
+      "caption": "a car driving down a road with a view of the sky"
+    }
+  ]
+}

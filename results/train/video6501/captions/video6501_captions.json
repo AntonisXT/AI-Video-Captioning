@@ -1,0 +1,31 @@
+{
+  "video_id": "video6501",
+  "summary": "a cartoon character is walking with a chicken",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a pink pig with a rainbow painted on it"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a cartoon character with a skateboard in his hand"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a cartoon character is walking with a chicken"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a cartoon penguin holding a pink object in his hand"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a cartoon pig flying through the air"
+    }
+  ]
+}

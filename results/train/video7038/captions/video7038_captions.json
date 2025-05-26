@@ -1,0 +1,21 @@
+{
+  "video_id": "video7038",
+  "summary": "a man cooking food in a large pot",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 14,
+      "caption": "a person cooking food in a pan on a stove"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a pot filled with soup and a spoon"
+    },
+    {
+      "start_time": 18,
+      "end_time": 23,
+      "caption": "a man cooking food in a large pot"
+    }
+  ]
+}

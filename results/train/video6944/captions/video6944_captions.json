@@ -1,0 +1,41 @@
+{
+  "video_id": "video6944",
+  "summary": "a cartoon character in a desert scene",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character in a desert scene"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "donald and friends - the duck and friends"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "the flints in the flints cartoon"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a cartoon character is standing in the desert"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a video game with a man riding a motorcycle"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a cartoon scene with a man in a desert"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "duck and ducky in the flints"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6962",
+  "summary": "a field with a lot of grass and trees",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a field with a lot of grass and trees"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man is walking in a field with a frc"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a field with a lot of grass and trees"
+    },
+    {
+      "start_time": 9,
+      "end_time": 15,
+      "caption": "a man is walking in a field with a frc"
+    }
+  ]
+}

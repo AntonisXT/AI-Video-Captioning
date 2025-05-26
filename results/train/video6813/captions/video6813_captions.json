@@ -1,0 +1,31 @@
+{
+  "video_id": "video6813",
+  "summary": "a cartoon character is standing on a red carpet",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character with a clock and a clock"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon character with a sword and a castle in the background"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man standing on top of a moon"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a cartoon character flying through the air with a star in the background"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "a cartoon character is standing on a red carpet"
+    }
+  ]
+}

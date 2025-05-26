@@ -1,0 +1,31 @@
+{
+  "video_id": "video6231",
+  "summary": "a dog is playing with a toy in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a dog is laying on the floor in a room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "caption": "a group of dogs in a cage"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a group of chickens"
+    },
+    {
+      "start_time": 12,
+      "end_time": 16,
+      "caption": "a group of white dogs"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a dog is playing with a toy in a room"
+    }
+  ]
+}

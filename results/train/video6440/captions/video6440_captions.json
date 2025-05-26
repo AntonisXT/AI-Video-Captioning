@@ -1,0 +1,21 @@
+{
+  "video_id": "video6440",
+  "summary": "a beach with a large house and palm trees",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a beach with a boat on it and a blue sky"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a beach with palm trees and people walking on the sand"
+    },
+    {
+      "start_time": 8,
+      "end_time": 15,
+      "caption": "a beach with a large house and palm trees"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video7118",
+  "summary": "a woman sitting on a bed with a lamp",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a white shirt is sitting on a couch"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a woman sitting on a bed with a lamp"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a person holding a cell phone in their hand"
+    }
+  ]
+}

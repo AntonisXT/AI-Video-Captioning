@@ -1,0 +1,36 @@
+{
+  "video_id": "video5598",
+  "summary": "a man is holding a gun and pointing it at the camera",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man holding a black hair clip"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person is using a tool to remove a blue shirt"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man is holding a gun and pointing it at the camera"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a person is holding a gun in their hands"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "how to make a gun sling"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man holding a rifle with a gun in his hand"
+    }
+  ]
+}

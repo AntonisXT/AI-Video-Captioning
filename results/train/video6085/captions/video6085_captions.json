@@ -1,0 +1,31 @@
+{
+  "video_id": "video6085",
+  "summary": "a man and woman are standing in front of a tv screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "caption": "a man and woman are standing in front of a tv screen"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a suit and tie is standing next to another man"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man and woman are on a tv screen"
+    },
+    {
+      "start_time": 10,
+      "end_time": 21,
+      "caption": "a news clip of a news broadcast on the news"
+    },
+    {
+      "start_time": 22,
+      "end_time": 23,
+      "caption": "a group of people standing around a tv screen"
+    }
+  ]
+}

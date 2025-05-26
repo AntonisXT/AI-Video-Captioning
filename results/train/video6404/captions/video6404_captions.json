@@ -1,0 +1,26 @@
+{
+  "video_id": "video6404",
+  "summary": "a man in a suit is walking towards a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit is walking down the stairs"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man in a suit is walking towards a car"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a car is parked in a parking garage"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a car is driving through a tunnel"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7040",
+  "summary": "a man and a woman are sitting on a bed and a man and a woman are sitting at a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "two people are sitting down and one is holding a cell"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man and woman are writing on a whiteboard"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a man and woman sitting on a bed"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a woman and a man sitting at a table"
+    }
+  ]
+}

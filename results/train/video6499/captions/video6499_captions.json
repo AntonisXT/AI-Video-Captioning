@@ -1,0 +1,26 @@
+{
+  "video_id": "video6499",
+  "summary": "a man in a blue shirt is talking to another man",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "two men sitting in chairs talking to each other men"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man in a blue shirt is talking to another man"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman in a blue shirt is sitting in an office"
+    },
+    {
+      "start_time": 9,
+      "end_time": 17,
+      "caption": "a man in a blue shirt is talking to another man"
+    }
+  ]
+}

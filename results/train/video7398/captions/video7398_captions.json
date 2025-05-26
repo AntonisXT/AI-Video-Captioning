@@ -1,0 +1,16 @@
+{
+  "video_id": "video7398",
+  "summary": "a person is mixing food into a pot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a red jacket is cooking"
+    },
+    {
+      "start_time": 1,
+      "end_time": 16,
+      "caption": "a person is mixing food into a pot"
+    }
+  ]
+}

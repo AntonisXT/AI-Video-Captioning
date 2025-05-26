@@ -1,0 +1,21 @@
+{
+  "video_id": "video7445",
+  "summary": "a man driving a truck on a road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a car driving through a tunnel"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a man driving a truck on a road"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a car in a street"
+    }
+  ]
+}

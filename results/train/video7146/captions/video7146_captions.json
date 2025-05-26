@@ -1,0 +1,26 @@
+{
+  "video_id": "video7146",
+  "summary": "a man is seen walking down the stairs of a house",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a dog is walking down the stairs in a house"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "a man is seen walking down the stairs of a house"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a dog is standing on the stairs"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is holding a dog"
+    }
+  ]
+}

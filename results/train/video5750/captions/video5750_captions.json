@@ -1,0 +1,31 @@
+{
+  "video_id": "video5750",
+  "summary": "a view of the city from a window",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people walking down a street"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a woman in a plaid shirt and jeans sitting on a bench"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a view of the city from a hill"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a view of the city from a window"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a large building with a clock on top"
+    }
+  ]
+}

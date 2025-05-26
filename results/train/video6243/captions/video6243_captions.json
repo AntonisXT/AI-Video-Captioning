@@ -1,0 +1,21 @@
+{
+  "video_id": "video6243",
+  "summary": "a man is holding a knife in his hand",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is holding a knife in his hand"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a person is cutting a piece of meat"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a man is holding a knife in his hand"
+    }
+  ]
+}

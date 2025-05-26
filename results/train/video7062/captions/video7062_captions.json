@@ -1,0 +1,41 @@
+{
+  "video_id": "video7062",
+  "summary": "a person is holding a cell phone with a picture of a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person holding a book with a bunch of dolls"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "barbie doll making kit"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a person holding a small book with a picture of a girl"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a person is putting a bag with a cloth"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a person is making a small box with a small object"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a person holding a bag with a picture on it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a person holding a cell phone with a picture of a woman"
+    }
+  ]
+}

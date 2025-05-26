@@ -1,0 +1,31 @@
+{
+  "video_id": "video5590",
+  "summary": "a boat is sailing in the ocean",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a man in a suit is smiling and looking at the camera"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a boat is sailing in the ocean"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man is on the sail while another watches"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a man is jumping off a boat"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a boat in the water"
+    }
+  ]
+}

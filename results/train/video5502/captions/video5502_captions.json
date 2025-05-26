@@ -1,0 +1,46 @@
+{
+  "video_id": "video5502",
+  "summary": "a white background with a red and black logo",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a white background with a white border"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "caption": "a white background with a red and black logo"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a black background with a wave of sound"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a black screen with a bunch of pictures on it"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a black background with a wave of sound"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a black background with many different images"
+    },
+    {
+      "start_time": 16,
+      "end_time": 18,
+      "caption": "the cover art for the album, ' i ' m '"
+    },
+    {
+      "start_time": 19,
+      "end_time": 23,
+      "caption": "themore show"
+    }
+  ]
+}

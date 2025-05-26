@@ -1,0 +1,26 @@
+{
+  "video_id": "video6974",
+  "summary": "two men are preparing food in a kitchen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 9,
+      "caption": "two men in a kitchen preparing food"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "two men sitting at a table with a beer"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "two men are standing in a kitchen with a glass"
+    },
+    {
+      "start_time": 12,
+      "end_time": 16,
+      "caption": "two men in a kitchen talking to each other man"
+    }
+  ]
+}

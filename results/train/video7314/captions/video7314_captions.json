@@ -1,0 +1,21 @@
+{
+  "video_id": "video7314",
+  "summary": "a river with flowers and buildings in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a train traveling down the tracks in the mountains"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a river with flowers and buildings in the background"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a boat is going down a canal in a small town"
+    }
+  ]
+}

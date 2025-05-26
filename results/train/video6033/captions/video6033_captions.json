@@ -1,0 +1,31 @@
+{
+  "video_id": "video6033",
+  "summary": "a man in a military uniform is walking down a hallway",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a plane flying through the sky"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man in a military uniform is walking down a hallway"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a plane with his hands up"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a black jacket is talking to another man"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a military uniform"
+    }
+  ]
+}

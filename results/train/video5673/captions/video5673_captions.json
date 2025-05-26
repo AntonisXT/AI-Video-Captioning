@@ -1,0 +1,41 @@
+{
+  "video_id": "video5673",
+  "summary": "a man is playing basketball with a ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is playing basketball with a ball"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a green screen with a picture of a house and a dog"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a green screen with a picture of a man on a skateboard"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a green screen with a picture of a dog and a dog"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a poster with a picture of two people playing basketball"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a poster with a picture of a man in a suit"
+    },
+    {
+      "start_time": 13,
+      "end_time": 17,
+      "caption": "a basketball game with a man in the middle"
+    }
+  ]
+}

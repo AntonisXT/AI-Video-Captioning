@@ -1,0 +1,31 @@
+{
+  "video_id": "video7325",
+  "summary": "a cartoon character with a green hair and a black shirt is giving another a gift",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black shirt"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "adventure time"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a cartoon character with a green hair and a black shirt"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a cartoon character is giving another a gift"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon character is playing chess on a rug"
+    }
+  ]
+}

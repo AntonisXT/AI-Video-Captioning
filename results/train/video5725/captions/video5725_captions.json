@@ -1,0 +1,26 @@
+{
+  "video_id": "video5725",
+  "summary": "a cartoon character with a blue shirt and a brown dog",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon of two cats talking to each other cats"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "a cartoon character with a blue shirt and a brown dog"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a cartoon character is standing next to a tree"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a cartoon character and a cartoon character"
+    }
+  ]
+}

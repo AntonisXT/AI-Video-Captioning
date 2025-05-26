@@ -1,0 +1,21 @@
+{
+  "video_id": "video6352",
+  "summary": "a group of people in a room with a white floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a group of people in a room with a white wall"
+    },
+    {
+      "start_time": 3,
+      "end_time": 11,
+      "caption": "a group of people dancing in a dance studio"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a group of people in a room with a white floor"
+    }
+  ]
+}

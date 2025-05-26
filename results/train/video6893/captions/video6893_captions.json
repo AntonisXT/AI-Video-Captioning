@@ -1,0 +1,36 @@
+{
+  "video_id": "video6893",
+  "summary": "a man in a white shirt",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a white shirt"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man wearing glasses"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a white shirt"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a stove with a pot of liquid on it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a table with a bowl of food and a knife"
+    },
+    {
+      "start_time": 8,
+      "end_time": 19,
+      "caption": "a person is cooking a large pot of food"
+    }
+  ]
+}

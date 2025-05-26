@@ -1,0 +1,21 @@
+{
+  "video_id": "video5982",
+  "summary": "a basketball game being played by a man",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 14,
+      "caption": "a basketball game being played by a man"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a man is being filmed by a crowd"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a man is being held by a woman"
+    }
+  ]
+}

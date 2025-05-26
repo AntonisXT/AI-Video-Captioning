@@ -1,0 +1,26 @@
+{
+  "video_id": "video7498",
+  "summary": "a cartoon of a person walking down a road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a cartoon of a person walking down a road"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a cartoon character holding a gun in the air"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a cartoon character is running down a road"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a cartoon character is being pulled by a man"
+    }
+  ]
+}

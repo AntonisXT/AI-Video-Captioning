@@ -1,0 +1,31 @@
+{
+  "video_id": "video7395",
+  "summary": "a man sings into a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is dancing with a man in the background"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a suit and tie is talking to another man"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man singing into a microphone"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man playing a guitar"
+    },
+    {
+      "start_time": 6,
+      "end_time": 19,
+      "caption": "the beatles"
+    }
+  ]
+}

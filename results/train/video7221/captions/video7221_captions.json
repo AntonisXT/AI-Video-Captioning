@@ -1,0 +1,21 @@
+{
+  "video_id": "video7221",
+  "summary": "a sculpture made out of glass and plastic",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a person is making a toy with plastic pipes"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a painting of a boat with a red and blue design"
+    },
+    {
+      "start_time": 4,
+      "end_time": 16,
+      "caption": "a sculpture made out of glass and plastic"
+    }
+  ]
+}

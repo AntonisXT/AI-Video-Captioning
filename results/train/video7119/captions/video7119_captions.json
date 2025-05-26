@@ -1,0 +1,16 @@
+{
+  "video_id": "video7119",
+  "summary": "a newscast is shown on the news",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a news anchor is seen in this image"
+    },
+    {
+      "start_time": 2,
+      "end_time": 12,
+      "caption": "a newscast is shown on the news"
+    }
+  ]
+}

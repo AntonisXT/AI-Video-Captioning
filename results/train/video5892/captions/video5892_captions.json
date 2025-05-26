@@ -1,0 +1,31 @@
+{
+  "video_id": "video5892",
+  "summary": "a man is standing next to a large bird",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "pirates of the caribbean island"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a scene from the movie ' s trailer"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a car is on the ground in the jungle"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man is standing next to a large bird"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a large elephant walking across a river"
+    }
+  ]
+}

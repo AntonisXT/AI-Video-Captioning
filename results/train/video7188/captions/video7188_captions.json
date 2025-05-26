@@ -1,0 +1,21 @@
+{
+  "video_id": "video7188",
+  "summary": "a person cutting up some food on a wooden table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a bowl filled with chopped vegetables and a wooden spoon"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman in a kitchen preparing food"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a person cutting up some food on a wooden table"
+    }
+  ]
+}

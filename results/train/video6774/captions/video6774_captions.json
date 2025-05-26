@@ -1,0 +1,26 @@
+{
+  "video_id": "video6774",
+  "summary": "a group of people are sitting around a table eating food",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of men sitting around a table eating food"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a table with a bowl of food and a plate of food"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a group of people sitting around a table eating"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a man in a military uniform eating food"
+    }
+  ]
+}

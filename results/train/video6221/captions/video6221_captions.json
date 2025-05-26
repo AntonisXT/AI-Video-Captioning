@@ -1,0 +1,26 @@
+{
+  "video_id": "video6221",
+  "summary": "a woman sitting at a desk with a laptop",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman sitting at a desk with a laptop"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a woman sitting at a desk with a laptop"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a computer screen with a picture of a planet"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a computer screen with a screen showing a video"
+    }
+  ]
+}

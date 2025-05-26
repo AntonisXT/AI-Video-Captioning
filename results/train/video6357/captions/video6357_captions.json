@@ -1,0 +1,26 @@
+{
+  "video_id": "video6357",
+  "summary": "a man is holding a baby in his hands",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a woman in a blue shirt and pearls"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man is holding a baby in his hands"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman sitting on a bed holding a baby"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a man holding a little girl in his arms"
+    }
+  ]
+}

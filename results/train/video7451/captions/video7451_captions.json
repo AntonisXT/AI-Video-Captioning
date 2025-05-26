@@ -1,0 +1,16 @@
+{
+  "video_id": "video7451",
+  "summary": "a photo of a mountain with a cloud in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a polar bear is seen in the snow"
+    },
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "caption": "a photo of a mountain with a cloud in the background"
+    }
+  ]
+}

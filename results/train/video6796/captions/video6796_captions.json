@@ -1,0 +1,41 @@
+{
+  "video_id": "video6796",
+  "summary": "a man in a red shirt is standing next to a red car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a white shirt and black pants"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a group of people walking around a red car"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a group of people working on a car in a garage"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a red car is shown in a video"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a suit and tie is standing next to a car"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is working on a car in a garage"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a red shirt is standing next to a red car"
+    }
+  ]
+}

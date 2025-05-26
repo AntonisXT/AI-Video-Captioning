@@ -1,0 +1,31 @@
+{
+  "video_id": "video5633",
+  "summary": "a person is holding a gun in their hand",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a little girl is standing in a stroller"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "the baby stroller is shown in this video"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a person holding a gun in their hand"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a person is putting a bag in the back of a stroll"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a person is holding a camera in their hand"
+    }
+  ]
+}

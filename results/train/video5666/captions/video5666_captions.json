@@ -1,0 +1,51 @@
+{
+  "video_id": "video5666",
+  "summary": "a man is riding a horse down a hill",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a tree in the middle of a desert"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a hill"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a mountain range in the distance"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a man riding a horse down a hill"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a car driving down a hill with a sign"
+    },
+    {
+      "start_time": 13,
+      "end_time": 19,
+      "caption": "a white horse"
+    },
+    {
+      "start_time": 20,
+      "end_time": 24,
+      "caption": "a group of people walking up a hill"
+    },
+    {
+      "start_time": 24,
+      "end_time": 26,
+      "caption": "a man walking up a hill"
+    },
+    {
+      "start_time": 27,
+      "end_time": 28,
+      "caption": "a field with a tree and rocks"
+    }
+  ]
+}

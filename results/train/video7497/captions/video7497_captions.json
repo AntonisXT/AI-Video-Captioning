@@ -1,0 +1,16 @@
+{
+  "video_id": "video7497",
+  "summary": "a woman and a man are on a news set",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black shirt sitting on a television screen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 25,
+      "caption": "a woman and a man are on a news set"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video5760",
+  "summary": "a man is wrestling with another man",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a wrestling match with two wrestlers fighting"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a wrestler is standing on the ground with his arm raised"
+    },
+    {
+      "start_time": 8,
+      "end_time": 17,
+      "caption": "a wrestling match with two wrestlers fighting"
+    },
+    {
+      "start_time": 18,
+      "end_time": 29,
+      "caption": "a man is wrestling with another man"
+    }
+  ]
+}

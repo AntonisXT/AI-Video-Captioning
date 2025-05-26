@@ -1,0 +1,26 @@
+{
+  "video_id": "video6758",
+  "summary": "a man in a black suit and hat playing guitar",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man holding a guitar"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man and a little boy are playing guitars"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man in a black suit and hat playing guitar"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man standing in front of a wall with guitars"
+    }
+  ]
+}

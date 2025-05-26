@@ -1,0 +1,21 @@
+{
+  "video_id": "video6144",
+  "summary": "a man in a black shirt is standing on a wrestling ring",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a suit and tie standing in front of a microphone"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a crowd of people standing in a room"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a man in a black shirt is standing on a wrestling ring"
+    }
+  ]
+}

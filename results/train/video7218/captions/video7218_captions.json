@@ -1,0 +1,41 @@
+{
+  "video_id": "video7218",
+  "summary": "a cartoon character in a boat with a group of animals",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character in a boat with a man on it"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a cartoon character in a green dress and sunglasses"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a cartoon character holding a flower and a flower pot"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a cartoon of a group of people on a beach"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "the three little pigs are in a boat"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "the island of the lost pirates"
+    },
+    {
+      "start_time": 14,
+      "end_time": 19,
+      "caption": "a cartoon character in a boat with a group of animals"
+    }
+  ]
+}

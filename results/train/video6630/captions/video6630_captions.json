@@ -1,0 +1,26 @@
+{
+  "video_id": "video6630",
+  "summary": "a man in a recording booth with headphones on",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man with headphones on in front of a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a table with a bunch of flowers and a picture of a woman"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a woman in a red dress is sitting at a table"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a man in a recording booth with headphones on"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6467",
+  "summary": "a man riding a wave on top of a surfboard",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man walking on the beach with a surfboard"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man in a wet suit is swimming"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a man riding a wave on top of a surfboard"
+    }
+  ]
+}

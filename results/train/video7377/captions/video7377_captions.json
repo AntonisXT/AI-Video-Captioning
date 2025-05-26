@@ -1,0 +1,31 @@
+{
+  "video_id": "video7377",
+  "summary": "a woman in a blue dress is talking to a man on the street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a picture of two men in front of a black background"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a man in a blue shirt is standing in front of a wall with a red and white shirt"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman in a blue dress is talking to a man"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a woman is interviewed on a tv screen"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man is talking to a woman on the street"
+    }
+  ]
+}

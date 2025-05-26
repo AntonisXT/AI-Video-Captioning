@@ -1,0 +1,31 @@
+{
+  "video_id": "video7370",
+  "summary": "two women sitting in chairs with a fire and a christmas present",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "two women sitting in chairs with a christmas present"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman sitting on a chair with a red box"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman sitting at a table with a man"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "two women sitting in chairs with a fire"
+    },
+    {
+      "start_time": 6,
+      "end_time": 12,
+      "caption": "a group of people sitting on beach chairs"
+    }
+  ]
+}

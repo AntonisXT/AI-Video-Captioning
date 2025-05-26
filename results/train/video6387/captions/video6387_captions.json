@@ -1,0 +1,31 @@
+{
+  "video_id": "video6387",
+  "summary": "a young boy is sitting in front of a blackboard",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a blackboard with the words question time written on it"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a boy is sitting at a desk with a laptop"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a young boy is sitting in front of a blackboard"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a boy sitting at a table with a book"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a young boy is sitting in front of a tv screen"
+    }
+  ]
+}

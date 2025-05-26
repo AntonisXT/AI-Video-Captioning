@@ -1,0 +1,26 @@
+{
+  "video_id": "video6080",
+  "summary": "a man and a woman are cooking in a kitchen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is making food in a kitchen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a man and woman are cooking in the kitchen"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "a person is preparing food on a stove"
+    },
+    {
+      "start_time": 14,
+      "end_time": 25,
+      "caption": "a man and woman are cooking in the kitchen"
+    }
+  ]
+}

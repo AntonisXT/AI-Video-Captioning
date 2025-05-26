@@ -1,0 +1,36 @@
+{
+  "video_id": "video5980",
+  "summary": "a man in a helmet and uniform walks through the snow",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a helmet and uniform walking through the snow"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man laying on the ground"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man in a military uniform standing in the snow"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman in a military uniform sitting on the ground"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man in a hat and scarf is standing in front of a cave"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a group of soldiers standing in the woods"
+    }
+  ]
+}

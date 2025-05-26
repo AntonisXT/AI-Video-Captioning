@@ -1,0 +1,26 @@
+{
+  "video_id": "video6396",
+  "summary": "a girl standing on a rock in the middle of a river",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man is walking down a path in the jungle"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a group of people walking down a path"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a girl standing on a bridge in the jungle"
+    },
+    {
+      "start_time": 9,
+      "end_time": 23,
+      "caption": "a girl standing on a rock in the middle of a river"
+    }
+  ]
+}

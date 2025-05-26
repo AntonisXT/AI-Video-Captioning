@@ -1,0 +1,26 @@
+{
+  "video_id": "video7409",
+  "summary": "a video game with a basketball ball and a player",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a baseball player is holding a ball"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a basketball game with a ball and a player"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a video player is playing a game on the tv"
+    },
+    {
+      "start_time": 10,
+      "end_time": 15,
+      "caption": "a video game with a basketball ball and a basketball ball"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7263",
+  "summary": "a man in a white shirt and black pants stands next to a car with a dog",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a dog sitting on the ground next to a dead dog"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man in a white shirt and black pants"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a woman standing next to a car with the hood open"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man standing next to a car with a dog"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7011",
+  "summary": "a white robot holding a bucket with the words white",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a brown bucket with a brown bucket on it"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a white robot holding a bucket with the words white"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "pink is the new black"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "purple vs purple"
+    }
+  ]
+}

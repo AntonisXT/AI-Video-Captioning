@@ -1,0 +1,26 @@
+{
+  "video_id": "video6652",
+  "summary": "a crowd of people gather in the streets of thailand",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a crowd of people in a village in cambodia"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a crowd of people in a street with a sign"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a crowd of people gathered in the streets of thailand"
+    },
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "caption": "a crowd of people gathered in a street in the town of kola"
+    }
+  ]
+}

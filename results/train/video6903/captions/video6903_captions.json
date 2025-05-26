@@ -1,0 +1,36 @@
+{
+  "video_id": "video6903",
+  "summary": "a group of young girls are sitting on a couch",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of young girls sitting on a couch"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a little girl in a blue shirt is standing in front of a wooden wall"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a group of girls are sitting in a room"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a group of children playing with a cat"
+    },
+    {
+      "start_time": 10,
+      "end_time": 13,
+      "caption": "a man and woman are standing in a room"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a man and woman sitting on a kitchen floor"
+    }
+  ]
+}

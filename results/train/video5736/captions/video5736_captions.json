@@ -1,0 +1,21 @@
+{
+  "video_id": "video5736",
+  "summary": "First, A group of people are sitting on a bus. Next, a person is using an ipad on a table Finally, A man in a suit and tie walks through a building.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a group of people sitting on a bus"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a person is using an ipad on a table"
+    },
+    {
+      "start_time": 7,
+      "end_time": 23,
+      "caption": "a man in a suit and tie walking through a building"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "video7043",
+  "summary": "a blue car driving down a road with a white car in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car driving through a window with the words self driving"
+    },
+    {
+      "start_time": 2,
+      "end_time": 24,
+      "caption": "a blue car driving down a road with a white car in the background"
+    }
+  ]
+}

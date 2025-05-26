@@ -1,0 +1,31 @@
+{
+  "video_id": "video6567",
+  "summary": "a man in a pink shirt is playing a video game",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a pink shirt"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man wearing a red shirt"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man in a pink shirt is playing a video game"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in a red shirt is dancing"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "the caltor"
+    }
+  ]
+}

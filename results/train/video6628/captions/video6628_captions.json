@@ -1,0 +1,26 @@
+{
+  "video_id": "video6628",
+  "summary": "a woman is pushing a stroller with a baby in it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a red jacket is holding a baby in a red stroller"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a woman is pushing a stroller with a baby in it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a baby in a stroller with a red hat"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a woman pushing a stroll with a baby in it"
+    }
+  ]
+}

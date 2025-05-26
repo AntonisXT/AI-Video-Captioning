@@ -1,0 +1,46 @@
+{
+  "video_id": "video6007",
+  "summary": "a black and white photo of a man in a suit",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "caption": "a man standing in a cave with a flashlight"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "caption": "a black and white photo of a man in a suit"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a man in a black shirt is standing in front of a large wall"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "caption": "a black and white picture"
+    },
+    {
+      "start_time": 18,
+      "end_time": 20,
+      "caption": "a group of people standing in a cave"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "caption": "a man in a black jacket"
+    },
+    {
+      "start_time": 21,
+      "end_time": 28,
+      "caption": "a man in a suit and tie standing in front of a wall"
+    },
+    {
+      "start_time": 28,
+      "end_time": 29,
+      "caption": "a black and white photo of a man in a suit"
+    }
+  ]
+}

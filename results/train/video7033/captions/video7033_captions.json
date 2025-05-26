@@ -1,0 +1,31 @@
+{
+  "video_id": "video7033",
+  "summary": "a man in a green shirt is skateboarding on a skateboard",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a man in a green shirt is standing on a street"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a man in a green shirt is skateboarding on a skateboard"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man in a green shirt is walking across the street"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a man in a green shirt and black shorts is holding a tennis racket"
+    },
+    {
+      "start_time": 14,
+      "end_time": 18,
+      "caption": "a man in a green shirt is skateboarding on a skateboard"
+    }
+  ]
+}

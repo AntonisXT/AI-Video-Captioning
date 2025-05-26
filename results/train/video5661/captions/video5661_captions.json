@@ -1,0 +1,31 @@
+{
+  "video_id": "video5661",
+  "summary": "a group of soccer players in a game",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the team of the lions in the game"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of men in red jerseys are standing around a man in a red shirt"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of soccer players in a game"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "the team is celebrating after their goal"
+    },
+    {
+      "start_time": 4,
+      "end_time": 15,
+      "caption": "a soccer game with a soccer field in the background"
+    }
+  ]
+}

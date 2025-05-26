@@ -1,0 +1,26 @@
+{
+  "video_id": "video7083",
+  "summary": "a person is holding a small object in their hands",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is holding a pair of scissors"
+    },
+    {
+      "start_time": 1,
+      "end_time": 9,
+      "caption": "a person is holding a small object in their hands"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a person is holding a fishing rod"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a person is holding a small object in their hands"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7356",
+  "summary": "a car with a dashboard and a radio",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car with a sign on it that says, ' car - vehicle report '"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a car with a steering and a seat"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "the door panel is open and the interior is empty"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a car with a dashboard and a radio"
+    }
+  ]
+}

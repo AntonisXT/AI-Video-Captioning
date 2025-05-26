@@ -1,0 +1,16 @@
+{
+  "video_id": "video6015",
+  "summary": "a woman standing in a room with blue chairs",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a white shirt is standing in a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 23,
+      "caption": "a woman standing in a room with blue chairs"
+    }
+  ]
+}

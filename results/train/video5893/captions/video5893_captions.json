@@ -1,0 +1,16 @@
+{
+  "video_id": "video5893",
+  "summary": "a group of people walking down a street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people sitting on a bench in a park"
+    },
+    {
+      "start_time": 1,
+      "end_time": 17,
+      "caption": "a group of people walking down a street"
+    }
+  ]
+}

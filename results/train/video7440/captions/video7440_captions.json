@@ -1,0 +1,16 @@
+{
+  "video_id": "video7440",
+  "summary": "a person is writing on a piece of paper",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "caption": "a person is writing on a piece of paper"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a person is cleaning a table with a paper"
+    }
+  ]
+}

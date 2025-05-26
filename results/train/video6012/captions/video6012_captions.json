@@ -1,0 +1,31 @@
+{
+  "video_id": "video6012",
+  "summary": "fireworks in the night sky with the words 'the things really go'",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a picture of a building with a fire in the middle"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a fireworks with the words, the things really go"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of people sitting around a fire"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a sparks in the air"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "fireworks in the night sky"
+    }
+  ]
+}

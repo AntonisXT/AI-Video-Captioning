@@ -1,0 +1,26 @@
+{
+  "video_id": "video7453",
+  "summary": "a man is doing a trick on a basketball court",
+  "scene_captions": [
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a man is doing a trick on a basketball court"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is standing on a ladder in a gym"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is standing in front of a basketball hoop"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man is playing basketball in a gym"
+    }
+  ]
+}

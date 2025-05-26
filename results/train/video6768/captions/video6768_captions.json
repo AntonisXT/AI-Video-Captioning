@@ -1,0 +1,31 @@
+{
+  "video_id": "video6768",
+  "summary": "a man in a black shirt standing in front of a wall",
+  "scene_captions": [
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a black shirt standing in a kitchen"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "a woman standing in front of a window looking at a city"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a black shirt standing in front of a wall"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a black shirt is talking to another man"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a black shirt standing in front of a mirror"
+    }
+  ]
+}

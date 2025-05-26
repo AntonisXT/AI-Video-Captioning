@@ -1,0 +1,31 @@
+{
+  "video_id": "video7170",
+  "summary": "a red and white bag with a pattern on it and a red and white scarf with a pattern",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a red and white scarf with a pattern"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a little girl standing on a white wall"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a little girl holding a bow and arrow"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a red and white bag with a pattern on it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a girl holding a pink and black kite"
+    }
+  ]
+}

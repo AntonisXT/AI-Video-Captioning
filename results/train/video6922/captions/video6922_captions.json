@@ -1,0 +1,26 @@
+{
+  "video_id": "video6922",
+  "summary": "a man is driving a car with a quote on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man driving a car on a track"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a man driving a car with a quote on it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a red car driving down a race track"
+    },
+    {
+      "start_time": 10,
+      "end_time": 19,
+      "caption": "a man driving a car with a woman behind him"
+    }
+  ]
+}

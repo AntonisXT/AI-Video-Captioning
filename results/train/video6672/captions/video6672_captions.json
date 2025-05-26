@@ -1,0 +1,26 @@
+{
+  "video_id": "video6672",
+  "summary": "a man in a red sweater is standing in the kitchen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man holding a carrot in his hands"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a man in a red sweater is standing in the kitchen"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a red shirt is putting something into an oven"
+    },
+    {
+      "start_time": 10,
+      "end_time": 21,
+      "caption": "a man in a red sweater is standing in the kitchen"
+    }
+  ]
+}

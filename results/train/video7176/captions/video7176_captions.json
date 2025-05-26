@@ -1,0 +1,26 @@
+{
+  "video_id": "video7176",
+  "summary": "a view of the earth from a space station window",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "an astronaut in a space suit is seen in this image"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a view of the earth from a space station window"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a large object is seen in the sky"
+    },
+    {
+      "start_time": 5,
+      "end_time": 12,
+      "caption": "a man sitting on a couch in front of a piano"
+    }
+  ]
+}

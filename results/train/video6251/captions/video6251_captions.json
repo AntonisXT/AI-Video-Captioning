@@ -1,0 +1,31 @@
+{
+  "video_id": "video6251",
+  "summary": "a snowboarder is doing a trick in the air",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a snowboarder is doing a trick in the air"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a person skiing down a snowy slope"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a snowmobile is moving through the woods"
+    },
+    {
+      "start_time": 9,
+      "end_time": 17,
+      "caption": "a person is skiing down a hill in the snow"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "caption": "a snowboarder is jumping off a snowboard"
+    }
+  ]
+}

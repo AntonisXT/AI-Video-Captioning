@@ -1,0 +1,36 @@
+{
+  "video_id": "video6284",
+  "summary": "a man in a suit talking on a cell",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman holding a cell phone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "president obama is talking on the phone"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in a black shirt"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a group of people playing a game of basketball"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "president obama and secretary kerry clinton"
+    },
+    {
+      "start_time": 11,
+      "end_time": 21,
+      "caption": "a man in a suit talking on a cell"
+    }
+  ]
+}

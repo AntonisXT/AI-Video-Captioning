@@ -1,0 +1,36 @@
+{
+  "video_id": "video7371",
+  "summary": "two men standing in front of a wall with posters",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "two men standing in front of a wall with posters"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man in a green shirt standing next to a woman"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "star trek - the original series"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "two men standing next to each other men"
+    },
+    {
+      "start_time": 13,
+      "end_time": 17,
+      "caption": "star trek - episode 1 - the return of the jedi"
+    },
+    {
+      "start_time": 18,
+      "end_time": 21,
+      "caption": "two guys are talking in a room with a guitar"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6303",
+  "summary": "a man and woman sitting in chairs talking",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a black jacket and red shirt"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man in a suit and tie sitting down"
+    },
+    {
+      "start_time": 5,
+      "end_time": 14,
+      "caption": "a man and woman sitting in chairs talking"
+    }
+  ]
+}

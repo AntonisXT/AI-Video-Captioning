@@ -1,0 +1,26 @@
+{
+  "video_id": "video5967",
+  "summary": "a man in a plaid shirt is standing in front of a christmas tree",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a plaid shirt is standing in front of a christmas tree"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a man standing in front of balloons and balloons"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a plate of potatoes with rosemary and garlic"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a plate of food with a fork on it"
+    }
+  ]
+}

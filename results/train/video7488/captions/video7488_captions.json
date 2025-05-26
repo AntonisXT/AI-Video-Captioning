@@ -1,0 +1,26 @@
+{
+  "video_id": "video7488",
+  "summary": "a man is standing in front of a fire hydra",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is standing next to a fire"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is standing next to a pink car"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man is standing in front of a fire hydra"
+    },
+    {
+      "start_time": 4,
+      "end_time": 13,
+      "caption": "two men standing in a parking lot"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6424",
+  "summary": "a woman with long black hair is putting her makeup in the mirror",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a woman is getting her hair done"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman with long black hair is sitting in front of a mirror"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "caption": "a woman is putting her makeup in the mirror"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a woman with long black hair and a pink lipstick"
+    }
+  ]
+}

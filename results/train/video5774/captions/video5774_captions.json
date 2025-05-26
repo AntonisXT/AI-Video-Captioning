@@ -1,0 +1,31 @@
+{
+  "video_id": "video5774",
+  "summary": "a cartoon character is shown in a video game",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon drawing of a man holding a book"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a cartoon bird with a blue hat and a white beak"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a cartoon character is shown in the screen"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a cartoon of a dog and a cat in a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a cartoon character is seen in a video game"
+    }
+  ]
+}

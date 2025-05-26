@@ -1,0 +1,46 @@
+{
+  "video_id": "video7396",
+  "summary": "a man with a gun in a game",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a gun in a game"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person in a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a person in a cave"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a video game with a bathtub in the middle of a room"
+    },
+    {
+      "start_time": 6,
+      "end_time": 15,
+      "caption": "a man with a gun"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a person in a room"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a man in a cave"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "caption": "a gun in a game"
+    }
+  ]
+}

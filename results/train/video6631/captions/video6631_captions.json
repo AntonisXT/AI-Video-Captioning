@@ -1,0 +1,21 @@
+{
+  "video_id": "video6631",
+  "summary": "First, a girl with glasses and a hat is laughing Next, Two men are sitting on a bench. Finally, A girl is eating a sandwich.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a girl with glasses and a hat is laughing"
+    },
+    {
+      "start_time": 2,
+      "end_time": 10,
+      "caption": "two men sitting on a bench"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a girl eating a sandwich"
+    }
+  ]
+}

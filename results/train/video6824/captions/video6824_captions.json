@@ -1,0 +1,31 @@
+{
+  "video_id": "video6824",
+  "summary": "a white light switch on a wall",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a light switch on a wall with a light switch"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a person is using a cord to plug a light switch"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a white light switch on a wall"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a white and black device"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a woman standing at a desk in an office"
+    }
+  ]
+}

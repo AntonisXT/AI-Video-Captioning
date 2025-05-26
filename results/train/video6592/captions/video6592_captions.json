@@ -1,0 +1,41 @@
+{
+  "video_id": "video6592",
+  "summary": "the christmas song",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man and woman are riding in a carriage"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "christmas in the city"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a man and woman sitting in a car"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "the christmas song"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a person is holding a knife and a knife"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman in a fur coat is smiling"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is riding a horse in the woods"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7024",
+  "summary": "a little pony in a bathtub with a ball of water",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a little pony with a pink bow on its head"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a little girl in a bathtub with a toothbrush"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a little pony with a pink bow on its head"
+    },
+    {
+      "start_time": 10,
+      "end_time": 15,
+      "caption": "a little pony in a bathtub with a ball of water"
+    }
+  ]
+}

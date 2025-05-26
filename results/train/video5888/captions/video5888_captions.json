@@ -1,0 +1,21 @@
+{
+  "video_id": "video5888",
+  "summary": "a bowl of meat sitting on top of a wooden table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a bowl of chocolate sitting on top of a wooden table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 11,
+      "caption": "a bowl of meat sitting on top of a wooden table"
+    },
+    {
+      "start_time": 12,
+      "end_time": 17,
+      "caption": "a pan with a large metal pan on top of it"
+    }
+  ]
+}

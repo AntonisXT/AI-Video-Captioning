@@ -1,0 +1,21 @@
+{
+  "video_id": "video6766",
+  "summary": "a group of children are dancing in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of young girls are dancing in a room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a group of children are playing with a ball"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a group of children are dancing in a room"
+    }
+  ]
+}

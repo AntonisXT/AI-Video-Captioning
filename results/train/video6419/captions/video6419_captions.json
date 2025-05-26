@@ -1,0 +1,31 @@
+{
+  "video_id": "video6419",
+  "summary": "a man in a suit and tie is talking to someone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is working on a metal object"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a suit and tie sitting in a chair"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a man in a suit and tie is talking to someone"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a white building with a red roof and a red car"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a white room with a mirror and a white wall"
+    }
+  ]
+}

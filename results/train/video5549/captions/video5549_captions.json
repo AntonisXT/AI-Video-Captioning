@@ -1,0 +1,21 @@
+{
+  "video_id": "video5549",
+  "summary": "a man playing drums in a room with a drum kit",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man playing drums in a room with a wall behind him"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a man playing drums in a room with a drum kit"
+    },
+    {
+      "start_time": 8,
+      "end_time": 15,
+      "caption": "a woman playing drums in a room with a wall"
+    }
+  ]
+}

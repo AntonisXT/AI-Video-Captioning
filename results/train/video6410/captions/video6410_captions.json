@@ -1,0 +1,21 @@
+{
+  "video_id": "video6410",
+  "summary": "a cartoon character is standing in front of a giant robot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a cartoon character is standing in front of a giant robot"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a cartoon character is sitting in a chair"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a cartoon character is standing in front of a giant robot"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video5552",
+  "summary": "a man in a yellow shirt is running",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a yellow shirt is running"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a man and woman sitting on a bench"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "watch our lifefold - youtube"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man in a room with a bike"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a woman sitting on a couch in a living room"
+    }
+  ]
+}

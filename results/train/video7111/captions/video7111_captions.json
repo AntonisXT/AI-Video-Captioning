@@ -1,0 +1,21 @@
+{
+  "video_id": "video7111",
+  "summary": "a cartoon character is standing in front of a screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a cartoon character is standing in front of a screen"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a cartoon whale is shown in the screen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a cartoon character is standing in the water"
+    }
+  ]
+}

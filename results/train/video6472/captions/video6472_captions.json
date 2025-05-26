@@ -1,0 +1,36 @@
+{
+  "video_id": "video6472",
+  "summary": "the black panthers are performing in a recording room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "two men in black shirts are standing in a gym"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people in black shirts singing"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "the black panthers perform in the studio"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "the black men are singing in a room"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "the black eyed band performing in a recording room"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man playing a drum in a room"
+    }
+  ]
+}

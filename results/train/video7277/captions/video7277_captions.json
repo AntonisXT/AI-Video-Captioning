@@ -1,0 +1,26 @@
+{
+  "video_id": "video7277",
+  "summary": "a cartoon of a man with a long beard and a beard",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon of a man with a long beard and a beard"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a cartoon character with a big eye and a long nose"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a green and blue pattern with trees and clouds"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a suit and tie is looking at a man in a suit"
+    }
+  ]
+}

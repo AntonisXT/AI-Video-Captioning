@@ -1,0 +1,36 @@
+{
+  "video_id": "video7020",
+  "summary": "a person is making a circle with a green sponge",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is making a christmas orname"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a person using a green sponge to make a circle"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a person is putting a baby in a bowl"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a person is making a baby doll out of glitter"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a person is making a paper with a yellow circle"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a person cutting a piece of paper with scissors"
+    }
+  ]
+}

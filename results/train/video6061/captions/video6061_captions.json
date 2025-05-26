@@ -1,0 +1,26 @@
+{
+  "video_id": "video6061",
+  "summary": "a group of people are playing soccer on a field",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a soccer player is trying to block the ball"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a group of people playing soccer on a field"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is being taken off the field"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a group of people are on the field"
+    }
+  ]
+}

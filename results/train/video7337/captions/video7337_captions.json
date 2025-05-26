@@ -1,0 +1,26 @@
+{
+  "video_id": "video7337",
+  "summary": "a man is driving a car with a video screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a screen showing a red line on a white background"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a view of a car driving down a road"
+    },
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "caption": "a man driving a car with a video screen"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a truck is driving down a runway"
+    }
+  ]
+}

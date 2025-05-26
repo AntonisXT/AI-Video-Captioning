@@ -1,0 +1,16 @@
+{
+  "video_id": "video6735",
+  "summary": "a man in a suit and tie is sitting on a couch",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie is on a tv screen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 23,
+      "caption": "a man in a suit and tie is sitting on a couch"
+    }
+  ]
+}

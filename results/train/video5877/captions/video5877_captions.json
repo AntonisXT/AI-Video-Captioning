@@ -1,0 +1,36 @@
+{
+  "video_id": "video5877",
+  "summary": "a woman standing on a stage with a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a woman standing on a stage with a microphone"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a young girl singing into a microphone"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a woman standing on a stage with a microphone"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a young girl singing into a microphone"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man with long hair standing on a stage"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a woman standing on a stage with a microphone"
+    }
+  ]
+}

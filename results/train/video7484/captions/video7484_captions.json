@@ -1,0 +1,26 @@
+{
+  "video_id": "video7484",
+  "summary": "a man is cutting meat on a cutting board",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a person is putting food into a pan"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a man is cutting meat on a cutting board"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is putting something into a box"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is cutting a piece of pizza"
+    }
+  ]
+}

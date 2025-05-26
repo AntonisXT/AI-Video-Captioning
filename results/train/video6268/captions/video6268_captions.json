@@ -1,0 +1,31 @@
+{
+  "video_id": "video6268",
+  "summary": "a hot pool in the middle of a desert with water coming out of it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a large body of water surrounded by steam"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a large pool with water coming out of it"
+    },
+    {
+      "start_time": 6,
+      "end_time": 12,
+      "caption": "a hot pool in the middle of a desert"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a large hole in the ground with a small hole in it"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a large crater with a small pool of water"
+    }
+  ]
+}

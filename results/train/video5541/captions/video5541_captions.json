@@ -1,0 +1,21 @@
+{
+  "video_id": "video5541",
+  "summary": "a whiteboard with a graph on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man wearing a tie"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man sitting at a desk in front of a tv screen"
+    },
+    {
+      "start_time": 4,
+      "end_time": 11,
+      "caption": "a whiteboard with a graph on it"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "video6393",
+  "summary": "a hockey game is being played on the ice",
+  "scene_captions": [
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "caption": "a hockey game is being played on the ice"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a baseball player is about to hit the ball"
+    }
+  ]
+}

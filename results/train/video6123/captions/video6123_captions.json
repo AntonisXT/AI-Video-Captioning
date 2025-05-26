@@ -1,0 +1,41 @@
+{
+  "video_id": "video6123",
+  "summary": "a backpack is attached to a bike",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a baby stroller is sitting in the grass"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a backpack is hanging from a tree"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a person holding a black bag with a red handle"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a backpack is attached to a bike"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a person holding a black bag in their hand"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a stroller with a black cover on it"
+    },
+    {
+      "start_time": 10,
+      "end_time": 24,
+      "caption": "a woman pushing a baby in a stroller"
+    }
+  ]
+}

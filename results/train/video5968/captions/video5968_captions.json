@@ -1,0 +1,36 @@
+{
+  "video_id": "video5968",
+  "summary": "a man is standing next to a yellow car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is standing next to a yellow car"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a yellow car is being worked on the assembly line"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a man is standing next to a yellow car"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a car being built at the factory"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a yellow car is being worked on"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a suit and tie is standing next to a car"
+    }
+  ]
+}

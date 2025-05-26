@@ -1,0 +1,21 @@
+{
+  "video_id": "video7269",
+  "summary": "a cartoon character with a red background and a black and white background",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a cartoon character with a red background and a quote that reads, ' man la calma"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a cartoon bear with a hat on it ' s head"
+    },
+    {
+      "start_time": 5,
+      "end_time": 11,
+      "caption": "a cartoon character with a red background and a black and white background"
+    }
+  ]
+}

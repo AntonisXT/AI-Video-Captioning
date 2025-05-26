@@ -1,0 +1,31 @@
+{
+  "video_id": "video6355",
+  "summary": "a man and a little girl singing on a stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a young girl in a black dress holding a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man and a little girl singing on stage"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "the voice contestant is seen on the voice"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man and a little girl standing on a stage"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a young girl holding a microphone while standing next to a man"
+    }
+  ]
+}

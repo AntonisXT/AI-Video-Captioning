@@ -1,0 +1,26 @@
+{
+  "video_id": "video6622",
+  "summary": "is shown on a white screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a cake is sitting on a plate in a refrigerator"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "the secret of pete and the secret of pete"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a room with a couch, chair and a cat"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a white screen with a black and white image"
+    }
+  ]
+}

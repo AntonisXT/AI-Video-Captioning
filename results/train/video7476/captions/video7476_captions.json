@@ -1,0 +1,41 @@
+{
+  "video_id": "video7476",
+  "summary": "a group of children are standing on a gymnastics court",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people are standing in front of a large screen"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of children are standing on a gymnastics court"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a group of people are standing on the floor"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a group of people are on the gymnastics court"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a large room filled with people and tables"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a red background with the words ' and '"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a red background with a small yellow flower"
+    }
+  ]
+}

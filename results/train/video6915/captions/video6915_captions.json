@@ -1,0 +1,31 @@
+{
+  "video_id": "video6915",
+  "summary": "a man in a suit is talking to another man",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a suit is talking to another man"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man in a suit and tie walking down the street"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "two men in suits and ties standing next to each other men"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "a man in a suit and hat talking to another man"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a man in a vest and tie standing next to a woman"
+    }
+  ]
+}

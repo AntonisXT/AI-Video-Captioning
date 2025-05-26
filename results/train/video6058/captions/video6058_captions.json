@@ -1,0 +1,36 @@
+{
+  "video_id": "video6058",
+  "summary": "a red truck is driving down a road next to the ocean",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 9,
+      "caption": "a red truck is driving down the road"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a car is driving down a wooden pier"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a truck driving down a road next to the ocean"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a picture of a beach with a cloudy sky"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a red truck is driving down the road"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a red car is parked on the side of the road"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6535",
+  "summary": "ronald reagan addresses a crowd at the white house",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is playing saxophone on the street"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "president ronald reagan addresses to the crowd at the white house"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a large fire is burning in the air"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a window with a red circle on it"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a group of people standing around a fire"
+    }
+  ]
+}

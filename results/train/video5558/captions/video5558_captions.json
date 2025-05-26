@@ -1,0 +1,31 @@
+{
+  "video_id": "video5558",
+  "summary": "a woman sitting in a chair with a cup of coffee",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman sitting at a table with a cup of coffee"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man standing in a room with a black and white checkered floor"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "a woman standing in a dark room with a lamp on"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a person is standing on a floor with a piece of paper"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a woman sitting in a chair"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video7435",
+  "summary": "a man standing in a room with a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a blue shirt standing outside"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a young man sitting on a chair in a room"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "a man standing in a room with a microphone"
+    }
+  ]
+}

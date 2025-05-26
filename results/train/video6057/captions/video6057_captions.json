@@ -1,0 +1,26 @@
+{
+  "video_id": "video6057",
+  "summary": "a man with a dog and a cat are looking at each other",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a large bird flying over a body of water"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man and woman are looking at each other people"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a cat is standing in the dark"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a black and white photo of a man with a dog"
+    }
+  ]
+}

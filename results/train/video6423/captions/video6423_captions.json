@@ -1,0 +1,21 @@
+{
+  "video_id": "video6423",
+  "summary": "a man in a suit sitting at a desk",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit sitting at a desk"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a news interview with two men on the set"
+    },
+    {
+      "start_time": 6,
+      "end_time": 16,
+      "caption": "a man in a suit sitting at a desk"
+    }
+  ]
+}

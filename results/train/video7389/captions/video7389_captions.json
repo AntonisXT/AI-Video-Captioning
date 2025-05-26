@@ -1,0 +1,26 @@
+{
+  "video_id": "video7389",
+  "summary": "a woman in a white shirt and black pants sits at a desk with a computer",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a woman sitting at a desk with a computer"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a woman sitting at a table with a cup"
+    },
+    {
+      "start_time": 11,
+      "end_time": 16,
+      "caption": "a woman in a white shirt and black pants"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "caption": "a young man in a white shirt and black pants"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video5706",
+  "summary": "a person is holding a pot on a stove",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is preparing food on a counter"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person is cooking on a stove"
+    },
+    {
+      "start_time": 2,
+      "end_time": 13,
+      "caption": "a group of pots and pans on a counter"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "caption": "a person is holding a pot on a stove"
+    }
+  ]
+}

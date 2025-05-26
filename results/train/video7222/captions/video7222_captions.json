@@ -1,0 +1,26 @@
+{
+  "video_id": "video7222",
+  "summary": "a man in a suit is standing in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a cartoon character is looking at a computer"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man in a suit is falling off a table"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man in a suit standing in a room"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a woman looking at her reflection in a mirror"
+    }
+  ]
+}

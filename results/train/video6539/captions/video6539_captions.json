@@ -1,0 +1,36 @@
+{
+  "video_id": "video6539",
+  "summary": "a cartoon character is standing in a room with a clock",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a cartoon character with a beard and a beard on his head"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a cartoon character in a room with a clock"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a cartoon character sitting at a table with a knife"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon character is being hugged by a woman"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a cartoon character is standing in a room"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a man sitting on a rock in the water"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6018",
+  "summary": "a stuffed animal is standing next to a stuffed bear",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a stuffed animal is standing next to a stuffed bear"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a stuffed animal sitting on a pool edge"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man in a suit and tie standing in front of a school"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a stuffed animal is standing on a ladder"
+    }
+  ]
+}

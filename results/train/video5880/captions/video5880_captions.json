@@ -1,0 +1,21 @@
+{
+  "video_id": "video5880",
+  "summary": "a stage with a red curtain and a stage set",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a red bus is parked in front of a red curtain"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a stage with a red curtain and a stage set"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a screen with a movie on it"
+    }
+  ]
+}

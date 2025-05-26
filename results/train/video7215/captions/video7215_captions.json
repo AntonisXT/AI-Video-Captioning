@@ -1,0 +1,31 @@
+{
+  "video_id": "video7215",
+  "summary": "a man in a suit and glasses is standing in front of a black background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a jet flying through the sky"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a suit and glasses is standing in front of a black background"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man sitting on a chair with a cigarette in his hand"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a suit and glasses is standing in front of a black background"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a suit sitting down on a chair"
+    }
+  ]
+}

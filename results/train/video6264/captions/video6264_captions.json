@@ -1,0 +1,26 @@
+{
+  "video_id": "video6264",
+  "summary": "a man is holding a bunch of rats in his hands",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a mouse is sitting on the floor"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a person holding a small piece of red and white gum"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man is holding a knife and a fire"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a man holding a bunch of rats in his hands"
+    }
+  ]
+}

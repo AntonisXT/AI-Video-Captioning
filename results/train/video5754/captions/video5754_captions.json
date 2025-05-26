@@ -1,0 +1,31 @@
+{
+  "video_id": "video5754",
+  "summary": "a cartoon character is standing next to a girl",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character is running in front of a building"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a cartoon character is standing next to a girl"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a cartoon character in a blue shirt and white pants"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "the lego movie trailer is shown in this image"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a dog with a purple hat and a purple shirt"
+    }
+  ]
+}

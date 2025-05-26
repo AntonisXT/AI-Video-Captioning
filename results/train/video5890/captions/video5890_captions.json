@@ -1,0 +1,31 @@
+{
+  "video_id": "video5890",
+  "summary": "a man in a suit is looking out the window",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man standing next to a painting ease"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a fire is burning in the middle of a building"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man standing in front of a building"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man standing next to a tree in the woods"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a suit is looking out the window"
+    }
+  ]
+}

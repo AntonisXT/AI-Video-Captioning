@@ -1,0 +1,31 @@
+{
+  "video_id": "video6611",
+  "summary": "is shown in front of a lake",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a black and white photo of a man in a suit"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "two people are dancing in the snow"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "two girls standing next to each other girls"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "two women are standing in front of a lake"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a black background with a white border"
+    }
+  ]
+}

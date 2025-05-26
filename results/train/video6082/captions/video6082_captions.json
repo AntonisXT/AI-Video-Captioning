@@ -1,0 +1,21 @@
+{
+  "video_id": "video6082",
+  "summary": "a woman in a green dress is standing in a tiled floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman with long hair standing in front of a mirror"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a woman in a green dress is standing in a tiled floor"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a woman in a green dress is walking on a white building"
+    }
+  ]
+}

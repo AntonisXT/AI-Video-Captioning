@@ -1,0 +1,26 @@
+{
+  "video_id": "video6498",
+  "summary": "a video game showing a man holding a gun",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a video game showing a man holding a gun"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man in a suit and tie"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a gun in a room"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a video game showing a man holding a gun"
+    }
+  ]
+}

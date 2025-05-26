@@ -1,0 +1,26 @@
+{
+  "video_id": "video5514",
+  "summary": "a man on a television screen with a picture of a man on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man is holding a large rock in his hands"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is sitting in front of a computer"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a television screen showing a view of the ocean"
+    },
+    {
+      "start_time": 4,
+      "end_time": 11,
+      "caption": "a television screen with a picture of a man on it"
+    }
+  ]
+}

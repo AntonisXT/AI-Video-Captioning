@@ -1,0 +1,21 @@
+{
+  "video_id": "video6215",
+  "summary": "a television screen showing a woman in a pink dress",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a television screen showing a woman in a pink dress"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a television set with a man on the stage"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman in a pink shirt is standing in front of a screen"
+    }
+  ]
+}

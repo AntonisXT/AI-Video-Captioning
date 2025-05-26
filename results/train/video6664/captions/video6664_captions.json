@@ -1,0 +1,21 @@
+{
+  "video_id": "video6664",
+  "summary": "a table with bowls of food and chops",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a group of people eating food at a table"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a table with bowls of food and chops"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a person is holding a plate with food"
+    }
+  ]
+}

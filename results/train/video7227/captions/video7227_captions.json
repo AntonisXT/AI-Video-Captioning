@@ -1,0 +1,36 @@
+{
+  "video_id": "video7227",
+  "summary": "a group of people sitting around a table",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people sitting around a table"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man playing a guitar in a room"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a group of people sitting around a table"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a suit is dancing in a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man playing a guitar in a room"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a group of people sitting around a table"
+    }
+  ]
+}

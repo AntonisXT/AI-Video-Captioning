@@ -1,0 +1,21 @@
+{
+  "video_id": "video6380",
+  "summary": "a drawing of a woman ' s dress",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a woman in a wedding dress is standing in front of a wall"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a drawing of a woman ' s dress"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a person is drawing on a whiteboard"
+    }
+  ]
+}

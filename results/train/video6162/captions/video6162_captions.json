@@ -1,0 +1,26 @@
+{
+  "video_id": "video6162",
+  "summary": "a man in a hat and glasses on a tv screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie sitting down"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a hat and glasses on a tv screen"
+    },
+    {
+      "start_time": 3,
+      "end_time": 10,
+      "caption": "a woman in a blue shirt is talking to a reporter"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man in a hat and sunglasses playing a guitar"
+    }
+  ]
+}

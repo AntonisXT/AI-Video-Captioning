@@ -1,0 +1,41 @@
+{
+  "video_id": "video6302",
+  "summary": "the logo for the new tv series and the game 's first trailer",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a woman in a black dress is standing in front of a screen"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "the logo for the game ' s first trailer"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a black and white photo of a man in a suit"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a wall full of pictures of people"
+    },
+    {
+      "start_time": 11,
+      "end_time": 16,
+      "caption": "the logo for the new tv series"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "caption": "a wall full of black and white pictures"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "caption": "a black and white photo of a man in a suit"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6980",
+  "summary": "a man in a red shirt",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man in a red shirt"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a red barn with a green roof"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a red shirt"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a red flag on a green field"
+    },
+    {
+      "start_time": 9,
+      "end_time": 16,
+      "caption": "a red cube in minecraft"
+    }
+  ]
+}

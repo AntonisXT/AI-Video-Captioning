@@ -1,0 +1,26 @@
+{
+  "video_id": "video6364",
+  "summary": "the news on the bbc show with the presenter and presenter",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the news on the bbc show with the presenter and presenter"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "two women sitting at a table on a news set"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "the news with the news team"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man in a suit and tie sitting on a tv screen"
+    }
+  ]
+}

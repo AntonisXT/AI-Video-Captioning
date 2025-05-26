@@ -1,0 +1,41 @@
+{
+  "video_id": "video7338",
+  "summary": "a cartoon dog and a cat are in a scene",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character is laying on the ground"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "the rescue of the lost dog"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a cartoon dog with a duck in its mouth"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a dog with a yellow collar and a blue collar"
+    },
+    {
+      "start_time": 10,
+      "end_time": 13,
+      "caption": "a cartoon dog and a cat are in a scene"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "two dogs are standing next to each other dogs"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a cartoon dog with a collar and collar on"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "video_id": "video5711",
+  "summary": "a woman in a black dress is standing in front of a mirror",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a logo on a black background"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman standing in front of a window"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman in a black dress is standing in front of a mirror"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman sitting on a bed with a laptop"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "two guys are sitting at a picnic table"
+    },
+    {
+      "start_time": 6,
+      "end_time": 12,
+      "caption": "a group of young people sitting around a table"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "video6801",
+  "summary": "a picture of a glass ball with a reflection",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a television screen with a picture of a man in a suit"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a picture of a glass ball with a reflection"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a picture of a planet with a red background"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a picture of a glass ball with a reflection"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a picture of a man with a ball in his hand"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a red light is shining on a white background"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a red ball is sitting on a table"
+    }
+  ]
+}

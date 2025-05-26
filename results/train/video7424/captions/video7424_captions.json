@@ -1,0 +1,21 @@
+{
+  "video_id": "video7424",
+  "summary": "a man in a striped shirt is talking to the camera",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a man sitting on a bench in a train station"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a striped shirt is standing in front of a building"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a man in a striped shirt is talking to the camera"
+    }
+  ]
+}

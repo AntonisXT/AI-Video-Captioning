@@ -1,0 +1,16 @@
+{
+  "video_id": "video7002",
+  "summary": "a motorcycle is on the side of the road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a person in white is riding a motorcycle"
+    },
+    {
+      "start_time": 2,
+      "end_time": 15,
+      "caption": "a motorcycle is on the side of the road"
+    }
+  ]
+}

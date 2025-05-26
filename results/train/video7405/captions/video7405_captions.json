@@ -1,0 +1,36 @@
+{
+  "video_id": "video7405",
+  "summary": "a woman in a bikini is standing on a beach",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people laying on the beach"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man is getting his hair cut on the beach"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a woman is standing on the beach with her legs crossed"
+    },
+    {
+      "start_time": 9,
+      "end_time": 18,
+      "caption": "a woman in a bikini is standing on the beach"
+    },
+    {
+      "start_time": 19,
+      "end_time": 23,
+      "caption": "a woman in a bikini is standing on a beach"
+    },
+    {
+      "start_time": 23,
+      "end_time": 26,
+      "caption": "a man in a hat is getting his shirt on"
+    }
+  ]
+}

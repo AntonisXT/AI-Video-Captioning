@@ -1,0 +1,41 @@
+{
+  "video_id": "video6594",
+  "summary": "a snowboarder is going down a snowy hill",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a snowboarder is going down a snowy hill"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a snow covered tree in the middle of a forest"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a snowboarder is going down a hill"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a snow covered forest with trees and a mountain in the background"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a snowboarder is going down a hill"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a snow covered forest with trees and a mountain in the background"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a person skiing down a snowy hill"
+    }
+  ]
+}

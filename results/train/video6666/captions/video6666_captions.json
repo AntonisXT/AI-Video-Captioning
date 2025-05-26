@@ -1,0 +1,26 @@
+{
+  "video_id": "video6666",
+  "summary": "a man in a blue shirt is sitting in front of a fireplace",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a man in a blue shirt is sitting in front of a fireplace"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a cat is sitting on a couch"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man is riding a bike in the woods"
+    },
+    {
+      "start_time": 10,
+      "end_time": 16,
+      "caption": "a man in a blue shirt sitting in front of a fireplace"
+    }
+  ]
+}

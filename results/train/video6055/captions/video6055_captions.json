@@ -1,0 +1,26 @@
+{
+  "video_id": "video6055",
+  "summary": "a little girl is standing on a tram",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a little girl standing on a tram"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man is doing a trick on a tram"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman is jumping on a tram"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a little girl walking on a tram"
+    }
+  ]
+}

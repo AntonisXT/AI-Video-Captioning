@@ -1,0 +1,16 @@
+{
+  "video_id": "video5992",
+  "summary": "a car with a dashboard and steering",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "caption": "a car with a dashboard and steering"
+    },
+    {
+      "start_time": 8,
+      "end_time": 15,
+      "caption": "the interior of a car with a black leather seat"
+    }
+  ]
+}

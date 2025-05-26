@@ -1,0 +1,26 @@
+{
+  "video_id": "video5517",
+  "summary": "a woman in a black dress is standing on a red carpet",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a woman in a black dress is standing on a red carpet"
+    },
+    {
+      "start_time": 8,
+      "end_time": 20,
+      "caption": "a woman in a black dress and glasses"
+    },
+    {
+      "start_time": 21,
+      "end_time": 22,
+      "caption": "a person wearing headphones on a stage"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "caption": "the logo for the music show"
+    }
+  ]
+}

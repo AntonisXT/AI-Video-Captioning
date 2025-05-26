@@ -1,0 +1,31 @@
+{
+  "video_id": "video5629",
+  "summary": "a woman in a white dress is performing on stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a white dress is laying on a bed"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a costume is performing on stage"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman in a white dress and a fur coat"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "lady gaga"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a woman in a white dress is performing on stage"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video5840",
+  "summary": "a woman in glasses singing into a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in glasses singing into a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman sitting in a chair"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a suit and tie is sitting on a chair"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman in a black dress standing in front of a crowd"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a woman standing on a stage with a microphone"
+    }
+  ]
+}

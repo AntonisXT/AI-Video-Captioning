@@ -1,0 +1,21 @@
+{
+  "video_id": "video5802",
+  "summary": "a man is standing in a hallway with a door open",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is standing in a hallway with a door open"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is seen in a video taken from the inside of a house"
+    },
+    {
+      "start_time": 2,
+      "end_time": 15,
+      "caption": "a young boy standing in a garage with a boat"
+    }
+  ]
+}

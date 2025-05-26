@@ -1,0 +1,46 @@
+{
+  "video_id": "video6480",
+  "summary": "a woman in a white shirt and black pants",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is talking to a man in a room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman with curly hair and a white shirt"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a woman driving a car with a man behind her"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman in a white shirt and black pants"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman in a dark room with a light shining on her face"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man and woman walking down a street at night"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a woman is holding a plant in her hand"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a woman with a black shirt and a black shirt"
+    }
+  ]
+}

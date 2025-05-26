@@ -1,0 +1,36 @@
+{
+  "video_id": "video7236",
+  "summary": "a man in a black hoodie walking down a street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a black hoodie walking down a street"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a man is looking up at the sky from a car"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man with blonde hair and a black shirt is singing into a microphone"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a car driving through a tunnel on a road"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a street sign on a highway with a sky background"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a red car driving down a street next to a building"
+    }
+  ]
+}

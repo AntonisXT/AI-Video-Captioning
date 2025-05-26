@@ -1,0 +1,26 @@
+{
+  "video_id": "video6975",
+  "summary": "a woman in a green dress is standing in front of a mirror",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a green dress is standing in front of a mirror"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a woman standing in a room with a man"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman in a green dress is standing in front of a mirror"
+    },
+    {
+      "start_time": 7,
+      "end_time": 24,
+      "caption": "a woman in a dress is standing in a room"
+    }
+  ]
+}

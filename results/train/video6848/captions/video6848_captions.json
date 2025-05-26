@@ -1,0 +1,36 @@
+{
+  "video_id": "video6848",
+  "summary": "a red truck with a broken door and a broken window",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a red car with a black seat and a black seat"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a person is filling a gas pump into a car"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a red truck with a black door handle"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a person is painting a red car"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a red truck with a broken door and a broken window"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a red truck parked in a parking lot"
+    }
+  ]
+}

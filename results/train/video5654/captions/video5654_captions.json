@@ -1,0 +1,31 @@
+{
+  "video_id": "video5654",
+  "summary": "a cartoon character is sitting at a table with a woman",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon character sitting at a table with a woman"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a family eating at a table in the animated movie"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a cartoon character is in the middle of a meeting room"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man in a suit sitting at a table with a plate of food"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a group of people sitting around a table"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6145",
+  "summary": "a person is making a paper tree",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is folding a green paper piece"
+    },
+    {
+      "start_time": 1,
+      "end_time": 9,
+      "caption": "a person is making a paper tree"
+    },
+    {
+      "start_time": 10,
+      "end_time": 15,
+      "caption": "a person is cutting paper into a piece of paper"
+    }
+  ]
+}

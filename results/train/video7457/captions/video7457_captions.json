@@ -1,0 +1,31 @@
+{
+  "video_id": "video7457",
+  "summary": "a woman with a black shirt and curly hair is smiling while standing in front of a building",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is smiling while standing in front of a building"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman with curly hair"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "a woman with a black shirt"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a bunch of shoes hanging on a clothes line"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a wall with graffiti on it"
+    }
+  ]
+}

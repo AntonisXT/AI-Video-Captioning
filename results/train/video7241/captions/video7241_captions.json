@@ -1,0 +1,31 @@
+{
+  "video_id": "video7241",
+  "summary": "the movie clips app is an app that allows you to watch movies on the go",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "caption": "a movie on the tv"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "movie clips on the app"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "caption": "a movie on the tv"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "caption": "movie clips - watch movies"
+    },
+    {
+      "start_time": 20,
+      "end_time": 22,
+      "caption": "the movie clips logo"
+    }
+  ]
+}

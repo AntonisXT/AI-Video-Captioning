@@ -1,0 +1,36 @@
+{
+  "video_id": "video6509",
+  "summary": "a cartoon character with a green face and a black background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a boy with brown hair and a black shirt"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a cartoon character with a green face and a black background"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a black background with a white and red flower"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a boy in a yellow shirt and tie standing in front of a black background"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a black and white abstract painting of a man ' s face"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon character with a yellow shirt and black pants"
+    }
+  ]
+}

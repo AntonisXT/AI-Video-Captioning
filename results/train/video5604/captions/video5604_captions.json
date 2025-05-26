@@ -1,0 +1,36 @@
+{
+  "video_id": "video5604",
+  "summary": "a man and a woman are sitting in a living room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man and woman sitting in a living room"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a woman in a white dress is walking through a doorway"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a plane is flying over a fire"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a suit and tie is sitting on a bus"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman sitting on a bed with a man in the background"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man in a gray shirt and black pants"
+    }
+  ]
+}

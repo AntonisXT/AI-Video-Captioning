@@ -1,0 +1,26 @@
+{
+  "video_id": "video5908",
+  "summary": "a motorcycle with a chain attached to it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a motorcycle with a chain attached to it"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a car wheel with a tire on it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a motorcycle that is sitting on the ground"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a bicycle with a handle and handlebars"
+    }
+  ]
+}

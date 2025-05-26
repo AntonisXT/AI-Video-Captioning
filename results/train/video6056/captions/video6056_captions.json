@@ -1,0 +1,36 @@
+{
+  "video_id": "video6056",
+  "summary": "a little pony is standing in front of a mirror",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character is being hugged by a woman"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a cartoon character is standing in front of a christmas tree"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a cartoon character in a room with a mirror"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a cartoon character playing a drum in a room"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a cartoon character is sitting at a table"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a little pony is standing in front of a mirror"
+    }
+  ]
+}

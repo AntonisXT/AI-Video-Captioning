@@ -1,0 +1,31 @@
+{
+  "video_id": "video6195",
+  "summary": "a cartoon character is sitting on a red couch",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is standing in front of a sign"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a video game with a man in a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a cartoon character is sitting on a couch"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a room with a fireplace and a sign that says, ' the room is not open '"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a cartoon character sitting on a red couch"
+    }
+  ]
+}

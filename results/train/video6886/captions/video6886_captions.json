@@ -1,0 +1,31 @@
+{
+  "video_id": "video6886",
+  "summary": "a man in a black shirt and a red bird",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "two men in black shirts and red hats"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man in a red hat is talking on a cell"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man in a black shirt"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a red hat is holding a yellow object"
+    },
+    {
+      "start_time": 9,
+      "end_time": 15,
+      "caption": "a man in a black shirt and a red bird"
+    }
+  ]
+}

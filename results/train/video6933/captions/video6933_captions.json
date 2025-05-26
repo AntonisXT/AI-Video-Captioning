@@ -1,0 +1,36 @@
+{
+  "video_id": "video6933",
+  "summary": "a young boy is walking through a classroom",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a young boy is walking through a classroom"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a black and white photo of two women"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a young boy is standing in front of a crowd"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a young boy is walking in a classroom"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is walking in a room with a child"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a young boy is standing in a classroom"
+    }
+  ]
+}

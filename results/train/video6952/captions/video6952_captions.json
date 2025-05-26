@@ -1,0 +1,36 @@
+{
+  "video_id": "video6952",
+  "summary": "a video game with a man in a green suit and a black suit",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a video game with a green screen"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a video game showing a man in a black suit"
+    },
+    {
+      "start_time": 5,
+      "end_time": 13,
+      "caption": "a video game with a man in the middle of a forest"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a video game with a woman standing in front of a wooden structure"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "caption": "a video game showing a man in a green suit"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a video game with a panda bear and a panda bear"
+    }
+  ]
+}

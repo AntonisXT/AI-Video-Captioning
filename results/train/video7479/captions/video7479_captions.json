@@ -1,0 +1,26 @@
+{
+  "video_id": "video7479",
+  "summary": "a young boy is sitting at a table with a laptop",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a young boy sitting at a desk with a red background"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a red background with the words how would you feel if people are afraid?"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a little girl sitting at a desk with a red wall behind her"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a young boy sitting at a table with a laptop"
+    }
+  ]
+}

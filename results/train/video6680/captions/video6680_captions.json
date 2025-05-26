@@ -1,0 +1,31 @@
+{
+  "video_id": "video6680",
+  "summary": "a monkey is sitting on a rock with a flower in its mouth",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a monkey is seen in this image from the video"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a monkey is sitting on a rock with a flower in its mouth"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a monkey is eating on a branch in the woods"
+    },
+    {
+      "start_time": 6,
+      "end_time": 18,
+      "caption": "a monkey is sitting on a rock with a flower in its mouth"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a rat is seen in the fore as it eats a mouse"
+    }
+  ]
+}

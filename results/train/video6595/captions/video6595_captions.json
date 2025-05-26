@@ -1,0 +1,21 @@
+{
+  "video_id": "video6595",
+  "summary": "the dashboard of a car with a clock",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car with a light on it ' s dashboard"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a suit and tie standing in front of a stage"
+    },
+    {
+      "start_time": 2,
+      "end_time": 17,
+      "caption": "the dashboard of a car with a clock"
+    }
+  ]
+}

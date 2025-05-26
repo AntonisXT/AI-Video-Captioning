@@ -1,0 +1,16 @@
+{
+  "video_id": "video7343",
+  "summary": "a man is working on a car in a factory",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person in a green shirt is working on a machine"
+    },
+    {
+      "start_time": 1,
+      "end_time": 15,
+      "caption": "a man is working on a car in a factory"
+    }
+  ]
+}

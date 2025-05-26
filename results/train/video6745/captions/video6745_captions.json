@@ -1,0 +1,26 @@
+{
+  "video_id": "video6745",
+  "summary": "a man in a white chef 's uniform preparing food",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a person is using a metal bowl with meat"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a person is cooking meat in a large pot"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a poster for a restaurant with a picture of a woman"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a man in a white chef ' s uniform preparing food"
+    }
+  ]
+}

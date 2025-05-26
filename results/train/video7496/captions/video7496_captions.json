@@ -1,0 +1,31 @@
+{
+  "video_id": "video7496",
+  "summary": "a video game with a man in a suit and a gun",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a video game with a man in a suit and a gun"
+    },
+    {
+      "start_time": 5,
+      "end_time": 11,
+      "caption": "a computer screen with a picture of a robot on it"
+    },
+    {
+      "start_time": 11,
+      "end_time": 15,
+      "caption": "a computer screen with a picture of a man on the moon"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a video game with a gun and a chair"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "caption": "a video game with a man on the moon"
+    }
+  ]
+}

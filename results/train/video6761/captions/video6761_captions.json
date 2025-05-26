@@ -1,0 +1,36 @@
+{
+  "video_id": "video6761",
+  "summary": "a group of people are standing on top of a mountain",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man and two girls are standing in the woods"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people standing around a fire"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "two girls hiking down a trail in the woods"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a group of people sitting on top of a rock"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a group of people walking up a trail"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a group of people standing on top of a mountain"
+    }
+  ]
+}

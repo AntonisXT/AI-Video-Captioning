@@ -1,0 +1,21 @@
+{
+  "video_id": "video5503",
+  "summary": "a woman in a blue shirt is standing on a soccer field",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a woman in a blue shirt is standing on a soccer field"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a soccer game is being played in a stadium"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a woman in a yellow shirt is standing next to a soccer ball"
+    }
+  ]
+}

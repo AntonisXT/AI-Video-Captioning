@@ -1,0 +1,36 @@
+{
+  "video_id": "video6558",
+  "summary": "a person holding a rub",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person holding a rub"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a person holding a video game controller"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a person holding a rub"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a person holding a rub"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a person holding a video game controller"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a person holding a small cube in their hand"
+    }
+  ]
+}

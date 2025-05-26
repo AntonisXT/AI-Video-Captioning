@@ -1,0 +1,61 @@
+{
+  "video_id": "video5519",
+  "summary": "a man is standing on a dock next to a boat",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a yellow jacket fishing on a boat"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man standing on a dock next to a boat"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a group of people sitting on the beach"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman is kneeling on the beach with a man"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a group of people swimming in the ocean"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a man in a boat with a dog on it"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "the boat trailer"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a man in a suit and tie is walking on a dock"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a man is standing on a dock with a woman"
+    },
+    {
+      "start_time": 18,
+      "end_time": 21,
+      "caption": "a man in a boat with a red hat"
+    },
+    {
+      "start_time": 21,
+      "end_time": 26,
+      "caption": "a group of people riding on top of a boat"
+    }
+  ]
+}

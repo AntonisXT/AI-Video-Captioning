@@ -1,0 +1,31 @@
+{
+  "video_id": "video6073",
+  "summary": "a group of people on a boat in the water",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people standing on top of a mountain"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a group of people standing around a car"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a group of people on a boat in the water"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a bird flying over the ocean with a cloudy sky"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man is holding a surfboard while another man is standing on the boat"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "video_id": "video6385",
+  "summary": "a man in a suit and tie walking down a street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a suit and tie talking to another man"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man in a black shirt is walking"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man is standing on a black table"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in a suit and tie walking down a street"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man in a suit is standing in front of a television"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is standing in front of a wall with multiple pictures"
+    },
+    {
+      "start_time": 10,
+      "end_time": 13,
+      "caption": "a man in a suit and tie standing in a hallway"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a man is standing in front of a wall"
+    }
+  ]
+}

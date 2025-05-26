@@ -1,0 +1,46 @@
+{
+  "video_id": "video6053",
+  "summary": "a man in a suit and tie is standing in front of a hockey net",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is caught by a police officer"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man is falling off the field after a football game"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a tv screen showing a news segment with a picture of a man in a suit"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man in a suit and tie is standing on a stage"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is standing in front of a hockey net"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a hockey game is being played on the tv screen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a man is being held by a referee"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man in a yellow shirt is playing a guitar"
+    }
+  ]
+}

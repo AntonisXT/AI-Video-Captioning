@@ -1,0 +1,36 @@
+{
+  "video_id": "video6006",
+  "summary": "a man in a lab coat is working on a red car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man in a lab coat is working on a red car"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a woman and a man are looking at a model of a human body"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a large iceberg"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a picture of a man in a suit"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a model of a boat"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a model of a building with a light on it"
+    }
+  ]
+}

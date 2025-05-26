@@ -1,0 +1,36 @@
+{
+  "video_id": "video6495",
+  "summary": "the voice contestant is seen in this image",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the voice season 2 episode 2"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a young girl holding a microphone in front of a microphone"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man and a little girl on stage"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "the voice contestant is seen in this image"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man and a little girl standing on a stage"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "the bachelors season 3 episode 2 recap"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6964",
+  "summary": "a person is cooking food on a stove",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a stove with a pot and a pot on it"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a person is pouring water into a pot"
+    },
+    {
+      "start_time": 3,
+      "end_time": 13,
+      "caption": "a person is cooking food on a stove"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a person is putting something into a bowl"
+    }
+  ]
+}

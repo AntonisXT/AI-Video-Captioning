@@ -1,0 +1,21 @@
+{
+  "video_id": "video5775",
+  "summary": "a man is putting a box into a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man standing next to a car with boxes on the back"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a white car is parked in a parking lot"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a man is putting a box into a car"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video5881",
+  "summary": "a man is cooking in the kitchen with a large pan",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man is cooking in the kitchen with a pan"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "6 minutes on the job"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man is cooking in the kitchen with a large pan"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a pot of soup with a spoon in it"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a person is putting potatoes into a pan"
+    }
+  ]
+}

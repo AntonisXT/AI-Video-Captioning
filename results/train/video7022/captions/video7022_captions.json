@@ -1,0 +1,26 @@
+{
+  "video_id": "video7022",
+  "summary": "a woman in a white top and blue jeans is dancing on a runway",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a white dress is dancing"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a woman in a blue shirt and yellow pants"
+    },
+    {
+      "start_time": 5,
+      "end_time": 11,
+      "caption": "a woman in a white top and blue jeans dancing on a runway"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a woman in a bikini is standing in a room"
+    }
+  ]
+}

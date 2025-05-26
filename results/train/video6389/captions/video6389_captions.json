@@ -1,0 +1,36 @@
+{
+  "video_id": "video6389",
+  "summary": "a woman in a purple shirt is speaking into a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a purple shirt is speaking into a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man and woman standing on a stage"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman is sitting at a microphone"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman in a red shirt is standing at a podium"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a cowboy hat and a woman in a red shirt"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man and woman standing on a stage"
+    }
+  ]
+}

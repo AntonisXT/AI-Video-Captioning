@@ -1,0 +1,26 @@
+{
+  "video_id": "video5741",
+  "summary": "two women sitting at a table with plates and bowls",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is holding a bowl with a spoon"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "two women sitting at a table with plates and bowls"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman is sitting on a couch with a man"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "two women sitting at a table with a mirror"
+    }
+  ]
+}

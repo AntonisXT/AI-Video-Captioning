@@ -1,0 +1,26 @@
+{
+  "video_id": "video6612",
+  "summary": "a cartoon character is flying over a hill",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a cartoon character is standing in the middle of a hill"
+    },
+    {
+      "start_time": 5,
+      "end_time": 13,
+      "caption": "a cartoon character is flying in the sky"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a cartoon character is running through a green field"
+    },
+    {
+      "start_time": 15,
+      "end_time": 21,
+      "caption": "a cartoon character is flying over a hill"
+    }
+  ]
+}

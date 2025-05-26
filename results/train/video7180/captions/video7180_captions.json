@@ -1,0 +1,26 @@
+{
+  "video_id": "video7180",
+  "summary": "a cartoon character with a big mouth and a big smile is surrounded by a group of people",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character in a room with a fireplace"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a cartoon character with a blue rabbit face"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a cartoon character with a big mouth and a big smile"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a cartoon character is surrounded by a group of people"
+    }
+  ]
+}

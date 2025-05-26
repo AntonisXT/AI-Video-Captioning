@@ -1,0 +1,31 @@
+{
+  "video_id": "video6978",
+  "summary": "a large fish is swimming in the water",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a fish is swimming in the water"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a small octopus is sitting on the rocks"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of small fish swimming in the ocean"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a large octopus is swimming in the ocean"
+    },
+    {
+      "start_time": 7,
+      "end_time": 14,
+      "caption": "a large fish is swimming in the water"
+    }
+  ]
+}

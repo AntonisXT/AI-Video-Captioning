@@ -1,0 +1,21 @@
+{
+  "video_id": "video6763",
+  "summary": "First, A man in a plaid shirt and glasses talking to another man. Next, A group of people are sitting around a table. Finally, the big bang is a big bang.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a plaid shirt and glasses talking to another man"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a group of people sitting around a table"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "the big bang"
+    }
+  ]
+}

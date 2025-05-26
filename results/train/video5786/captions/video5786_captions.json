@@ -1,0 +1,31 @@
+{
+  "video_id": "video5786",
+  "summary": "a man is playing basketball on a court",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man is playing basketball on the court"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a basketball game is being played in a large arena"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man holding a can of beer in his hand"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a group of people are sitting in a crowd"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "caption": "a woman is sitting in front of a tv screen"
+    }
+  ]
+}

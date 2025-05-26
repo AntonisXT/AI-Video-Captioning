@@ -1,0 +1,46 @@
+{
+  "video_id": "video5884",
+  "summary": "a man is standing on a stage with a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people standing around a stage"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a police officer is seen in this image"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a man is standing on a stage with a microphone"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is suspended on a ladder in the dark"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is suspended by a rope in a room"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is standing in a room with a microphone"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a fire is seen in the background as people watch"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a man in a suit is standing in front of a robot"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video5668",
+  "summary": "a video game with a man in the middle",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "dance central - youtube"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a video game with a person dancing on a stage"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a video game with a person in the middle"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a person in a red shirt and red pants is dancing"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a video game with a man in the middle"
+    }
+  ]
+}

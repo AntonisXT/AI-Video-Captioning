@@ -1,0 +1,26 @@
+{
+  "video_id": "video6479",
+  "summary": "a classroom with tables and chairs",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "the front of a building with a sign that says, ' the school is open '"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a classroom with tables and chairs"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a restaurant with tables and chairs"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a classroom with tables and chairs"
+    }
+  ]
+}

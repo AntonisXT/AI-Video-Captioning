@@ -1,0 +1,26 @@
+{
+  "video_id": "video6027",
+  "summary": "a cat walking across a blue background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a blue background with a small bird flying in the sky"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a cat walking across a blue background"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a cartoon dog with a red nose and a blue background"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a red background with a dark red background"
+    }
+  ]
+}

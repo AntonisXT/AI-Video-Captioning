@@ -1,0 +1,41 @@
+{
+  "video_id": "video6066",
+  "summary": "a soccer game is shown in the middle of a stadium",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a soccer game with a player kicking the ball"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a woman is comforted by a young girl"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman in an orange shirt is crying"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a group of women ' s soccer players standing on a field"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "the uswn women ' s soccer team celebrates after their win over canada"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a large stadium filled with people and a soccer field"
+    },
+    {
+      "start_time": 11,
+      "end_time": 15,
+      "caption": "a soccer game is shown in the middle of a stadium"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7407",
+  "summary": "a camera with a red dot on it",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a camera with a viewfinder on it"
+    },
+    {
+      "start_time": 2,
+      "end_time": 14,
+      "caption": "a person holding a camera up to take a picture"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a camera with a red dot on it"
+    },
+    {
+      "start_time": 16,
+      "end_time": 18,
+      "caption": "a person holding a camera up to take a picture"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video7036",
+  "summary": "a pond with a house in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a small building with a sign that says gekur garden"
+    },
+    {
+      "start_time": 5,
+      "end_time": 12,
+      "caption": "a pond with a house in the background"
+    },
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "caption": "a bridge over a river with trees in the background"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6576",
+  "summary": "a man in a suit and tie is talking to a reporter",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man in a suit and tie is talking to a reporter"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "a man in a suit and tie is standing in front of a red wall"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a suit is pointing at something"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a black shirt and black pants is talking to someone"
+    }
+  ]
+}

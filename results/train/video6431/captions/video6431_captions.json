@@ -1,0 +1,21 @@
+{
+  "video_id": "video6431",
+  "summary": "a computer screen with a video on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a video player is playing a video on the mac"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man playing guitar"
+    },
+    {
+      "start_time": 4,
+      "end_time": 25,
+      "caption": "a computer screen with a video on it"
+    }
+  ]
+}

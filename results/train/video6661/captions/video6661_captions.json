@@ -1,0 +1,26 @@
+{
+  "video_id": "video6661",
+  "summary": "a person is cooking food on a stove",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a pan of meat cooking on a stove"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a group of people in a kitchen preparing food"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a person cooking food on a stove"
+    },
+    {
+      "start_time": 11,
+      "end_time": 18,
+      "caption": "a man and woman in a kitchen preparing food"
+    }
+  ]
+}

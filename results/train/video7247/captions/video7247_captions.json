@@ -1,0 +1,16 @@
+{
+  "video_id": "video7247",
+  "summary": "a soccer game is being played on the field",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 9,
+      "caption": "a soccer game is being played on the field"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a rugby player is trying to block the ball"
+    }
+  ]
+}

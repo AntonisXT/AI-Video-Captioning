@@ -1,0 +1,51 @@
+{
+  "video_id": "video7047",
+  "summary": "a woman is walking down the street with a man",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a green jacket is sitting on a bench"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is standing next to a wall with a flag"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is making a statue in the woods"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a pile of trash in the woods"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a woman is walking down the street with a man"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a woman is talking to a man in the woods"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a woman is standing in front of a store"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a pile of clothes is piled on a table"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a truck full of luggage is seen in this image"
+    }
+  ]
+}

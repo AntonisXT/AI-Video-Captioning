@@ -1,0 +1,26 @@
+{
+  "video_id": "video5875",
+  "summary": "a black and red sports car on a white background with the words ' buat veron '",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a black and red sports car on a white background"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a white car driving down a track"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a black and white photo of a man with a gun"
+    },
+    {
+      "start_time": 9,
+      "end_time": 14,
+      "caption": "a black background with the words ' buat veron '"
+    }
+  ]
+}

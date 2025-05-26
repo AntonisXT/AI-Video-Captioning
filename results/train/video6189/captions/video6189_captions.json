@@ -1,0 +1,21 @@
+{
+  "video_id": "video6189",
+  "summary": "the cast of glee is dancing in the middle of the stage",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "the cast of glee on the set of glee"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "the cast of the show is dancing on stage"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "the cast of glee is dancing in the middle of the stage"
+    }
+  ]
+}

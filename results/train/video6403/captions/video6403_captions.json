@@ -1,0 +1,16 @@
+{
+  "video_id": "video6403",
+  "summary": "a bear is swimming in the water",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a man is standing in the water near a river"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a bear is swimming in the water"
+    }
+  ]
+}

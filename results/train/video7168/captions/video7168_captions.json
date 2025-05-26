@@ -1,0 +1,31 @@
+{
+  "video_id": "video7168",
+  "summary": "a man is standing on a football field holding a sign on top of a field",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man holding a sign on top of a field"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a person holding a sign that says james winston"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "a television screen showing a football game"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is standing on a football field"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a television screen showing a football game"
+    }
+  ]
+}

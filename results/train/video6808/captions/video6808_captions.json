@@ -1,0 +1,31 @@
+{
+  "video_id": "video6808",
+  "summary": "a man in a kitchen mixing something into a bowl",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a kitchen preparing food"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person pouring a mixture into a glass"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a person in a kitchen mixing something into a bowl"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman preparing food on a stove"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a man in a kitchen preparing food"
+    }
+  ]
+}

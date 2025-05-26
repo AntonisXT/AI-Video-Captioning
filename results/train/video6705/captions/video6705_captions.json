@@ -1,0 +1,36 @@
+{
+  "video_id": "video6705",
+  "summary": "a man is standing on a wooden fence",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a forest with lots of trees and bushes"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man walking two dogs down a road"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a man is standing on a wooden fence"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a small bird is perched on a fence"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man is standing on a wooden fence"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a wooden fence with a bird on it"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video5504",
+  "summary": "a woman in a pink dress is holding a cell",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman holding up a pair of scissors"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a woman in a pink dress is holding a cell"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a black and white photo of a woman with a black hair"
+    }
+  ]
+}

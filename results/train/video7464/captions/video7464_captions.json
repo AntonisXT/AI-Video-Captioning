@@ -1,0 +1,51 @@
+{
+  "video_id": "video7464",
+  "summary": "a car racing game with a car on the road and a cartoon car driving through a parking lot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon car driving through a parking lot"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a car driving down a road with a red car"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a red carpet with a toy car on it"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a video game with a car driving down the road"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "sonic racing game"
+    },
+    {
+      "start_time": 10,
+      "end_time": 14,
+      "caption": "the game is a little bit of fun"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a car racing game with a car on the road"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "the game is a great way to play with your kids"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "caption": "a car racing game with a car on the road"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6754",
+  "summary": "a man is playing golf on a green course",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man playing golf on a green course"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a plane flying through the sky with the words ' dova '"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a golf course with a view of the water"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "a man laying on the grass in a park"
+    }
+  ]
+}

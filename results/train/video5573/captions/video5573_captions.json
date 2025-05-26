@@ -1,0 +1,41 @@
+{
+  "video_id": "video5573",
+  "summary": "the voice contestant is seen in a chair",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman sitting on a red chair in front of a black background"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man and woman are playing a game on a table"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man and woman are sitting on a red couch"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a young boy singing into a microphone"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man playing a guitar on a stage"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "the voice contestant is seen in a chair"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man and woman are standing in front of a red curtain"
+    }
+  ]
+}

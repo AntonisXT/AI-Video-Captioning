@@ -1,0 +1,21 @@
+{
+  "video_id": "video5694",
+  "summary": "a man standing at a table with a green shirt",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a young boy is cleaning his table with a sponge"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man standing at a table with a green shirt"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a man is putting a microwave into a microwave"
+    }
+  ]
+}

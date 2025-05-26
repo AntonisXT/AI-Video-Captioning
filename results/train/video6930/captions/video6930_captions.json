@@ -1,0 +1,41 @@
+{
+  "video_id": "video6930",
+  "summary": "a group of people standing in front of a building",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person in a black hoodie standing in a dark room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of people standing in front of a building"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of people in a dark room"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a group of people in a room with a man holding a gun"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a group of people in silhouettes walking down a street"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a group of people standing around a building"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "caption": "a man in a black shirt and a black hat"
+    }
+  ]
+}

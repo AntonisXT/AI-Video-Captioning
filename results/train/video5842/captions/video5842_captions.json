@@ -1,0 +1,26 @@
+{
+  "video_id": "video5842",
+  "summary": "a woman in a blue dress talking to someone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a woman in a blue dress talking to someone"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man and woman sitting at a table talking"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman in a blue dress sitting down"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a woman is standing in front of a group of children"
+    }
+  ]
+}

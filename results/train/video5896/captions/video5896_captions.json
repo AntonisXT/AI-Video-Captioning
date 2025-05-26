@@ -1,0 +1,26 @@
+{
+  "video_id": "video5896",
+  "summary": "a man with blonde hair and a blue shirt is looking up at the sky and a woman in a gray sweater is dancing",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a woman in a gray sweater is dancing"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a black and white photo of a man in a suit"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a person holding a cell phone in their hand"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man with blonde hair and a blue shirt is looking up at the sky"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "video_id": "video6240",
+  "summary": "a man is doing tricks on a skateboard",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman is standing next to a man in a pool"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman in a black shirt and shorts standing on a wooden bench"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman standing on a wooden ramp in the woods"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is jumping in the air while he is playing with a ball"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man is doing tricks on a skateboard"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is walking on a ramp in the yard"
+    }
+  ]
+}

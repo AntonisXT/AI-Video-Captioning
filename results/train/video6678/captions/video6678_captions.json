@@ -1,0 +1,36 @@
+{
+  "video_id": "video6678",
+  "summary": "a woman holds a kitten in her hands",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman holding a kitten in her hands"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a dog standing on a table in a room"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man holding a small dog in his arms"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man holding a kitten"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man holding a small dog in his hands"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a woman is walking a dog in a store"
+    }
+  ]
+}

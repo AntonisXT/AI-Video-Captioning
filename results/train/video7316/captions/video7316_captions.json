@@ -1,0 +1,26 @@
+{
+  "video_id": "video7316",
+  "summary": "a woman in a black shirt is sitting on a fence",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a news anchor is seen on the set of the news"
+    },
+    {
+      "start_time": 1,
+      "end_time": 9,
+      "caption": "a woman in a black shirt is sitting on a fence"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a woman is interviewed by a reporter"
+    },
+    {
+      "start_time": 11,
+      "end_time": 19,
+      "caption": "a group of people holding torches in the dark"
+    }
+  ]
+}

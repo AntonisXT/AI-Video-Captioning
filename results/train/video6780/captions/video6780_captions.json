@@ -1,0 +1,26 @@
+{
+  "video_id": "video6780",
+  "summary": "a person is holding a paper airplane in their hand",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is holding a paper airplane"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a person is cutting a piece of paper"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a white paper airplane flying through the air"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a person holding a paper airplane in their hand"
+    }
+  ]
+}

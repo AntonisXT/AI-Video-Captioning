@@ -1,0 +1,16 @@
+{
+  "video_id": "video6384",
+  "summary": "a car is driving down the road with a truck behind it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a street with cars parked on it"
+    },
+    {
+      "start_time": 1,
+      "end_time": 20,
+      "caption": "a car is driving down the road with a truck behind it"
+    }
+  ]
+}

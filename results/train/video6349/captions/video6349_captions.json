@@ -1,0 +1,21 @@
+{
+  "video_id": "video6349",
+  "summary": "a helmet on a pole with a flag in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a bike with a chain on it"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a helmet on a pole with a flag in the background"
+    },
+    {
+      "start_time": 11,
+      "end_time": 28,
+      "caption": "a man is standing next to a small drone"
+    }
+  ]
+}

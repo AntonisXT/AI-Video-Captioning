@@ -1,0 +1,36 @@
+{
+  "video_id": "video6894",
+  "summary": "a cartoon character is running through a forest",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is standing in the middle of a forest"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a green and black background with a checkered pattern"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "caption": "a group of people standing around a fire"
+    },
+    {
+      "start_time": 15,
+      "end_time": 21,
+      "caption": "a skeleton with a green light on it"
+    },
+    {
+      "start_time": 21,
+      "end_time": 22,
+      "caption": "a cartoon scene with a small house and trees"
+    },
+    {
+      "start_time": 22,
+      "end_time": 27,
+      "caption": "a cartoon character is running through a forest"
+    }
+  ]
+}

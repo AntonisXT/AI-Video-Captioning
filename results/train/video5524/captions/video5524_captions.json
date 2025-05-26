@@ -1,0 +1,21 @@
+{
+  "video_id": "video5524",
+  "summary": "First, The third step is the third step of the third step. Next, tom 's tech time Finally, A man is walking down a path with a dog.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a blue background with the words, third step, and third step"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "tom ' s tech time"
+    },
+    {
+      "start_time": 2,
+      "end_time": 28,
+      "caption": "a man walking down a path with a dog"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6348",
+  "summary": "a man in a suit and tie is talking to a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man in a suit and tie is talking to a woman"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a bear is walking in the dirt"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a dog is walking on the floor"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a skeleton is shown in the image"
+    }
+  ]
+}

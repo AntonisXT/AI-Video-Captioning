@@ -1,0 +1,36 @@
+{
+  "video_id": "video7217",
+  "summary": "a woman is putting a baby in a stroller",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the baby store video"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a baby stroller sitting in a room"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "baby shower products"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman is putting a bag in the room"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman is putting a baby in a stroller"
+    },
+    {
+      "start_time": 9,
+      "end_time": 17,
+      "caption": "a woman is putting a backpack in a room"
+    }
+  ]
+}

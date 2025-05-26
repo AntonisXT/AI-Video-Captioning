@@ -1,0 +1,26 @@
+{
+  "video_id": "video6147",
+  "summary": "a man stands on a tennis court holding a tennis racket",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "two men playing tennis on a court at night"
+    },
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "caption": "a man standing on a tennis court holding a tennis racket"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "two women playing badminton on a court"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a man holding a white flag on top of a tennis court"
+    }
+  ]
+}

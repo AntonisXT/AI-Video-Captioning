@@ -1,0 +1,36 @@
+{
+  "video_id": "video7235",
+  "summary": "a cartoon character is standing in front of a screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a video game with a cactus on the screen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon character is standing on a pole"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a cartoon character is standing in front of a screen"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a cartoon tree house with a bird in it"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon character in a cowboy hat and a cowboy hat"
+    },
+    {
+      "start_time": 9,
+      "end_time": 15,
+      "caption": "a cartoon picture of a tree house"
+    }
+  ]
+}

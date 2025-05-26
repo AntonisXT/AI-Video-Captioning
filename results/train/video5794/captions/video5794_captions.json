@@ -1,0 +1,26 @@
+{
+  "video_id": "video5794",
+  "summary": "a man in a suit and tie is standing on a stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man in a suit and tie is standing on a stage"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man sitting in a chair with his hands on his knees"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a young girl with long hair and a white shirt"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "two girls are standing in front of a blue screen"
+    }
+  ]
+}

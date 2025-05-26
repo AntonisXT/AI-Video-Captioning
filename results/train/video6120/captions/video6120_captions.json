@@ -1,0 +1,16 @@
+{
+  "video_id": "video6120",
+  "summary": "a woman in a yellow dress is standing near a white car",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a woman in a yellow dress is standing near a white car"
+    },
+    {
+      "start_time": 11,
+      "end_time": 16,
+      "caption": "a group of people standing around a tree"
+    }
+  ]
+}

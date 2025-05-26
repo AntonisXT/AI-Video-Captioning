@@ -1,0 +1,26 @@
+{
+  "video_id": "video6773",
+  "summary": "a truck is driving down a snowy road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car is driving through the snow"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a person riding a snowmobile"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a plane flying over the ocean"
+    },
+    {
+      "start_time": 12,
+      "end_time": 22,
+      "caption": "a truck is driving down a snowy road"
+    }
+  ]
+}

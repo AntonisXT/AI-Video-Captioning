@@ -1,0 +1,21 @@
+{
+  "video_id": "video5705",
+  "summary": "a man in a black shirt playing a guitar",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black shirt and a woman in a black dress on stage"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a black shirt"
+    },
+    {
+      "start_time": 3,
+      "end_time": 12,
+      "caption": "a man in a black shirt playing a guitar"
+    }
+  ]
+}

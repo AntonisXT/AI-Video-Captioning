@@ -1,0 +1,26 @@
+{
+  "video_id": "video7084",
+  "summary": "a person is putting food out of a machine",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man eating a sandwich"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a person is cooking food on a grill"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a person eating food on a table"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a person is putting food out of a machine"
+    }
+  ]
+}

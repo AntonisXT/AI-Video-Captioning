@@ -1,0 +1,26 @@
+{
+  "video_id": "video7223",
+  "summary": "a clock with a red face on it a movie with a red star a book cover with a red cross a movie poster with the words",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a movie with a red star"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a movie poster with the words ' the world '"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a book cover with a red cross on it"
+    },
+    {
+      "start_time": 4,
+      "end_time": 11,
+      "caption": "a clock with a red face on it"
+    }
+  ]
+}

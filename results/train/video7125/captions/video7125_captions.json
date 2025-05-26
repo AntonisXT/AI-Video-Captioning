@@ -1,0 +1,16 @@
+{
+  "video_id": "video7125",
+  "summary": "a soccer player is kicking the ball",
+  "scene_captions": [
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a soccer game is being played in a stadium"
+    },
+    {
+      "start_time": 8,
+      "end_time": 15,
+      "caption": "a soccer player is kicking the ball"
+    }
+  ]
+}

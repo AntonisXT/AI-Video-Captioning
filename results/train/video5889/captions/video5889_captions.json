@@ -1,0 +1,31 @@
+{
+  "video_id": "video5889",
+  "summary": "a man is drawing a picture on a piece of paper",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man is drawing a picture on a piece of paper"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a drawing of a dog with a bow on it ' s head"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a person is drawing a picture on a piece of paper"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a white piece of paper"
+    },
+    {
+      "start_time": 5,
+      "end_time": 17,
+      "caption": "a person drawing a picture on a piece of paper"
+    }
+  ]
+}

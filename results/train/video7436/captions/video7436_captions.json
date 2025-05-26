@@ -1,0 +1,31 @@
+{
+  "video_id": "video7436",
+  "summary": "a man in a military uniform is standing next to a machine gun",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a woman sitting at a table with a plate of food"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man with a tie around his neck"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man holding a rifle in a room"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is holding a bag"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a military uniform is standing next to a machine gun"
+    }
+  ]
+}

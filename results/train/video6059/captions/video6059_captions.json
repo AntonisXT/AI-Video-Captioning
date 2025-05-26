@@ -1,0 +1,26 @@
+{
+  "video_id": "video6059",
+  "summary": "a woman sitting on a red chair in front of a tv screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman sitting on a chair in front of a tv screen"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman standing on a stage with a green light"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a woman sitting on a red chair in a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a woman with long hair and a red dress singing into a microphone"
+    }
+  ]
+}

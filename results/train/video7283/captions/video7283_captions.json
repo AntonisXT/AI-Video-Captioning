@@ -1,0 +1,31 @@
+{
+  "video_id": "video7283",
+  "summary": "a fire truck is parked on the side of the road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 9,
+      "caption": "a car is driving down the street at night"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a fire truck is parked on the side of the road"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "caption": "a car is driving down the street at night"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a fire is burning in the middle of a street"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a fire truck is parked in the dark"
+    }
+  ]
+}

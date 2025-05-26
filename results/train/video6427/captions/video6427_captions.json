@@ -1,0 +1,41 @@
+{
+  "video_id": "video6427",
+  "summary": "a person is using a machine to make a piece of paper",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a black hoodie"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is holding a white cat in his arms"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a person is using a machine to make a piece of paper"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man holding a camera in his hand"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man and woman sitting at a table with a laptop"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a boy sitting at a desk with a laptop"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a woman with a scarf around her neck"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6695",
+  "summary": "a man is driving a car with a steering",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a man in a car is driving"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "the interior of a car with a steering and dashboard"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a man is driving a car with a steering"
+    }
+  ]
+}

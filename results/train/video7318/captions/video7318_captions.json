@@ -1,0 +1,26 @@
+{
+  "video_id": "video7318",
+  "summary": "a woman sings into a microphone on a stage",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a woman singing into a microphone on a stage"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "the band performs on the voice"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a drummer playing drums on stage with a band"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a concert with a man on stage"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6919",
+  "summary": "a young boy playing a trumpet and a man in a white shirt",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is playing a piano in a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man sitting on a chair"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a young boy playing a trumpet"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man in a white shirt"
+    }
+  ]
+}

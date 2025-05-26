@@ -1,0 +1,26 @@
+{
+  "video_id": "video7225",
+  "summary": "a woman in a gray hoodie and a man in a blue shirt",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a white shirt and a man in a blue shirt"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man and woman are standing in front of a black background"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a group of people posing for a picture"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a woman in a gray hoodie and a man in a blue shirt"
+    }
+  ]
+}

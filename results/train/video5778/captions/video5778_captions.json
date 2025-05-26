@@ -1,0 +1,31 @@
+{
+  "video_id": "video5778",
+  "summary": "a woman in white dress and hat dancing on the beach",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is standing on a wooden pier"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a woman in white dress and hat dancing on the beach"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a group of people are dancing on a dock"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman in white dress standing next to another woman"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a woman in white shirt and shorts standing on a beach"
+    }
+  ]
+}

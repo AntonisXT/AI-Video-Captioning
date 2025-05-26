@@ -1,0 +1,31 @@
+{
+  "video_id": "video7376",
+  "summary": "a man is making food",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person stirring rice into a pan"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a person is painting a piece of paper"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a person pouring liquid into a bucket"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man in a kitchen making food"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a person is dipping a piece of cun into a cup"
+    }
+  ]
+}

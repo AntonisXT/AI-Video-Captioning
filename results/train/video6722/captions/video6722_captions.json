@@ -1,0 +1,26 @@
+{
+  "video_id": "video6722",
+  "summary": "a man in a suit and tie is seen in the middle of a street in the city",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a football game being played by a player"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a suit and tie"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "a video screen showing a race car"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a man is seen in the middle of a street in the city"
+    }
+  ]
+}

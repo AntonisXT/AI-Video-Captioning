@@ -1,0 +1,31 @@
+{
+  "video_id": "video6696",
+  "summary": "a woman in a car with her head in her hands",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a woman in a car with her hands up"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man is driving a car with a woman"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man is driving a car with a camera"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman is holding a cell phone"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a woman in a car with her head in her hands"
+    }
+  ]
+}

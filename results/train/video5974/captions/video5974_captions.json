@@ -1,0 +1,51 @@
+{
+  "video_id": "video5974",
+  "summary": "a man in a black shirt and a white hat is standing next to a white object",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman singing into a microphone in a dark room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman in a red dress is standing next to a candle"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man in a black shirt is standing next to a white object"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a suit and tie standing on a stage"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman singing into a microphone in front of a green background"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a black shirt and a man in a white hat"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man in a hat standing next to a crowd"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a black shirt and a hat"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a group of people dancing in a nightclub"
+    }
+  ]
+}

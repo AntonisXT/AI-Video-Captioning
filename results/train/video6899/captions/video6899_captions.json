@@ -1,0 +1,21 @@
+{
+  "video_id": "video6899",
+  "summary": "a man in a brown jacket standing next to a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a woman in a black dress standing in front of a building"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a man in a brown jacket standing next to a woman"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a man and woman walking down a sidewalk"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video5560",
+  "summary": "a man in a suit is talking to a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie talking to another man"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a man in a tuxed"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a man in a suit is talking to a woman"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man sitting in a chair with a woman watching"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man in sunglasses is driving a car"
+    }
+  ]
+}

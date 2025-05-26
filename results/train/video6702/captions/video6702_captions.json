@@ -1,0 +1,16 @@
+{
+  "video_id": "video6702",
+  "summary": "a man is talking to a reporter on the street",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black shirt is talking to another man"
+    },
+    {
+      "start_time": 1,
+      "end_time": 21,
+      "caption": "a man is talking to a reporter on the street"
+    }
+  ]
+}

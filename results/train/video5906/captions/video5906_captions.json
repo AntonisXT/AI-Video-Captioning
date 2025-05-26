@@ -1,0 +1,31 @@
+{
+  "video_id": "video5906",
+  "summary": "a video game with a man in the middle of the screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the game ' s screens are all different, but they are different"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a game with a gun"
+    },
+    {
+      "start_time": 3,
+      "end_time": 10,
+      "caption": "a game with a tree and a man in the background"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a game with a desert scene"
+    },
+    {
+      "start_time": 12,
+      "end_time": 16,
+      "caption": "a video game with a man in the middle of the screen"
+    }
+  ]
+}

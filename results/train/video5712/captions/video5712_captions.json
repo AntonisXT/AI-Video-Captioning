@@ -1,0 +1,16 @@
+{
+  "video_id": "video5712",
+  "summary": "a man sitting at a desk with a laptop",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is working on a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 14,
+      "caption": "a man sitting at a desk with a laptop"
+    }
+  ]
+}

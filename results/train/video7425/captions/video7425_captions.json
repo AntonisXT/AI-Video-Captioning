@@ -1,0 +1,26 @@
+{
+  "video_id": "video7425",
+  "summary": "a woman is standing in front of a crowd holding signs and holding signs",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a poster of a bride and groom"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a woman is standing in front of a crowd"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a crowd of people holding signs and holding signs"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a man in a suit and tie sitting down"
+    }
+  ]
+}

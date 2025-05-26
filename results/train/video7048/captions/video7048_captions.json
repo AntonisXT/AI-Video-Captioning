@@ -1,0 +1,31 @@
+{
+  "video_id": "video7048",
+  "summary": "a woman in a red dress is standing next to a man",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman in a red dress is standing next to a man"
+    },
+    {
+      "start_time": 2,
+      "end_time": 15,
+      "caption": "a woman in a red shirt is talking to another woman"
+    },
+    {
+      "start_time": 16,
+      "end_time": 18,
+      "caption": "a woman with a red shirt"
+    },
+    {
+      "start_time": 19,
+      "end_time": 27,
+      "caption": "a man and woman are in bed together"
+    },
+    {
+      "start_time": 28,
+      "end_time": 29,
+      "caption": "a woman in a red dress is standing next to a man"
+    }
+  ]
+}

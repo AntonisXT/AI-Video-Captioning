@@ -1,0 +1,21 @@
+{
+  "video_id": "video7452",
+  "summary": "a man and two women posing for a photo",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a man in a blue shirt and glasses"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man and two boys standing in a field"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a man and two women posing for a photo"
+    }
+  ]
+}

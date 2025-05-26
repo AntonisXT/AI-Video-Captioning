@@ -1,0 +1,41 @@
+{
+  "video_id": "video6347",
+  "summary": "a woman is cooking in a kitchen with a pot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person stirring vegetables into a pot"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a woman in a kitchen making a bowl of food"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman is making a turkey dinner"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a woman is cooking in the kitchen with a pot"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a person is stirring a pot of food"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "caption": "a woman is cooking in a red pot"
+    },
+    {
+      "start_time": 15,
+      "end_time": 18,
+      "caption": "a woman is making a cake in the kitchen"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video5825",
+  "summary": "a man standing on a stage with a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "words speak louder than actions"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a man standing on a stage with a microphone"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man standing in front of a screen"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "caption": "a man standing on a stage with a microphone"
+    }
+  ]
+}

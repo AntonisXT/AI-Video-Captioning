@@ -1,0 +1,26 @@
+{
+  "video_id": "video6209",
+  "summary": "a man is sitting in a chair in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a room with a bed and a tv screen"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man is looking at a lamp in the dark"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man sitting at a desk with a computer"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a person is sitting in a chair in a room"
+    }
+  ]
+}

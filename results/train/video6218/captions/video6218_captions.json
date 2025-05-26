@@ -1,0 +1,31 @@
+{
+  "video_id": "video6218",
+  "summary": "a group of people in a room with a television",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a little girl sitting on the floor with a sign"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a group of people in a room with a television"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a group of people in a kitchen with a man standing in the middle"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a man in a hospital room"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a group of people sitting at a table in a room"
+    }
+  ]
+}

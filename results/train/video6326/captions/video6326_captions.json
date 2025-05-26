@@ -1,0 +1,21 @@
+{
+  "video_id": "video6326",
+  "summary": "a beach with people on it and buildings in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a beach with rocks and water in the fore"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a beach with people on it and buildings in the background"
+    },
+    {
+      "start_time": 11,
+      "end_time": 16,
+      "caption": "a group of people walking down a beach"
+    }
+  ]
+}

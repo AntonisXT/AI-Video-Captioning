@@ -1,0 +1,21 @@
+{
+  "video_id": "video7139",
+  "summary": "a black and white photo with a quote on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a woman in a red jacket"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a black and white photo with a quote on it"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a black and yellow sign with the words, ' i ' ver buro '"
+    }
+  ]
+}

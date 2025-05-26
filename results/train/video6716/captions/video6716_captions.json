@@ -1,0 +1,21 @@
+{
+  "video_id": "video6716",
+  "summary": "a car driving on a highway with a red car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "caption": "a car driving on a highway with a red car"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a car driving on a highway with a screen showing the view of the road"
+    },
+    {
+      "start_time": 12,
+      "end_time": 20,
+      "caption": "a red car driving down a street in a city"
+    }
+  ]
+}

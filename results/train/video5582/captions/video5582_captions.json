@@ -1,0 +1,16 @@
+{
+  "video_id": "video5582",
+  "summary": "a man and woman sitting at a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "two men sitting at a table with a laptop"
+    },
+    {
+      "start_time": 3,
+      "end_time": 10,
+      "caption": "a man and woman sitting at a table"
+    }
+  ]
+}

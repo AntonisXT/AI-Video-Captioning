@@ -1,0 +1,36 @@
+{
+  "video_id": "video6992",
+  "summary": "a crowd of people",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the band the bluetones performing at the pageant"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a crowd of people"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a blue jacket singing into a microphone"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man playing a guitar in the dark"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man in a black shirt singing into a microphone"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a crowd of people"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "video5642",
+  "summary": "a woman in a white robe is standing on a red carpet",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a white robe is standing on a red carpet"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman in a white robe and headphones"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a woman in a white robe is standing on a red carpet"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a woman in a white hoodie is talking to someone"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman in a nun costume is interviewed"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman in a white robe is talking to a man"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a group of people sitting at desks in an office"
+    }
+  ]
+}

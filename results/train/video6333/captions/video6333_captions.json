@@ -1,0 +1,26 @@
+{
+  "video_id": "video6333",
+  "summary": "a man in a suit and tie is looking at a tablet",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man sitting at a desk using a tablet"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "two men in suits talking to each other men"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a suit and tie is looking at a tablet"
+    },
+    {
+      "start_time": 5,
+      "end_time": 11,
+      "caption": "a man in a suit and bow tie standing in front of a window"
+    }
+  ]
+}

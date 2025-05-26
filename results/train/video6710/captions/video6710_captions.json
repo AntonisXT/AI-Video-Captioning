@@ -1,0 +1,36 @@
+{
+  "video_id": "video6710",
+  "summary": "a woman is seen in a store window with a poster of a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a bunch of cards with pictures of girls"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a bunch of books sitting on top of a table"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a tv screen showing a group of people on it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a woman is seen in a store window with a poster of a woman"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a crowd of people walking down a street at night"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a woman in a yellow coat and black boots"
+    }
+  ]
+}

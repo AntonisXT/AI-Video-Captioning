@@ -1,0 +1,21 @@
+{
+  "video_id": "video7019",
+  "summary": "a man sitting in a chair with a laptop",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man sitting in a chair"
+    },
+    {
+      "start_time": 7,
+      "end_time": 13,
+      "caption": "a man sitting at a desk with a sign on it"
+    },
+    {
+      "start_time": 14,
+      "end_time": 20,
+      "caption": "a man sitting in a chair with a laptop"
+    }
+  ]
+}

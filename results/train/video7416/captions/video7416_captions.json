@@ -1,0 +1,31 @@
+{
+  "video_id": "video7416",
+  "summary": "a blue ball with the word earth on it and a white ball with a black arrow on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is playing golf in a large room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a white ball with a black arrow on it"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man holding a soccer ball and a stick"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a blue ball with the word earth on it"
+    },
+    {
+      "start_time": 6,
+      "end_time": 23,
+      "caption": "a man holding a soccer ball and a stick"
+    }
+  ]
+}

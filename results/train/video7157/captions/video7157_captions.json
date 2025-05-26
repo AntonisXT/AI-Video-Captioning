@@ -1,0 +1,16 @@
+{
+  "video_id": "video7157",
+  "summary": "a cartoon character with a baseball cap on",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a cartoon character with red hair and a yellow shirt"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a cartoon character with a baseball cap on"
+    }
+  ]
+}

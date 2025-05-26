@@ -1,0 +1,36 @@
+{
+  "video_id": "video6883",
+  "summary": "a person holding a cell phone with a screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person holding a game controller"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a person holding a cell phone with a screen"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a black background with the words, ' there is no place to go '"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a black background with the words, they go listen and enjoy"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a black and white photo of a man with a guitar"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a person holding a cell phone with a screen"
+    }
+  ]
+}

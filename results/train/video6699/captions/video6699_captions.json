@@ -1,0 +1,31 @@
+{
+  "video_id": "video6699",
+  "summary": "a group of people are sitting on a couch",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people are playing bowling"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is standing on a tread while a group of people watch"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a group of people sitting on a couch"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "the pretty girls are all smiles for the camera"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a group of women standing next to each other women"
+    }
+  ]
+}

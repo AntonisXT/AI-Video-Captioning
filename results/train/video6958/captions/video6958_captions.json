@@ -1,0 +1,16 @@
+{
+  "video_id": "video6958",
+  "summary": "a sign that says, ' can you see this movie? '",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "caption": "a man in a suit and tie is standing on a stage"
+    },
+    {
+      "start_time": 9,
+      "end_time": 18,
+      "caption": "a sign that says, ' can you see this movie? '"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6669",
+  "summary": "a man is playing cellos in front of a crowd",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man playing a violin in a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a woman in white dress standing on stage"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a man playing cellos in front of a crowd"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a large crowd of people"
+    }
+  ]
+}

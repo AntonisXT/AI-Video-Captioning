@@ -1,0 +1,26 @@
+{
+  "video_id": "video7336",
+  "summary": "a blue and white poster with the words metal science",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a blue sheet of paper with the words metal science"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a person is writing on a wall with a pen"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a person is painting a blue wall"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a blue and white poster with the words metal science"
+    }
+  ]
+}

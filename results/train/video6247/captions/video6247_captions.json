@@ -1,0 +1,26 @@
+{
+  "video_id": "video6247",
+  "summary": "a group of people sitting around tables in a yard",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people sitting around tables in a yard"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of people dancing in the grass"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a group of people sitting on lawn chairs"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a group of people playing drums in a yard"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "video_id": "video6489",
+  "summary": "a man is cooking in a kitchen with a large pot",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person pouring water into a pot"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a man is cooking in a kitchen with a large pot"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is pouring water into a bowl"
+    },
+    {
+      "start_time": 12,
+      "end_time": 19,
+      "caption": "a person is preparing food in a kitchen"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "caption": "a man is cooking food in a large pan"
+    },
+    {
+      "start_time": 23,
+      "end_time": 24,
+      "caption": "a man is making a salad in a kitchen"
+    }
+  ]
+}

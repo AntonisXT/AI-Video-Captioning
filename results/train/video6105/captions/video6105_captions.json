@@ -1,0 +1,31 @@
+{
+  "video_id": "video6105",
+  "summary": "a man and a little girl are skiing",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman and a child on skis"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a black background with the words day 3"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a person on skis is standing on a rail"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man and a little girl are skiing"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a little girl is standing on a snowboard"
+    }
+  ]
+}

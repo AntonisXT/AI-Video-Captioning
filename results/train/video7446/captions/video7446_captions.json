@@ -1,0 +1,21 @@
+{
+  "video_id": "video7446",
+  "summary": "a man and woman sitting at a table",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man and woman sitting at a table"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman in a red dress standing next to a man"
+    },
+    {
+      "start_time": 5,
+      "end_time": 14,
+      "caption": "a man and woman sitting at a table"
+    }
+  ]
+}

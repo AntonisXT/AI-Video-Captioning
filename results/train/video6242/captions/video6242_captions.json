@@ -1,0 +1,31 @@
+{
+  "video_id": "video6242",
+  "summary": "a man is standing next to a man holding a bag of food",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a man standing next to a man holding a bag of food"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man standing next to a woman in a kitchen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man is standing near a large bag of food"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "caption": "a man is making food on a large pan"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a man is standing near a large pile of food"
+    }
+  ]
+}

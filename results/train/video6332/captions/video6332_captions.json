@@ -1,0 +1,36 @@
+{
+  "video_id": "video6332",
+  "summary": "a group of people running on a beach",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people running in the woods"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a group of people running on a beach"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a group of people dancing in the woods"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a group of people running on a beach"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a group of people dancing in the dirt"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a group of people on the beach"
+    }
+  ]
+}

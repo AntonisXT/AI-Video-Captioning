@@ -1,0 +1,26 @@
+{
+  "video_id": "video7482",
+  "summary": "is seen through a window in the middle of a city",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man sitting in a chair"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man in a black shirt"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a classroom full of students"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "caption": "a man is seen through a window in the middle of a city"
+    }
+  ]
+}

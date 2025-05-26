@@ -1,0 +1,26 @@
+{
+  "video_id": "video5768",
+  "summary": "a man is working on a car engine",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a man is working on a car engine"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a blue shirt and gloves working on a machine"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is holding a cylinder in his hands"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is working on a car engine"
+    }
+  ]
+}

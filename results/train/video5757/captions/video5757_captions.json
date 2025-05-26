@@ -1,0 +1,31 @@
+{
+  "video_id": "video5757",
+  "summary": "two men are dancing in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car is seen in this image from the video"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a car is parked in a parking lot"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man standing next to a car in the street"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a group of people standing in front of a car"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "two men are dancing in a room"
+    }
+  ]
+}

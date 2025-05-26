@@ -1,0 +1,16 @@
+{
+  "video_id": "video5808",
+  "summary": "a group of people standing around a horse",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a group of people standing in a barn"
+    },
+    {
+      "start_time": 3,
+      "end_time": 28,
+      "caption": "a group of people standing around a horse"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6712",
+  "summary": "a tv screen showing a football game on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 8,
+      "caption": "a tv screen showing a football game on it"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a football player is running on the field"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a man is on the ground after a football game"
+    }
+  ]
+}

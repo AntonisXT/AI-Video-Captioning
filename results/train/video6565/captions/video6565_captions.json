@@ -1,0 +1,16 @@
+{
+  "video_id": "video6565",
+  "summary": "a man laying on the grass in a park",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a golf course with a lake and houses in the background"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "caption": "a man laying on the grass in a park"
+    }
+  ]
+}

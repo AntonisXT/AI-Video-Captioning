@@ -1,0 +1,26 @@
+{
+  "video_id": "video7255",
+  "summary": "a video game with a car driving through the desert",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a video game with a car driving through the desert"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a game with a motorcycle"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a car driving through a desert"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a game with a motorcycle"
+    }
+  ]
+}

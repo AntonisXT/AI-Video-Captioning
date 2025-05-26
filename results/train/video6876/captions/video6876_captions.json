@@ -1,0 +1,31 @@
+{
+  "video_id": "video6876",
+  "summary": "a boy looking out a window at a bird flying in the sky a woman looking out a window at a bird flying overhead",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman standing on a balcony with her arms outstretched"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a little girl is looking at a cell"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "caption": "a woman looking out a window at a bird flying overhead"
+    },
+    {
+      "start_time": 8,
+      "end_time": 11,
+      "caption": "a person is flying a kite in the sky"
+    },
+    {
+      "start_time": 12,
+      "end_time": 20,
+      "caption": "a boy looking out a window at a bird flying in the sky"
+    }
+  ]
+}

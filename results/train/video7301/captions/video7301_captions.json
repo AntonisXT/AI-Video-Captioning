@@ -1,0 +1,26 @@
+{
+  "video_id": "video7301",
+  "summary": "a woman in shorts and black shorts is standing on a pole",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in shorts and a hat is posing"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a woman in shorts is standing on a pole"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "caption": "a woman in a white shirt and black shorts"
+    },
+    {
+      "start_time": 15,
+      "end_time": 20,
+      "caption": "a woman in a black jacket and red shirt"
+    }
+  ]
+}

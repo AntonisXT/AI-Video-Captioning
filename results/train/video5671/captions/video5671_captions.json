@@ -1,0 +1,26 @@
+{
+  "video_id": "video5671",
+  "summary": "a man in a plaid shirt is holding a sign with a clock on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a plaid shirt"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man is laying on a couch with his feet up"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a blackboard with a pie on it"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man holding a sign with a clock on it"
+    }
+  ]
+}

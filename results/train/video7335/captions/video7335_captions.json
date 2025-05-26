@@ -1,0 +1,26 @@
+{
+  "video_id": "video7335",
+  "summary": "a group of people standing around a tree",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a little girl standing next to a tree"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a group of people standing around a tree"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a woman in a suit is sitting at a desk"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a group of people walking through a forest"
+    }
+  ]
+}

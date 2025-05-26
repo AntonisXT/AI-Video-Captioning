@@ -1,0 +1,21 @@
+{
+  "video_id": "video6727",
+  "summary": "a man in a black shirt is sitting down",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man standing in front of a red wall"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "two men sitting in a room with a camera"
+    },
+    {
+      "start_time": 7,
+      "end_time": 13,
+      "caption": "a man in a black shirt is sitting down"
+    }
+  ]
+}

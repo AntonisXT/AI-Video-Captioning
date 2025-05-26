@@ -1,0 +1,26 @@
+{
+  "video_id": "video6960",
+  "summary": "a man is running on a track",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a man running on a track"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a television screen showing a cricket match"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a soccer game is being played in a stadium"
+    },
+    {
+      "start_time": 13,
+      "end_time": 17,
+      "caption": "a track race being played by a man"
+    }
+  ]
+}

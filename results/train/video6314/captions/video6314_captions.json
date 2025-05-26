@@ -1,0 +1,16 @@
+{
+  "video_id": "video6314",
+  "summary": "a man and woman are preparing food in the kitchen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is putting something into a bag"
+    },
+    {
+      "start_time": 1,
+      "end_time": 27,
+      "caption": "a man and woman are preparing food in the kitchen"
+    }
+  ]
+}

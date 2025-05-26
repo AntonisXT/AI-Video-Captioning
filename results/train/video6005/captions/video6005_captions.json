@@ -1,0 +1,26 @@
+{
+  "video_id": "video6005",
+  "summary": "a horse is jumping over an obstacle in a competition",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a horse jumping over an obstacle in a field"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a horse is being ridden by a man"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a horse is jumping over a jump in a competition"
+    },
+    {
+      "start_time": 4,
+      "end_time": 10,
+      "caption": "a person riding a horse in an arena"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6464",
+  "summary": "a woman in a white dress walking down a runway",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a woman walking down a runway at a fashion show"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a woman in a white dress and a man in a black suit"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a woman in a white dress walking down a runway"
+    }
+  ]
+}

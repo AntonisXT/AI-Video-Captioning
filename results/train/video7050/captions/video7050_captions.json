@@ -1,0 +1,26 @@
+{
+  "video_id": "video7050",
+  "summary": "a baby in a stroller is walking down the sidewalk",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a baby in a stroller is walking down the sidewalk"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a man is pushing a stroller down the sidewalk"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a stroller is shown in this image"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "caption": "a stroller sitting on the sidewalk next to a plant"
+    }
+  ]
+}

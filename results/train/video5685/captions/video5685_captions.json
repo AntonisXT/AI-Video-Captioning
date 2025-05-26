@@ -1,0 +1,46 @@
+{
+  "video_id": "video5685",
+  "summary": "a woman in a suit and tie is standing in front of a computer",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit is sitting at a desk"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman in a blue dress standing in front of a mirror"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a woman in a suit and tie is standing in front of a computer"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman in a black dress standing in front of a man"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a woman in a suit and pink shirt"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man looking out the window at a woman"
+    },
+    {
+      "start_time": 11,
+      "end_time": 15,
+      "caption": "a man in a suit is standing in front of a window"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "caption": "a woman in a suit and pink shirt"
+    }
+  ]
+}

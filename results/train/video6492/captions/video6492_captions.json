@@ -1,0 +1,31 @@
+{
+  "video_id": "video6492",
+  "summary": "a black dog laying on the floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cat is standing on a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a black dog laying on the ground"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a cat is in a cage with a stuffed animal"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a dog is sitting in the back seat of a car"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a dog laying on the floor"
+    }
+  ]
+}

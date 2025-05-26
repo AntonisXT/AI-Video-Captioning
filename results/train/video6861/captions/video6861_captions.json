@@ -1,0 +1,21 @@
+{
+  "video_id": "video6861",
+  "summary": "First, a man in a tie Next, A man is playing a guitar in a church. Finally, A group of people are sitting in a room.",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man wearing a tie"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "a man playing a guitar in a church"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a group of people sitting in a room"
+    }
+  ]
+}

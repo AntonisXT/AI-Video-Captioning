@@ -1,0 +1,26 @@
+{
+  "video_id": "video6804",
+  "summary": "a man is playing a guitar in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is putting a magazine on a table"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a woman in a blue jacket sitting at a table"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a house with a red door and a white house"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "caption": "a man playing a guitar in a room"
+    }
+  ]
+}

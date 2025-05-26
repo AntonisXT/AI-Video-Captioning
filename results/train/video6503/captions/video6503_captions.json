@@ -1,0 +1,26 @@
+{
+  "video_id": "video6503",
+  "summary": "a man in a suit and tie is standing in front of a crowd",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man sitting in a chair on a stage"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man in a suit and tie is standing in front of a crowd"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man and woman are standing in front of a television screen"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a woman in a floral shirt singing into a microphone"
+    }
+  ]
+}

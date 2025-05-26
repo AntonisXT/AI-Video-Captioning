@@ -1,0 +1,21 @@
+{
+  "video_id": "video5755",
+  "summary": "a man is standing on a ledge in the middle of a building",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is standing on a ledge in the middle of a building"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "caption": "a man climbing up a wall with a rope"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a car that is parked in the street"
+    }
+  ]
+}

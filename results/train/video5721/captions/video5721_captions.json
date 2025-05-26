@@ -1,0 +1,26 @@
+{
+  "video_id": "video5721",
+  "summary": "a person is holding a small cup with a gold coin",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is putting a toothbrush to a tooth"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a person is holding a small cup with a gold coin"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a person is making a toy with a piece of paper"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a person holding a small egg in their hand"
+    }
+  ]
+}

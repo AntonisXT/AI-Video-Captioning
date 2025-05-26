@@ -1,0 +1,31 @@
+{
+  "video_id": "video6442",
+  "summary": "a cartoon scene with a man in a hat and a woman in a dress and a cartoon character in a blue shirt and a",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon scene with two men sitting at a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon image of two men in uniform"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "the adventures of sherlock and mr rogers"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a cartoon scene with a man in a hat and a woman in a dress"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a cartoon character in a blue shirt and a man in a white shirt"
+    }
+  ]
+}

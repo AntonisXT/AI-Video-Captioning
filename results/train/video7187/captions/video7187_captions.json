@@ -1,0 +1,31 @@
+{
+  "video_id": "video7187",
+  "summary": "a man in a black jacket and bow tie",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black jacket"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a suit"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a black jacket and bow tie"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "a man in a room with a large glass vase"
+    },
+    {
+      "start_time": 8,
+      "end_time": 15,
+      "caption": "a picture of a mountain scene with a lake"
+    }
+  ]
+}

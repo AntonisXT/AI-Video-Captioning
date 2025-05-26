@@ -1,0 +1,41 @@
+{
+  "video_id": "video5969",
+  "summary": "a man holding a baby",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man holding a baby"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man sitting in a cribt"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man sitting on a couch"
+    },
+    {
+      "start_time": 6,
+      "end_time": 15,
+      "caption": "a man holding a baby"
+    },
+    {
+      "start_time": 16,
+      "end_time": 23,
+      "caption": "a man sitting on a couch"
+    },
+    {
+      "start_time": 23,
+      "end_time": 24,
+      "caption": "a dog is standing on a couch"
+    },
+    {
+      "start_time": 24,
+      "end_time": 26,
+      "caption": "a woman is sitting on a couch with her legs crossed"
+    }
+  ]
+}

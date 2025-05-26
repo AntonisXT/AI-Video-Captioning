@@ -1,0 +1,41 @@
+{
+  "video_id": "video6088",
+  "summary": "a person is painting a picture of a tiger on a green screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a person is playing with a bunch of toys"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a person is painting a picture of animals"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a group of animals are standing around a green screen"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a person is painting a tiger on a green screen"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a group of people are playing with animals"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a person is painting a picture of animals"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a person is holding a toy in front of a green screen"
+    }
+  ]
+}

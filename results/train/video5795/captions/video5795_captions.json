@@ -1,0 +1,36 @@
+{
+  "video_id": "video5795",
+  "summary": "a man in a suit and tie walking down a hallway",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a man holding a painting in front of a city"
+    },
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "caption": "a man in a suit and tie walking down a hallway"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "a man in a suit and tie sitting in a chair"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a man is being interviewed by a reporter"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "caption": "a man is surrounded by photographers at a press conference"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "caption": "a man in a suit and tie is being interviewed by a crowd"
+    }
+  ]
+}

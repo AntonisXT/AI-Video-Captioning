@@ -1,0 +1,16 @@
+{
+  "video_id": "video6320",
+  "summary": "a man in a suit and tie is on the news",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "fox news on fox news"
+    },
+    {
+      "start_time": 1,
+      "end_time": 18,
+      "caption": "a man in a suit and tie is on the news"
+    }
+  ]
+}

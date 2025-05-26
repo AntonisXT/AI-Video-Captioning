@@ -1,0 +1,21 @@
+{
+  "video_id": "video5883",
+  "summary": "a family playing in the pool with their baby",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a woman and a baby are playing in the pool"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a group of people in a pool with smoke coming out of their mouths"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "caption": "a family playing in the pool with their baby"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video5500",
+  "summary": "a man in a blue shirt",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a blue shirt"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man standing in front of a whiteboard"
+    },
+    {
+      "start_time": 7,
+      "end_time": 22,
+      "caption": "a man standing in front of a whiteboard"
+    },
+    {
+      "start_time": 23,
+      "end_time": 24,
+      "caption": "a man in a blue shirt"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7363",
+  "summary": "a man is holding a gun and pointing it at the camera",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a person using a drill to fix a piece of wood"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a person holding a gun in their hand"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a man is holding a gun and pointing it at the camera"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a person holding a camera with a small object in the background"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "video_id": "video6358",
+  "summary": "a blur of a car driving down a street and a blur of a boat in the water",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a blur of a car"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a deer is standing in the middle of a room"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a blur of a boat in the water"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a painting of a moose in the water"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a deer with its mouth open"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a stuffed animal is standing next to a stuffed deer"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a lion in a zoo"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a blur of a car driving down a street"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is standing in front of a computer"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a bear is standing in the grass"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a cat is walking on the ground"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a black square object"
+    }
+  ]
+}

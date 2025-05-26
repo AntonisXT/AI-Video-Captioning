@@ -1,0 +1,46 @@
+{
+  "video_id": "video5682",
+  "summary": "a man in a black coat is standing in front of a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black jacket and red shirt holding a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a black suit and a woman in a black dress"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is looking at a newspaper"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a black coat is standing in front of a microphone"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in a suit"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a woman with long hair and a white shirt"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a video game with a man in the middle"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is holding a cigarette in his hand"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video5587",
+  "summary": "a video game showing a truck driving through a mountain",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a video game showing a truck driving through a mountain"
+    },
+    {
+      "start_time": 1,
+      "end_time": 7,
+      "caption": "a gun in a game"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a truck driving down a steep hill"
+    }
+  ]
+}

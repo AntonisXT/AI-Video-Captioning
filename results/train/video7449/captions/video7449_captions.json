@@ -1,0 +1,36 @@
+{
+  "video_id": "video7449",
+  "summary": "a cartoon character flying through the air with a banner",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character with a clock and a clock"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a cartoon depicting a man holding a flag"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "caption": "a man standing on the moon with a flag"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a cartoon character flying through the air with a banner"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a man sitting at a desk with a laptop"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "the purple screen"
+    }
+  ]
+}

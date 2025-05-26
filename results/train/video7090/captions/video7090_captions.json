@@ -1,0 +1,31 @@
+{
+  "video_id": "video7090",
+  "summary": "a little girl holding a bow and arrow in her hand",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a little girl holding a kite in her hand"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a bag with a pattern on it"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a little girl is standing on a ledge"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a woman wearing a scarf with a pattern on it"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "caption": "a little girl holding a bow and arrow"
+    }
+  ]
+}

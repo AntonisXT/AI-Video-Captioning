@@ -1,0 +1,31 @@
+{
+  "video_id": "video5977",
+  "summary": "a group of people are sitting on the grass",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "the band is sitting on a bench in the park"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of people sitting on the grass"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "a man sitting on the ground"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a group of men sitting on the grass"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man sitting on the ground"
+    }
+  ]
+}

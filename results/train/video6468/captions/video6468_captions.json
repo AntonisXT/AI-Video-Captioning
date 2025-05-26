@@ -1,0 +1,36 @@
+{
+  "video_id": "video6468",
+  "summary": "a man in a car holding a cell",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car with a radio and a steering"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man driving a car with a woman behind him"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a man in a car holding a cell"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man in a tie is sitting in a car"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man driving a car with a camera"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man driving a car with a dog in the passenger seat"
+    }
+  ]
+}

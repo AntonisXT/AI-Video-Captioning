@@ -1,0 +1,26 @@
+{
+  "video_id": "video6161",
+  "summary": "a white paper with a red and black text that reads bright dots on the cover of the book 's ' evolution of the human body '",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a slide presentation"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a white paper with a red and black text that reads bright dots"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "the cover of the book, ' the evolution of the human body '"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "caption": "the diagram shows the steps of the steps of the steps of the steps"
+    }
+  ]
+}

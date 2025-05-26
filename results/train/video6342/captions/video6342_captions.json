@@ -1,0 +1,31 @@
+{
+  "video_id": "video6342",
+  "summary": "a teddy bear is sitting on a table with a red nose",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a white wall"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a pair of gloves and a pair of gloves"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a dog with a gun in its mouth"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a teddy bear sitting on a table with a red nose"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a person is cutting a dog ' s hair"
+    }
+  ]
+}

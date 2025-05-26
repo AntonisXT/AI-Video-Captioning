@@ -1,0 +1,31 @@
+{
+  "video_id": "video7403",
+  "summary": "a person is holding a cup of food over a fire",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person holding a hot dog wrapped in foil"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a picture of a pot of food being cooked"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a woman sitting at a table eating food"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a person is pouring a pot of soup"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "a person holding a cup of food over a fire"
+    }
+  ]
+}

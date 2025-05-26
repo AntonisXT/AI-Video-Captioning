@@ -1,0 +1,36 @@
+{
+  "video_id": "video7438",
+  "summary": "a group of dolls are in a display case",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a purple dress"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a group of dolls are in a display case"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman is standing in front of a store"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a shelf full of barbie dolls and barbie dolls"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a woman is walking through a store aisle"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man is standing in a store with a little girl"
+    }
+  ]
+}

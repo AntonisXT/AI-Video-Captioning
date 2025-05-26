@@ -1,0 +1,41 @@
+{
+  "video_id": "video6821",
+  "summary": "a man in a white shirt and sunglasses is standing on a red boat",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man riding a skateboard down a steep hill"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is riding a red train through a narrow tunnel"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man is walking down a red bridge"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a man in a white shirt and sunglasses standing on a red boat"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a man sitting on a wooden bench in front of a tree"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man in a white shirt is standing on a bridge"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man sitting on a bench in front of a tree"
+    }
+  ]
+}

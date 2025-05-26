@@ -1,0 +1,26 @@
+{
+  "video_id": "video6076",
+  "summary": "a man in a blue shirt and a woman in a white dress is sitting on a bed",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a man in a blue shirt"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman in a white dress is sitting on a bed"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a man laying on a bed"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man sitting in a room with people"
+    }
+  ]
+}

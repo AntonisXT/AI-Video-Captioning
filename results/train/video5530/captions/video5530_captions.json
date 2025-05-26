@@ -1,0 +1,31 @@
+{
+  "video_id": "video5530",
+  "summary": "a football player is running with the ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a football player is running with the ball"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a soccer game being played by a man"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a football game being played by a youngster"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a man in a red and white uniform running on a field"
+    },
+    {
+      "start_time": 10,
+      "end_time": 15,
+      "caption": "a football game being played by a player"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "video6228",
+  "summary": "a woman in a kitchen preparing food",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a pot of soup with a spoon in it"
+    },
+    {
+      "start_time": 2,
+      "end_time": 20,
+      "caption": "a woman in a kitchen preparing food"
+    }
+  ]
+}

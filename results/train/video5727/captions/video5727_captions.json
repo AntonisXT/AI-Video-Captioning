@@ -1,0 +1,31 @@
+{
+  "video_id": "video5727",
+  "summary": "a futuristic city with a large rock in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a video game with a robot on the ground"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man in a suit is walking on a street"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a castle on a hill"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a futuristic city with a large rock in the background"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a small building in a field"
+    }
+  ]
+}

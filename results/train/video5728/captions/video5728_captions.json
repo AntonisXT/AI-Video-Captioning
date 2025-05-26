@@ -1,0 +1,21 @@
+{
+  "video_id": "video5728",
+  "summary": "a cartoon character with a red shirt and black pants",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a cartoon character with a red shirt and black pants"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a cartoon character is standing in front of a tree"
+    },
+    {
+      "start_time": 6,
+      "end_time": 9,
+      "caption": "a cartoon character in a white shirt and black pants"
+    }
+  ]
+}

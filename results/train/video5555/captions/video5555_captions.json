@@ -1,0 +1,21 @@
+{
+  "video_id": "video5555",
+  "summary": "a computer screen with a drawing of a horse",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a computer screen with a drawing of a blue and purple flower"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a computer screen with a drawing of a horse"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "how to draw a cartoon cat"
+    }
+  ]
+}

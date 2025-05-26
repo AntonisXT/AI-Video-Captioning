@@ -1,0 +1,41 @@
+{
+  "video_id": "video7018",
+  "summary": "a man in a baseball uniform is standing on a baseball field",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a baseball uniform is standing on a baseball field"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a dark room with a skateboard"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man wearing sunglasses"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man standing in a room with a bat"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a man in a black shirt is dancing"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man is standing on a stage with a ball"
+    },
+    {
+      "start_time": 6,
+      "end_time": 24,
+      "caption": "a man sitting in a chair holding a magazine"
+    }
+  ]
+}

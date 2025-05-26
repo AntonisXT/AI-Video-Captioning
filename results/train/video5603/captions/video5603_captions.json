@@ -1,0 +1,21 @@
+{
+  "video_id": "video5603",
+  "summary": "a man in a suit sitting in a chair",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a group of people sitting in chairs watching a television show"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "an older man sitting in a chair with his hands up"
+    },
+    {
+      "start_time": 6,
+      "end_time": 20,
+      "caption": "a man in a suit sitting in a chair"
+    }
+  ]
+}

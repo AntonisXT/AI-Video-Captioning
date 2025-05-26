@@ -1,0 +1,36 @@
+{
+  "video_id": "video6707",
+  "summary": "a red car is parked in a parking lot with a dent on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "caption": "a red car is parked in a parking lot"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a red car with a white headlight and a black headlight"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a red car with a dent on it"
+    },
+    {
+      "start_time": 12,
+      "end_time": 14,
+      "caption": "a red car is parked in a parking lot"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "caption": "a car with a tire on the front wheel"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "caption": "a red car parked in a parking lot"
+    }
+  ]
+}

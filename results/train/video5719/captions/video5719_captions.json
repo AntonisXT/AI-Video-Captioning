@@ -1,0 +1,46 @@
+{
+  "video_id": "video5719",
+  "summary": "a woman is painting a picture on a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman is painting a picture on a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a little girl with a face mask on"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a woman in a red hat and white shirt"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman is making a cake in a tent"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man painting a woman ' s face"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is playing a game with a table"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man is grilling a barbecue on the grass"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a woman is pouring water onto a grill"
+    }
+  ]
+}

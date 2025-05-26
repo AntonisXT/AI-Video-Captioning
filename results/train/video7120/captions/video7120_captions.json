@@ -1,0 +1,31 @@
+{
+  "video_id": "video7120",
+  "summary": "a cartoon car with a sign that says ' i ' m ' driving down a road with trees",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "family guy - the family guy"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a cartoon car driving down a road with trees"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon character is being pulled by a man in a car"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a cartoon car with a sign that says, ' i ' m '"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a red car is driving on a hill"
+    }
+  ]
+}

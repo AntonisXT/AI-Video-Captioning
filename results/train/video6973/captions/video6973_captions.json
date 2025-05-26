@@ -1,0 +1,36 @@
+{
+  "video_id": "video6973",
+  "summary": "a table tennis player is about to hit the ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a table tennis player is getting ready to hit the ball"
+    },
+    {
+      "start_time": 4,
+      "end_time": 12,
+      "caption": "a table tennis player is about to hit the ball"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a man is doing a trick on a table"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a man is playing tennis on a court"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a man is playing basketball on a tv screen"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "caption": "a tennis player is playing tennis on the court"
+    }
+  ]
+}

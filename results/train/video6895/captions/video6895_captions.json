@@ -1,0 +1,21 @@
+{
+  "video_id": "video6895",
+  "summary": "a surfer is riding a wave in the ocean",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a surfer is riding a wave in the ocean"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a bird flying over the ocean with a person on a surfboard"
+    },
+    {
+      "start_time": 8,
+      "end_time": 15,
+      "caption": "a surfer is riding a wave in the ocean"
+    }
+  ]
+}

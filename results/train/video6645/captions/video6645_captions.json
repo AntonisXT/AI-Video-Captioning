@@ -1,0 +1,26 @@
+{
+  "video_id": "video6645",
+  "summary": "a man in a black shirt is standing in front of a tv screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a black shirt is standing in front of a tv screen"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a woman is holding a remote control device"
+    },
+    {
+      "start_time": 5,
+      "end_time": 10,
+      "caption": "a man in glasses is on a tv screen"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man holding a small drone with a camera"
+    }
+  ]
+}

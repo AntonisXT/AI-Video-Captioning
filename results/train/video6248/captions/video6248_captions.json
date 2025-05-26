@@ -1,0 +1,36 @@
+{
+  "video_id": "video6248",
+  "summary": "a young boy is opening a refrigerator door",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a young boy is opening a refrigerator door"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a boy is playing with a toy"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a boy is putting carrots in a refrigerator"
+    },
+    {
+      "start_time": 3,
+      "end_time": 5,
+      "caption": "a woman in a green shirt is standing in a kitchen"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a little boy standing in front of a refrigerator"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a little boy playing with a toy in a kitchen"
+    }
+  ]
+}

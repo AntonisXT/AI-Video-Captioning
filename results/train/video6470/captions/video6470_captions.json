@@ -1,0 +1,26 @@
+{
+  "video_id": "video6470",
+  "summary": "a cartoon character is standing on a boat",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character is running through a field"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a cartoon character is standing on a boat"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a yellow and gray background with a white border"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a cartoon character is playing with a group of animals"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6897",
+  "summary": "a woman is sitting in a red chair with a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man sitting in a chair next to a woman"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a group of chairs sitting on top of a stage"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man sitting in a chair with a microphone"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "the voice"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a woman sitting in a red chair with a microphone"
+    }
+  ]
+}

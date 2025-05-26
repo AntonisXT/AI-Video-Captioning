@@ -1,0 +1,21 @@
+{
+  "video_id": "video5938",
+  "summary": "a mountain with a small village in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of men in a field"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a truck is in the middle of a large pile of rubble"
+    },
+    {
+      "start_time": 4,
+      "end_time": 10,
+      "caption": "a mountain with a small village in the background"
+    }
+  ]
+}

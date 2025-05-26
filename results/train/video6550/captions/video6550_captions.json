@@ -1,0 +1,26 @@
+{
+  "video_id": "video6550",
+  "summary": "a car is driving on a track with a red car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a red cone sits on the side of a road"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man driving a car on a road"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a car is driving down the road near a grassy hill"
+    },
+    {
+      "start_time": 8,
+      "end_time": 13,
+      "caption": "a car is driving on a track with a red car"
+    }
+  ]
+}

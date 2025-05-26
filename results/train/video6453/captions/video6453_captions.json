@@ -1,0 +1,26 @@
+{
+  "video_id": "video6453",
+  "summary": "a surfer is riding a wave in the ocean",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman riding a wave on a surfboard"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man and a woman are surfing in the ocean"
+    },
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "caption": "a surfer is riding a wave in the ocean"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "caption": "a man is standing on the beach with his surfboard"
+    }
+  ]
+}

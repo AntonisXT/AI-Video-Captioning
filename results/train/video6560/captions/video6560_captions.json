@@ -1,0 +1,26 @@
+{
+  "video_id": "video6560",
+  "summary": "a woman sits on the ground with a camera",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman kneeling down to a dog"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a woman sitting on the ground with a camera"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a woman sitting on a log"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a dog standing in the dirt near a pile of wood"
+    }
+  ]
+}

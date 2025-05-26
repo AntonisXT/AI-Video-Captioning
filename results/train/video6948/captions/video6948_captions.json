@@ -1,0 +1,36 @@
+{
+  "video_id": "video6948",
+  "summary": "a white car and a red car are in a race",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a red car and a white car are in a race"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "three cars are lined up in a row"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a white car driving down a street"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a white car and a red car in a parking lot"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a red toy truck with a big tire"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "a toy car is driving on the road"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video6557",
+  "summary": "a man in a kitchen preparing food",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a black stove"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "a man in a kitchen preparing food"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "caption": "a person pouring liquid into a cup"
+    },
+    {
+      "start_time": 9,
+      "end_time": 19,
+      "caption": "a man in a kitchen preparing food"
+    }
+  ]
+}

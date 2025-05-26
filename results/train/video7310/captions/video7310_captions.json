@@ -1,0 +1,21 @@
+{
+  "video_id": "video7310",
+  "summary": "a couple dancing on a dance floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a couple dancing on a dance floor"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a man in a tuxed"
+    },
+    {
+      "start_time": 6,
+      "end_time": 15,
+      "caption": "a couple dancing on a dance floor"
+    }
+  ]
+}

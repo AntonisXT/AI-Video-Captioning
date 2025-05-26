@@ -1,0 +1,31 @@
+{
+  "video_id": "video5886",
+  "summary": "a cartoon character is standing in front of a tv screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a cartoon character is standing in front of a building"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a cartoon character holding a dog in his arms"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a cartoon character is standing in front of a tv screen"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a cartoon character with a dog in his lap"
+    },
+    {
+      "start_time": 14,
+      "end_time": 23,
+      "caption": "a cartoon character is talking to another"
+    }
+  ]
+}

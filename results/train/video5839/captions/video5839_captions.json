@@ -1,0 +1,36 @@
+{
+  "video_id": "video5839",
+  "summary": "a cartoon dog is standing in front of a fence",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a cartoon character is sitting on a bench"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a dog is standing next to a cat"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a cartoon character is hugging a mouse"
+    },
+    {
+      "start_time": 3,
+      "end_time": 8,
+      "caption": "a cartoon dog is standing in front of a fence"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon cat with a big smile on its face"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "caption": "a cartoon character is looking out the window"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6362",
+  "summary": "a man is putting something on the trunk of a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a car is parked on the side of the road"
+    },
+    {
+      "start_time": 3,
+      "end_time": 10,
+      "caption": "a car with a pink bow on the roof"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a person is holding a cigarette in their hand"
+    },
+    {
+      "start_time": 13,
+      "end_time": 17,
+      "caption": "a man is holding a cell phone in his hand"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "caption": "a person is putting something on the trunk"
+    }
+  ]
+}

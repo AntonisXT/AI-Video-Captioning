@@ -1,0 +1,21 @@
+{
+  "video_id": "video5758",
+  "summary": "a person writing on a piece of paper",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a boy is holding a paper ball in his hand"
+    },
+    {
+      "start_time": 3,
+      "end_time": 9,
+      "caption": "a girl sitting at a desk in a classroom"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a person writing on a piece of paper"
+    }
+  ]
+}

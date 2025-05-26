@@ -1,0 +1,46 @@
+{
+  "video_id": "video6382",
+  "summary": "a view of the ocean from a boat and a view of the ocean from a plane",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a large white object is flying in the sky"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a view of the ocean from a boat"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a blue ocean with a bright light shining in the sky"
+    },
+    {
+      "start_time": 7,
+      "end_time": 13,
+      "caption": "a view of the ocean from a boat"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "caption": "the sun shining over the ocean"
+    },
+    {
+      "start_time": 14,
+      "end_time": 17,
+      "caption": "a view of the great barrier from a plane"
+    },
+    {
+      "start_time": 18,
+      "end_time": 21,
+      "caption": "the great barrier, great barrier, great barrier, great barrier, great barrier, great barrier, great"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "caption": "a view of the ocean from a plane"
+    }
+  ]
+}

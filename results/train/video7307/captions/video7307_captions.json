@@ -1,0 +1,31 @@
+{
+  "video_id": "video7307",
+  "summary": "a group of people are gathered around a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a police car is parked in front of a crowd"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people are watching a car crash"
+    },
+    {
+      "start_time": 2,
+      "end_time": 6,
+      "caption": "a car is parked in the middle of a street"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a group of people are gathered around a car"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "caption": "a car is driving down the street in front of a crowd"
+    }
+  ]
+}

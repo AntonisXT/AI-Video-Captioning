@@ -1,0 +1,31 @@
+{
+  "video_id": "video6325",
+  "summary": "a car driving down a street in a city",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car driving down a street in the city"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a person riding a bike down a street"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a reflection of a building in the sky"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man is walking down the street in front of a building"
+    },
+    {
+      "start_time": 6,
+      "end_time": 13,
+      "caption": "a busy city street with cars and people"
+    }
+  ]
+}

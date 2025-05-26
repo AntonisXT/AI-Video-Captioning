@@ -1,0 +1,16 @@
+{
+  "video_id": "video6743",
+  "summary": "a soccer game is being played on a field",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a soccer player is running after the ball"
+    },
+    {
+      "start_time": 1,
+      "end_time": 17,
+      "caption": "a soccer game is being played on a field"
+    }
+  ]
+}

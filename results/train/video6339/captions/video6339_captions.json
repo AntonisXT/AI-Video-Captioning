@@ -1,0 +1,31 @@
+{
+  "video_id": "video6339",
+  "summary": "the film 's first installment",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "indiana"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "the text reads, ' the best thing is the best thing is the best thing '"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "the fifth element"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a movie poster for the film ' s first installment"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "the exterial"
+    }
+  ]
+}

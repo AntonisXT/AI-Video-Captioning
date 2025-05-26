@@ -1,0 +1,21 @@
+{
+  "video_id": "video7208",
+  "summary": "a woman is preparing food in the kitchen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man is making a salad with a knife"
+    },
+    {
+      "start_time": 3,
+      "end_time": 7,
+      "caption": "a table with plates of food and uts"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a woman is preparing food in the kitchen"
+    }
+  ]
+}

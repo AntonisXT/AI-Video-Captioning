@@ -1,0 +1,26 @@
+{
+  "video_id": "video6969",
+  "summary": "a woman is standing in front of a food stand",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people standing around a food stand"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a woman is looking at food in a refrigerator"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a woman is serving food at a street vendor"
+    },
+    {
+      "start_time": 9,
+      "end_time": 14,
+      "caption": "a woman is standing in front of a food stand"
+    }
+  ]
+}

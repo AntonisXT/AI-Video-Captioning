@@ -1,0 +1,26 @@
+{
+  "video_id": "video6395",
+  "summary": "a cartoon car driving through a city with trees and buildings in the background",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "caption": "a cartoon car driving down a road with trees and buildings in the background"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a cartoon character with a yellow hat and a blue background"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a black background with a black background and a white background"
+    },
+    {
+      "start_time": 10,
+      "end_time": 21,
+      "caption": "a cartoon car driving through a city"
+    }
+  ]
+}

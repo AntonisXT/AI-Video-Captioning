@@ -1,0 +1,21 @@
+{
+  "video_id": "video7414",
+  "summary": "a girl in a pink dress standing in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman in a pink dress standing in a room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman in a pink sweater sitting on a chair"
+    },
+    {
+      "start_time": 3,
+      "end_time": 21,
+      "caption": "a girl in a pink dress standing in a room"
+    }
+  ]
+}

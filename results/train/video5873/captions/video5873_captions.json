@@ -1,0 +1,31 @@
+{
+  "video_id": "video5873",
+  "summary": "a player in a game",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a player in a game"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "starcraft 2 - the end"
+    },
+    {
+      "start_time": 5,
+      "end_time": 13,
+      "caption": "a player in a game"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "caption": "starcraft 2 - the end"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a player in diablo ' s lair"
+    }
+  ]
+}

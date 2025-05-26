@@ -1,0 +1,31 @@
+{
+  "video_id": "video7470",
+  "summary": "a car with a gauge and a speedometer",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "the interior of a car with a seat belt"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man in a car with a cell"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a car with a dashboard and a steering"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "caption": "a car dashboard with a gauge and a speedometer"
+    },
+    {
+      "start_time": 11,
+      "end_time": 13,
+      "caption": "a car with a dashboard and a steering"
+    }
+  ]
+}

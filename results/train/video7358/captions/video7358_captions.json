@@ -1,0 +1,31 @@
+{
+  "video_id": "video7358",
+  "summary": "a basketball player is about to dun the ball",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a basketball game being played by a man"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a football game with a player"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "caption": "a video player is playing soccer on the screen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 14,
+      "caption": "a basketball game with a player in the middle school"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "caption": "a basketball player is about to dun the ball"
+    }
+  ]
+}

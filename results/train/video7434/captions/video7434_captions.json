@@ -1,0 +1,26 @@
+{
+  "video_id": "video7434",
+  "summary": "a group of people standing around a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person holding a bowl of food in their hand"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a group of people standing around a table"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a group of people standing around a table"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a man is sitting at a table with a laptop"
+    }
+  ]
+}

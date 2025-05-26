@@ -1,0 +1,26 @@
+{
+  "video_id": "video5699",
+  "summary": "a woman sits at a table with a newspaper on it and a computer screen with a picture of a person and a text that read",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a page with a picture of a person and a text that reads, ' having bear '"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a tablet computer with a newspaper on it"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a computer screen with a web page on it"
+    },
+    {
+      "start_time": 7,
+      "end_time": 14,
+      "caption": "a woman sitting at a table"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7105",
+  "summary": "a white car driving down a dirt road",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a man driving a car with a camera"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a car is parked on the side of the road"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a car with a door handle and a door handle"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a white car driving down a dirt road"
+    }
+  ]
+}

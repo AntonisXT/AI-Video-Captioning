@@ -1,0 +1,21 @@
+{
+  "video_id": "video5518",
+  "summary": "a person is preparing a salad on a cutting board",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "caption": "a person is preparing a salad on a cutting board"
+    },
+    {
+      "start_time": 6,
+      "end_time": 10,
+      "caption": "a person is preparing herbs in a blend"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a person is making a salad on a wooden board"
+    }
+  ]
+}

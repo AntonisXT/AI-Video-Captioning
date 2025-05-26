@@ -1,0 +1,26 @@
+{
+  "video_id": "video6900",
+  "summary": "a red line is shown in the middle of a white sheet",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a person is pressing the temperature on a therm"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a red line is shown in the middle of a white sheet"
+    },
+    {
+      "start_time": 5,
+      "end_time": 13,
+      "caption": "a person is pressing the button on a sewing machine"
+    },
+    {
+      "start_time": 14,
+      "end_time": 17,
+      "caption": "a red line is shown in the middle of a blue background"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video5718",
+  "summary": "a woman in a black dress sitting at a table",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a group of people sitting at a table"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a woman sitting at a table with a plate of food"
+    },
+    {
+      "start_time": 5,
+      "end_time": 15,
+      "caption": "a woman in a black dress sitting at a table"
+    }
+  ]
+}

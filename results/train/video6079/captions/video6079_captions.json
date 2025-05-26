@@ -1,0 +1,36 @@
+{
+  "video_id": "video6079",
+  "summary": "a girl is sitting on the floor with her doll",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a girl sitting next to a doll"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a woman is holding a doll in her arms"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a little girl is playing with her shoes"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a little girl is standing on the floor"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "caption": "a little girl is playing with her doll"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "caption": "a girl is sitting on the floor with her doll"
+    }
+  ]
+}

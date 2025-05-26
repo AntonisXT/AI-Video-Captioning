@@ -1,0 +1,31 @@
+{
+  "video_id": "video5513",
+  "summary": "a horse jumping over a jump in a field",
+  "scene_captions": [
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a horse jumping over a jump in a field"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a horse and rider are in the middle of a race"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a horse jumping over a jump in a field"
+    },
+    {
+      "start_time": 9,
+      "end_time": 15,
+      "caption": "a horse is running through a puddle"
+    },
+    {
+      "start_time": 15,
+      "end_time": 18,
+      "caption": "a horse jumping over a log in the woods"
+    }
+  ]
+}

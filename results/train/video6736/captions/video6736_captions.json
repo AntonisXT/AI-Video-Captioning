@@ -1,0 +1,26 @@
+{
+  "video_id": "video6736",
+  "summary": "a black car with a red ribbon around it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a bmw logo is seen on the front of a car"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a white car is parked inside of a building"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a cadillac car is shown in this und video"
+    },
+    {
+      "start_time": 6,
+      "end_time": 11,
+      "caption": "a black car with a red ribbon around it"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video_id": "video7070",
+  "summary": "a little girl in a pink shirt is sitting on a bed",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a little girl sitting on a bed with a stuffed animal"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a girl in a pink room with a pink wall"
+    },
+    {
+      "start_time": 2,
+      "end_time": 27,
+      "caption": "a girl in a pink shirt is sitting on a bed"
+    },
+    {
+      "start_time": 27,
+      "end_time": 28,
+      "caption": "a room with a pink wall and a white bed"
+    }
+  ]
+}

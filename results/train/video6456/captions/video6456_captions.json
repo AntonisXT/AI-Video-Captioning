@@ -1,0 +1,21 @@
+{
+  "video_id": "video6456",
+  "summary": "a man is playing table tennis in a room",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "caption": "a man standing on a table with a bottle of beer"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a man is playing table tennis in a room"
+    },
+    {
+      "start_time": 9,
+      "end_time": 14,
+      "caption": "a man is playing ping pong on a ping pong table"
+    }
+  ]
+}

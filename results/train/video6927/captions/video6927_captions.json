@@ -1,0 +1,31 @@
+{
+  "video_id": "video6927",
+  "summary": "a woman with pink makeup and a pink dress and a pink chair",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman with pink makeup and a pink lipstick"
+    },
+    {
+      "start_time": 1,
+      "end_time": 8,
+      "caption": "a woman with makeup on her face and a bed"
+    },
+    {
+      "start_time": 9,
+      "end_time": 14,
+      "caption": "a woman with a pink dress and a pink chair"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "caption": "a woman with a messy ponytail is in a room"
+    },
+    {
+      "start_time": 18,
+      "end_time": 21,
+      "caption": "a woman with pink makeup and a pink chair"
+    }
+  ]
+}

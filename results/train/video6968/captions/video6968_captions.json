@@ -1,0 +1,31 @@
+{
+  "video_id": "video6968",
+  "summary": "a woman is sitting on a couch and playing with a remote",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman with blue hair is standing in a living room"
+    },
+    {
+      "start_time": 1,
+      "end_time": 5,
+      "caption": "two women are standing in a kitchen and one is holding a cell"
+    },
+    {
+      "start_time": 6,
+      "end_time": 13,
+      "caption": "a woman is sitting on a couch and playing with a remote"
+    },
+    {
+      "start_time": 14,
+      "end_time": 22,
+      "caption": "a woman is sitting on a couch and playing with a remote"
+    },
+    {
+      "start_time": 22,
+      "end_time": 26,
+      "caption": "a woman sitting on a couch in a living room"
+    }
+  ]
+}

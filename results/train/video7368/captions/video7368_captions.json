@@ -1,0 +1,26 @@
+{
+  "video_id": "video7368",
+  "summary": "a black and white photo of a man in a black shirt and black pants",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "caption": "a man in a black shirt and black pants"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a black and white photo of a man in a suit"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "the cover of the album, ' the best of the best of the best '"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "caption": "the cover of the book, ' the art of the dead '"
+    }
+  ]
+}

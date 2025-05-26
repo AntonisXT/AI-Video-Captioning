@@ -1,0 +1,26 @@
+{
+  "video_id": "video6322",
+  "summary": "a man is laying a piece of wood on the floor",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a kitchen with a stove and a sink"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man is bending his feet on the floor"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "caption": "a man is laying a piece of wood on the floor"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a white dog is standing on the floor"
+    }
+  ]
+}

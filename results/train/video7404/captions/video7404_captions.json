@@ -1,0 +1,41 @@
+{
+  "video_id": "video7404",
+  "summary": "is seen in the back seat of a car",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man is seen in a video posted by the police"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a car"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man is seen in a video posted by the police"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a man is seen in the back seat of a car"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "the plane was seen in this image taken from the video"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is seen in the air as he walks through the debris"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is seen in the back seat of a car"
+    }
+  ]
+}

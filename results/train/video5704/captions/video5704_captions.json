@@ -1,0 +1,56 @@
+{
+  "video_id": "video5704",
+  "summary": "a man in a suit and tie is standing next to a woman",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie is standing next to a woman"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a group of people dancing in a street"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a suit is walking down the street"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a group of people standing in front of a building"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a group of people are walking down the street"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man sitting on a bench in a room"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "caption": "a man is standing on a window ledge"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "caption": "a man is seen on the stairs of a building"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a col of a man in a red shirt and a woman in a black dress"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a man in a suit is being held by two men"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "video6208",
+  "summary": "a woman with long hair and a microphone stands on a stage with a microphone",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a woman with long hair and a microphone"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a woman and a little girl are sitting on a chair"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a young girl is smiling and holding a microphone"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a young girl is standing in front of a purple background"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "caption": "a woman sitting in a chair with a laptop"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "caption": "a woman standing on a stage with a microphone"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "caption": "a young girl is smiling and looking at the camera"
+    }
+  ]
+}

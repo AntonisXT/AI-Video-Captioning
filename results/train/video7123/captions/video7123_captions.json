@@ -1,0 +1,31 @@
+{
+  "video_id": "video7123",
+  "summary": "a man is standing in front of a large machine",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man standing in a glass box with a green background"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man in a tie"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a large room with lots of boxes and a machine"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a factory with boxes on the convey"
+    },
+    {
+      "start_time": 7,
+      "end_time": 13,
+      "caption": "a man is standing in front of a large machine"
+    }
+  ]
+}

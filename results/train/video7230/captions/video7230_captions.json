@@ -1,0 +1,21 @@
+{
+  "video_id": "video7230",
+  "summary": "a woman is walking with a baby in a stroller",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a suit and tie standing in the dark"
+    },
+    {
+      "start_time": 1,
+      "end_time": 6,
+      "caption": "a baby in a stroller with a chalk board"
+    },
+    {
+      "start_time": 7,
+      "end_time": 29,
+      "caption": "a woman is walking with a baby in a stroller"
+    }
+  ]
+}

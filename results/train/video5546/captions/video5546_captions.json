@@ -1,0 +1,21 @@
+{
+  "video_id": "video5546",
+  "summary": "a man in a blue suit is standing near a pile of bananas",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a stuffed bear is playing with a bunch of bananas"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "caption": "a man in a blue suit is standing near a pile of bananas"
+    },
+    {
+      "start_time": 4,
+      "end_time": 22,
+      "caption": "a man in a suit and tie is holding a box"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "video_id": "video6019",
+  "summary": "a little girl sitting at a table with a plate of food",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "two girls are sitting at a table with their hands up"
+    },
+    {
+      "start_time": 4,
+      "end_time": 7,
+      "caption": "a boy sitting at a table with a plate of food"
+    },
+    {
+      "start_time": 8,
+      "end_time": 12,
+      "caption": "a little girl sitting at a table with a plate of food"
+    }
+  ]
+}

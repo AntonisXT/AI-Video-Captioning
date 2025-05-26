@@ -1,0 +1,31 @@
+{
+  "video_id": "video6435",
+  "summary": "a man is standing in front of a whiteboard with a whiteboard",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man standing in front of a blue car"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "a man is standing in front of a screen"
+    },
+    {
+      "start_time": 5,
+      "end_time": 17,
+      "caption": "food security and food security"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a man standing in front of a whiteboard with a whiteboard"
+    },
+    {
+      "start_time": 19,
+      "end_time": 21,
+      "caption": "a man standing in front of a screen"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video6448",
+  "summary": "a man is driving a car with a red hat and a red poppy on the dashboard",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a car is driving down the street"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man is driving a car with a cell phone"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "a man is driving a car with a red hat"
+    },
+    {
+      "start_time": 5,
+      "end_time": 8,
+      "caption": "a person in a car with a red poppy on the dashboard"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a car with a bunch of plastic bags inside"
+    }
+  ]
+}

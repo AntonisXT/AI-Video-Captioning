@@ -1,0 +1,21 @@
+{
+  "video_id": "video6386",
+  "summary": "a man playing ping po game on a television screen",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "caption": "a man playing table tennis in a large room"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "caption": "a man playing ping po game on a television screen"
+    },
+    {
+      "start_time": 9,
+      "end_time": 17,
+      "caption": "a woman playing ping po game on a table"
+    }
+  ]
+}

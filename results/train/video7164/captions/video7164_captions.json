@@ -1,0 +1,31 @@
+{
+  "video_id": "video7164",
+  "summary": "a man and woman in armor with a sword standing next to each other",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in armor is dancing on stage"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man and woman in armor with a sword"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man and woman dancing on stage"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "a man and woman in armor standing next to each other people"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "caption": "a man with a bird on his head"
+    }
+  ]
+}

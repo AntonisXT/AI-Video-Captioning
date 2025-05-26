@@ -1,0 +1,36 @@
+{
+  "video_id": "video7239",
+  "summary": "a newspaper with a newspaper headline on it",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a newspaper with a newspaper headline on it"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "article"
+    },
+    {
+      "start_time": 2,
+      "end_time": 5,
+      "caption": "the article in the newspaper, which is about the death of a woman"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "the article in the newspaper, which is about the story of the first world war"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "caption": "the newspaper from the new york times, july 29, 1933"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "the daily from new york, new york, new york, new york, new york, new york"
+    }
+  ]
+}

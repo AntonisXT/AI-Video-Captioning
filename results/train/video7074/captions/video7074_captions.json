@@ -1,0 +1,26 @@
+{
+  "video_id": "video7074",
+  "summary": "a group of people standing around a table with balloons",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "caption": "a group of people standing around a table with balloons"
+    },
+    {
+      "start_time": 7,
+      "end_time": 18,
+      "caption": "a group of people playing with a ball"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "caption": "a large room with many balloons and people"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "caption": "a group of people playing with a ball"
+    }
+  ]
+}

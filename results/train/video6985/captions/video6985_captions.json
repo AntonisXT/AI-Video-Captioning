@@ -1,0 +1,36 @@
+{
+  "video_id": "video6985",
+  "summary": "a man and a woman are sitting at a table with flowers",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "caption": "a kitchen counter with a kettle and tea kettle"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "caption": "a man holding a tray with drinks on it"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "caption": "a woman in a green suit holding a tray with a tray of food"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "caption": "a man in a green suit"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "caption": "a man and a woman are standing in front of a flower display"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "caption": "a man and woman sitting at a table with flowers"
+    }
+  ]
+}

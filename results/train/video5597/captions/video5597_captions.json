@@ -1,0 +1,21 @@
+{
+  "video_id": "video5597",
+  "summary": "a machine that is working on some metal parts",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a white shirt is looking up at a window"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "caption": "two men working on a large metal structure"
+    },
+    {
+      "start_time": 5,
+      "end_time": 9,
+      "caption": "a machine that is working on some metal parts"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "video_id": "video7253",
+  "summary": "a man in a white shirt walks through a room with a chair",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a wheelchair"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "caption": "a man in a black jacket"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "caption": "a man in a room with a blue curtain"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "caption": "a man walking through a room with a chair"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "caption": "a man in a white shirt"
+    }
+  ]
+}

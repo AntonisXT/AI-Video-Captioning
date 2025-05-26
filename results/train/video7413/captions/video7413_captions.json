@@ -1,0 +1,26 @@
+{
+  "video_id": "video7413",
+  "summary": "a man in a green shirt talking to another man",
+  "scene_captions": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "caption": "a man in a green shirt talking to another man"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "caption": "a man in a room with a desk and a computer"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "caption": "a man and woman are talking in a kitchen"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "caption": "a man in a green shirt talking to another man"
+    }
+  ]
+}
