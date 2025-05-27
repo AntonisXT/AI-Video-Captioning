@@ -1,41 +1,20 @@
-# =============================================================================
-# PYTHON STANDARD LIBRARY IMPORTS - ΠΡΩΤΑ
-# =============================================================================
 import os
 import sys
 import asyncio
-
-# =============================================================================
-# PYTORCH FIXES - ΠΡΙΝ ΑΠΟ STREAMLIT
-# =============================================================================
 import torch
 torch.classes.__path__ = []
 
-# Environment variables για αποφυγή warnings και conflicts
+# Environment variables to avoid warnings και conflicts
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["PYTHONWARNINGS"] = "ignore::FutureWarning"
-os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"  # Fix για OpenMP conflicts
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"  # Fix OpenMP conflicts
 
-# Fix για event loop issues
+# Fix event loop issues
 if sys.platform.startswith('win'):
     asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
 
-# =============================================================================
-# STREAMLIT IMPORT ΚΑΙ PAGE CONFIG - ΑΜΕΣΩΣ ΜΕΤΑ
-# =============================================================================
 import streamlit as st
-
-# PAGE CONFIG ΠΡΕΠΕΙ ΝΑ ΕΙΝΑΙ Η ΠΡΩΤΗ STREAMLIT ΕΝΤΟΛΗ
-st.set_page_config(
-    page_title="AI Video Captioning",
-    page_icon="🎬",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
-
-# =============================================================================
-# ΥΠΟΛΟΙΠΑ IMPORTS
-# =============================================================================
+import os
 import json
 import time
 import tempfile
@@ -43,7 +22,7 @@ import shutil
 from datetime import datetime
 import pandas as pd
 
-# Silent error handling για optional components
+# Silent error handling
 try:
     from streamlit_theme import st_theme
     HAS_THEME_COMPONENT = True
@@ -52,6 +31,7 @@ except ImportError:
 
 # Import existing modules
 from main import VideoCaptioning
+
 # Configuration constants
 APP_TITLE = "AI Video Captioning System"
 APP_DESCRIPTION = "Advanced descriptive scene captioning and intelligent video content summarization"
@@ -86,6 +66,15 @@ class DemoVideoFile:
         """Read file content as buffer"""
         with open(self.file_path, 'rb') as f:
             return f.read()
+
+def setup_page_config():
+    """Configure Streamlit page settings"""
+    st.set_page_config(
+        page_title="AI Video Captioning",
+        page_icon="🎬",
+        layout="wide",
+        initial_sidebar_state="expanded"
+    )
 
 def add_custom_css():
     """Add custom CSS styling with st-theme component support and professional sidebar"""
@@ -1326,6 +1315,7 @@ def main_content_area():
 
 def main():
     """Main application function"""
+    setup_page_config()
     add_custom_css()
     initialize_session_state()
     
