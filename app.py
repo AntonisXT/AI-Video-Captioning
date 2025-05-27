@@ -1,20 +1,3 @@
-# Memory management
-import psutil
-import gc
-
-def check_memory():
-    """Monitor memory usage"""
-    memory = psutil.virtual_memory()
-    st.sidebar.write(f"Memory Usage: {memory.percent}%")
-    
-    if memory.percent > 80:
-        st.warning("High memory usage detected. Consider restarting the app.")
-        gc.collect()
-
-# Κάλεσε σε κάθε page load
-check_memory()
-
-
 import os
 import sys
 import asyncio
@@ -45,6 +28,23 @@ try:
     HAS_THEME_COMPONENT = True
 except ImportError:
     HAS_THEME_COMPONENT = False
+
+# Memory management
+import psutil
+import gc
+
+def check_memory():
+    """Monitor memory usage"""
+    memory = psutil.virtual_memory()
+    st.sidebar.write(f"Memory Usage: {memory.percent}%")
+    
+    if memory.percent > 80:
+        st.warning("High memory usage detected. Consider restarting the app.")
+        gc.collect()
+
+# Κάλεσε σε κάθε page load
+check_memory()
+
 
 # Import existing modules
 from main import VideoCaptioning
