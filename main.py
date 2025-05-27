@@ -1,3 +1,36 @@
+import os
+import time
+import random
+
+# Retry configuration για Hugging Face downloads
+os.environ["HF_HUB_DISABLE_PROGRESS_BARS"] = "1"
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+def safe_model_loading():
+    """Safe model loading με retry logic"""
+    max_retries = 3
+    base_delay = 5
+    
+    for attempt in range(max_retries):
+        try:
+            from sentence_transformers import SentenceTransformer
+            model = SentenceTransformer('all-MiniLM-L6-v2')
+            return model
+        except Exception as e:
+            if "429" in str(e) and attempt < max_retries - 1:
+                delay = base_delay * (2 ** attempt) + random.uniform(1, 3)
+                print(f"Rate limit encountered, waiting {delay:.1f}s...")
+                time.sleep(delay)
+                continue
+            else:
+                # Fallback σε άλλο model
+                try:
+                    print("Trying alternative model...")
+                    return SentenceTransformer('paraphrase-MiniLM-L6-v2')
+                except:
+                    raise e
+    return None
+
 # main.py
 import os
 import re
