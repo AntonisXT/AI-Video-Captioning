@@ -1,13 +1,13 @@
 ---
-title: AI Video Captioning
+title: AI Video Captioning System
 emoji: 🎬
 colorFrom: blue
 colorTo: purple
 sdk: docker
-app_port: 8501
+app_port: 7860
 pinned: false
-license: mit
 ---
+
 
 # AI Video Captioning
 
