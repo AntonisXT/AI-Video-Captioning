@@ -2,7 +2,7 @@ FROM python:3.9-slim
 
 WORKDIR /code
 
-# Install git and other system dependencies BEFORE pip install
+# Install git and other system dependencies
 RUN apt-get update && apt-get install -y \
     git \
     curl \
@@ -11,8 +11,11 @@ RUN apt-get update && apt-get install -y \
 # Copy requirements first for better caching
 COPY requirements.txt /code/requirements.txt
 
-# Install Python dependencies (now git is available)
+# Install dependencies first
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
+
+# Install CLIP separately after git is available
+RUN pip install git+https://github.com/openai/CLIP.git
 
 # Copy all application files
 COPY . /code
