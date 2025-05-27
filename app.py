@@ -1,5 +1,23 @@
+
 import os
 import sys
+# Docker-specific configurations
+if os.path.exists('/.dockerenv'):
+    # Running in Docker
+    os.environ["MPLBACKEND"] = "Agg"  # For matplotlib
+    os.environ["DISPLAY"] = ":0"
+
+# Ensure all directories exist
+def ensure_directories():
+    dirs = [
+        "data/videos/app_demo",
+        "results", 
+        "temp",
+        "models"  # Αν χρειάζεσαι για cached models
+    ]
+    for dir_path in dirs:
+        os.makedirs(dir_path, exist_ok=True)
+        
 import asyncio
 import torch
 torch.classes.__path__ = []
