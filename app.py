@@ -21,7 +21,6 @@ import tempfile
 import shutil
 from datetime import datetime
 import pandas as pd
-import gc
 
 # Silent error handling
 try:
@@ -32,41 +31,6 @@ except ImportError:
 
 # Import existing modules
 from main import VideoCaptioning
-
-# =============================================================================
-# MEMORY OPTIMIZATION FUNCTIONS
-# =============================================================================
-
-def clear_memory():
-    """Καθαρισμός μνήμης για βελτιστοποίηση"""
-    gc.collect()
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
-
-@st.cache_resource
-def load_video_captioning():
-    """Optimized loading για το VideoCaptioning model"""
-    clear_memory()
-    model = VideoCaptioning(folder_name="temp", generate_subtitles=True)
-    return model
-
-def process_video_with_cleanup(video_file, settings):
-    """Process video με automatic memory cleanup"""
-    try:
-        # Get the model from session state or load it
-        if 'video_captioning_model' not in st.session_state:
-            st.session_state.video_captioning_model = load_video_captioning()
-        
-        # Process video
-        result = process_single_video_internal(video_file, settings, st.session_state.video_captioning_model)
-        
-        # Καθαρισμός μνήμης μετά την επεξεργασία
-        clear_memory()
-        
-        return result
-    except Exception as e:
-        clear_memory()  # Καθαρισμός ακόμα και σε error
-        raise e
 
 # Configuration constants
 APP_TITLE = "AI Video Captioning System"
@@ -805,8 +769,8 @@ def save_temp_file(uploaded_file, temp_dir):
         f.write(uploaded_file.getbuffer())
     return temp_path
 
-def process_single_video_internal(video_file, settings, video_captioner):
-    """Internal video processing function with optimized memory management"""
+def process_single_video(video_file, settings):
+    """Process a single video and store results in session state"""
     
     progress_container = st.container()
     
@@ -825,8 +789,13 @@ def process_single_video_internal(video_file, settings, video_captioner):
             session_id = datetime.now().strftime("%Y%m%d_%H%M%S")
             session_folder = f"session_{session_id}"
             
-            status_text.text("🤖 Models ready...")
+            status_text.text("🤖 Initializing AI models...")
             progress_bar.progress(20)
+            
+            video_captioner = VideoCaptioning(
+                folder_name=session_folder,
+                generate_subtitles=settings['generate_subtitles']
+            )
             
             status_text.text("🎬 Analyzing video structure...")
             progress_bar.progress(30)
@@ -843,17 +812,7 @@ def process_single_video_internal(video_file, settings, video_captioner):
             status_text.text("📝 Generating captions...")
             progress_bar.progress(60)
             
-            # Create new instance for this specific processing
-            current_captioner = VideoCaptioning(
-                folder_name=session_folder,
-                generate_subtitles=settings['generate_subtitles']
-            )
-            
-            current_captioner.process_video(final_video_path)
-            
-            # Clear memory after processing
-            del current_captioner
-            clear_memory()
+            video_captioner.process_video(final_video_path)
             
             if settings['generate_subtitles']:
                 status_text.text("🎬 Creating subtitled video...")
@@ -908,25 +867,15 @@ def process_single_video_internal(video_file, settings, video_captioner):
         except Exception as e:
             st.error(f"❌ Error during processing: {str(e)}")
             st.session_state.processing_status[video_file.name] = 'error' 
-            clear_memory()  # Ensure cleanup on error
             return False
         
         finally:
             if os.path.exists(temp_path):
                 os.remove(temp_path)
 
-def process_single_video(video_file, settings):
-    """Process a single video and store results in session state with memory optimization"""
-    
-    # Optimized model loading
-    if 'video_captioning_model' not in st.session_state:
-        with st.spinner("Loading AI models..."):
-            st.session_state.video_captioning_model = load_video_captioning()
-    
-    return process_video_with_cleanup(video_file, settings)
 
 def process_all_videos(settings):
-    """Process all uploaded or demo videos sequentially with memory optimization"""
+    """Process all uploaded or demo videos sequentially"""
     st.session_state.batch_processing = True
     total_videos = len(st.session_state.uploaded_videos)
     
@@ -939,11 +888,6 @@ def process_all_videos(settings):
         overall_status = st.empty()
         
         video_progress_container = st.container()
-        
-        # Load model once for batch processing
-        if 'video_captioning_model' not in st.session_state:
-            overall_status.text("🤖 Loading AI models...")
-            st.session_state.video_captioning_model = load_video_captioning()
         
         for idx, video_file in enumerate(st.session_state.uploaded_videos):
             
@@ -965,9 +909,6 @@ def process_all_videos(settings):
                     st.session_state.processing_status[video_file.name] = 'completed'
             
             overall_progress.progress((idx + 1) / total_videos)
-            
-            # Clear memory between videos
-            clear_memory()
         
         overall_status.text(f"✅ Batch processing completed! Processed {total_videos} videos.")
         time.sleep(2)
@@ -977,7 +918,7 @@ def process_all_videos(settings):
     st.session_state.current_video_index = 0
 
 def process_single_video_batch(video_file, video_index, settings):
-    """Process a single video in batch mode (simplified progress display) with memory optimization"""
+    """Process a single video in batch mode (simplified progress display)"""
     try:
         session_id = datetime.now().strftime("%Y%m%d_%H%M%S") + f"_{video_index}"
         session_folder = f"session_{session_id}"
@@ -998,10 +939,6 @@ def process_single_video_batch(video_file, video_index, settings):
         shutil.move(temp_path, final_video_path)
         
         video_captioner.process_video(final_video_path)
-        
-        # Clear memory after processing
-        del video_captioner
-        clear_memory()
         
         results_path = os.path.join("results", session_folder, video_name_no_ext, "captions", f"{video_name_no_ext}_captions.json")
         
@@ -1038,9 +975,7 @@ def process_single_video_batch(video_file, video_index, settings):
             
     except Exception as e:
         st.error(f"❌ Error processing {video_file.name}: {str(e)}")
-        clear_memory()  # Ensure cleanup on error
         return False
-
 def load_all_demo_videos():
     """Load all demo videos into session state"""
     demo_videos = get_demo_videos()
@@ -1122,6 +1057,7 @@ def display_video_navigation():
             st.rerun()
     
     st.markdown('</div>', unsafe_allow_html=True)
+
 
 def display_current_video():
     """Display the current video and its information"""
@@ -1382,3 +1318,20 @@ def main():
     setup_page_config()
     add_custom_css()
     initialize_session_state()
+    
+    # Header
+    st.markdown(f'<h1 class="main-header">🎬 {APP_TITLE}</h1>', unsafe_allow_html=True)
+    st.markdown(f"<p style='text-align: center; font-size: 1.1rem; color: #666;'>{APP_DESCRIPTION}</p>", unsafe_allow_html=True)
+    
+    # Main content
+    main_content_area()
+    
+    # Footer
+    st.markdown("---")
+    st.markdown(
+        "<p style='text-align: center; color: #666;'>Built with ❤️ using Streamlit, PyTorch, and Transformers</p>",
+        unsafe_allow_html=True
+    )
+
+if __name__ == "__main__":
+    main()
