@@ -29,8 +29,21 @@ try:
 except ImportError:
     HAS_THEME_COMPONENT = False
 
-# Import existing modules
-from main import VideoCaptioning
+# Memory management
+import psutil
+import gc
+
+def check_memory():
+    """Monitor memory usage"""
+    memory = psutil.virtual_memory()
+    st.sidebar.write(f"Memory Usage: {memory.percent}%")
+    
+    if memory.percent > 80:
+        st.warning("High memory usage detected. Consider restarting the app.")
+        gc.collect()
+
+# Κάλεσε σε κάθε page load
+check_memory()
 
 # Configuration constants
 APP_TITLE = "AI Video Captioning System"
@@ -44,6 +57,9 @@ os.makedirs("data/videos", exist_ok=True)
 os.makedirs("results", exist_ok=True)
 os.makedirs("temp", exist_ok=True)
 os.makedirs(DEMO_VIDEOS_PATH, exist_ok=True)
+
+# Import existing modules
+from main import VideoCaptioning
 
 def get_demo_videos():
     """Get list of demo videos from the demo folder"""
