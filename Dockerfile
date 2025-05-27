@@ -2,10 +2,16 @@ FROM python:3.9-slim
 
 WORKDIR /code
 
+# Install git and other system dependencies
+RUN apt-get update && apt-get install -y \
+    git \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
 # Copy requirements first for better caching
 COPY requirements.txt /code/requirements.txt
 
-# Install dependencies
+# Install Python dependencies
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 
 # Copy all application files
