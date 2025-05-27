@@ -1,23 +1,5 @@
-
 import os
 import sys
-# Docker-specific configurations
-if os.path.exists('/.dockerenv'):
-    # Running in Docker
-    os.environ["MPLBACKEND"] = "Agg"  # For matplotlib
-    os.environ["DISPLAY"] = ":0"
-
-# Ensure all directories exist
-def ensure_directories():
-    dirs = [
-        "data/videos/app_demo",
-        "results", 
-        "temp",
-        "models"  # Αν χρειάζεσαι για cached models
-    ]
-    for dir_path in dirs:
-        os.makedirs(dir_path, exist_ok=True)
-        
 import asyncio
 import torch
 torch.classes.__path__ = []
@@ -1333,7 +1315,6 @@ def main_content_area():
 
 def main():
     """Main application function"""
-    ensure_directories()
     setup_page_config()
     add_custom_css()
     initialize_session_state()
