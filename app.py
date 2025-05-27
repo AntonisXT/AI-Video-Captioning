@@ -87,15 +87,6 @@ class DemoVideoFile:
         with open(self.file_path, 'rb') as f:
             return f.read()
 
-def setup_page_config():
-    """Configure Streamlit page settings"""
-    st.set_page_config(
-        page_title="AI Video Captioning",
-        page_icon="🎬",
-        layout="wide",
-        initial_sidebar_state="expanded"
-    )
-
 def add_custom_css():
     """Add custom CSS styling with st-theme component support and professional sidebar"""
     # Detect theme for text color
@@ -1335,7 +1326,6 @@ def main_content_area():
 
 def main():
     """Main application function"""
-    setup_page_config()
     add_custom_css()
     initialize_session_state()
     
