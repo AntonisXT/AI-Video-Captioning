@@ -1333,6 +1333,7 @@ def main_content_area():
 
 def main():
     """Main application function"""
+    ensure_directories()
     setup_page_config()
     add_custom_css()
     initialize_session_state()
